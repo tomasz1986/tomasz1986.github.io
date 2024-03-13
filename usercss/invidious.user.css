@@ -1,0 +1,20 @@
+/* ==UserStyle==
+@name      invidious.css
+@namespace https://twilczynski.com/usercss
+@author    tomasz86 <twilczynski@naver.com> (https://twilczynski.com)
+@version   1.0.0
+@updateURL https://twilczynski.com/usercss/invidious.user.css
+==/UserStyle== */
+
+@-moz-document domain("yewtu.be") {
+	.vjs-has-started .vjs-control-bar {
+		opacity: inherit !important;
+	}
+	.vjs-volume-panel {
+		width: 10em !important;
+	}
+	.vjs-volume-control {
+		opacity: inherit !important;
+		width: 5em !important;
+	}
+}

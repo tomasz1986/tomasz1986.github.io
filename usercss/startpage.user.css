@@ -1,0 +1,21 @@
+/* ==UserStyle==
+@name      startpage.css
+@namespace https://twilczynski.com/usercss
+@author    tomasz86 <twilczynski@naver.com> (https://twilczynski.com)
+@version   1.0.1
+@updateURL https://twilczynski.com/usercss/startpage.user.css
+==/UserStyle== */
+
+@-moz-document domain("startpage.com") {
+	body {
+		background-color: rgb(255,255,255) !important;
+	}
+
+	p {
+		color: rgb(0,0,0) !important;
+	}
+
+	.w-gl__anonymous-view-url {
+		display: none !important;
+	}
+}

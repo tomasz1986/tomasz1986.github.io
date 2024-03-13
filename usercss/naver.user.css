@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name      naver.css
+@namespace https://twilczynski.com/usercss
+@author    tomasz86 <twilczynski@naver.com> (https://twilczynski.com)
+@version   1.0.3
+@updateURL https://twilczynski.com/usercss/naver.user.css
+==/UserStyle== */
+
+@-moz-document domain("naver.com") {
+	*,
+	:before,
+	:after	{
+		font-family: Dotum, sans-serif !important;
+	}
+}
