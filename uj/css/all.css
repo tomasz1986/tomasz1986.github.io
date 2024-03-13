@@ -109,7 +109,13 @@ del.correct-maxpoints {
 .h2 {
 	font-size: 1.5em;
 	font-weight: bolder;
-	margin:.75em 0 0;
+	margin: .75em 0 0;
+}
+
+.h3 {
+	font-size: 1.17em;
+	font-weight: bolder;
+	margin: .83em 0 0;
 }
 
 .infolist {
