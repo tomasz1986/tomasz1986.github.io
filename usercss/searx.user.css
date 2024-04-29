@@ -1,0 +1,33 @@
+/* ==UserStyle==
+@name      searx.css
+@namespace https://twilczynski.com/usercss
+@author    tomasz86 <twilczynski@naver.com> (https://twilczynski.com)
+@version   1.0.5
+@updateURL https://twilczynski.com/usercss/searx.user.css
+==/UserStyle== */
+
+@-moz-document domain("searx.info") {
+	body,
+	p {
+		color: rgb(0,0,0) !important;
+	}
+
+	.external-link,
+	.result-content {
+		font-size: 14px !important;
+	}
+    
+	.result-content {
+		margin-bottom: 10px !important;
+	}
+	
+	.result_header {
+		font-size: 20px !important;
+		margin-top: 5px !important;
+		margin-bottom: 10px !important
+	}
+
+	.result_header a {
+		color: #337ab7 !important;
+	}
+}
