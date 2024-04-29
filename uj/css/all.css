@@ -106,6 +106,10 @@ del.correct-maxpoints {
 	max-width: 40em;
 }
 
+.hanja > li + li {
+	padding-top: 1em;
+}
+
 .h2 {
 	font-size: 1.5em;
 	font-weight: bolder;
