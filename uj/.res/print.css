@@ -21,6 +21,7 @@ body {
 
 tr,
 .exam-question { page-break-inside: avoid; }
+/* .exam-question > p { margin-bottom: 2.12em; } */
 
 /* Multimedia
    ========================================================================== */
