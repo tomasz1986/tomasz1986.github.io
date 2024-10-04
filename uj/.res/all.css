@@ -55,6 +55,7 @@ ul {
 	margin-left: 1.25em;
 	padding-left: 0;
 }
+.column-list { column-count: 4; }
 
 img {
 	border: 1px solid;
@@ -222,14 +223,12 @@ th.schedule-exam { font-weight: normal; }
 .hanja abbr { text-decoration: none; }
 .hanja td { padding: .75em 1.5em; }
 
-/* .hanja-core { background-color: rgb(1, 137, 193); } */
-/* .hanja-related-1 { background-color: rgb(1, 152, 213); } */
-/* .hanja-related-2 { background-color: rgb(1, 166, 233); } */
-/* .hanja-related-3 { background-color: rgb(2, 181, 253); } */
-/* .hanja-related-4 { background-color: rgb(22, 187, 254); } */
-/* .hanja-related-5 { background-color: rgb(42, 192, 254); } */
-/* .hanja-related-6 { background-color: rgb(62, 198, 254); } */
-/* .hanja-related-7 { background-color: rgb(83, 204, 254); } */
-/* .hanja-related-8 { background-color: rgb(103, 210, 254); } */
-/* .hanja-related-9 { background-color: rgb(123, 216, 254); } */
-/* .hanja-related-10 { background-color: rgb(144, 222, 254); } */
+.time-table {
+	line-height: 1;
+	font-size: 87.5%;
+	table-layout: fixed;
+}
+.time-table th {
+	background-color: rgb(238,238,238);
+	width: 20%;
+}
