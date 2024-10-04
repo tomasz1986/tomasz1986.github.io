@@ -2,7 +2,7 @@
 @name      accessible.css
 @namespace https://twilczynski.com/usercss
 @author    tomasz86 <twilczynski@mailbox.org> (https://twilczynski.com)
-@version   1.0.4
+@version   1.0.5
 @updateURL https://twilczynski.com/usercss/accessible.user.css
 ==/UserStyle== */
 
@@ -12,7 +12,7 @@
 	animation-delay: 0s !important;
 	animation-timing-function: step-start !important;
 	font-feature-settings: normal !important;
-	text-shadow: transparent 0 0 0, rgba(0,0,0,.5) 0 0 0 !important;
+	text-shadow: transparent 0 0 0, rgba(0,0,0,1) 0 0 0 !important;
 	transition-delay: 0s !important;
 	transition-timing-function: step-start !important;
 }
