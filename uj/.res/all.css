@@ -114,7 +114,7 @@ del.correct-maxpoints {
 	text-decoration-color: green;
 }
 
-.exam-question { max-width: 40em; }
+/* .exam-question { max-width: 40em; } */
 .exam-question-multianswer {
 	list-style-type: none;
 	margin-left: 0;
