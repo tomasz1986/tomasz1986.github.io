@@ -1,0 +1,53 @@
+/* ==UserStyle==
+@name      accessible.css
+@namespace https://twilczynski.com/usercss
+@author    tomasz86 <twilczynski@naver.com> (https://twilczynski.com)
+@version   1.0.2
+@updateURL https://twilczynski.com/usercss/accessible.user.css
+==/UserStyle== */
+
+*,
+:before,
+:after {
+	animation-delay: 0s !important;
+	animation-timing-function: step-start !important;
+	text-shadow: transparent 0 0 0, rgba(0,0,0,.5) 0 0 0 !important;
+	transition-delay: 0s !important;
+	transition-timing-function: step-start !important;
+}
+
+a:link:not([href^="javascript:"]):not([href$="#"]),
+a:visited:not([href^="javascript:"]):not([href$="#"]) {
+	text-decoration: underline !important;
+}
+
+a:link:not([href^="javascript:"]):not([href$="#"]) *,
+a:visited:not([href^="javascript:"]):not([href$="#"]) * {
+	text-decoration: inherit !important;
+}
+
+abbr[title] {
+	cursor: help !important;
+	border-bottom: none !important;
+	text-decoration: underline !important;
+	text-decoration-style: dotted !important;
+}
+
+a abbr[title] {
+	cursor: inherit !important;
+	border-bottom: inherit !important;
+	text-decoration: inherit !important;
+}
+
+button,
+input[type="button"],
+input[type="checkbox"],
+input[type="file"],
+input[type="image"],
+input[type="radio"],
+input[type="reset"],
+input[type="submit"],
+label,
+summary {
+	cursor: pointer !important;
+}

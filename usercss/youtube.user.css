@@ -1,0 +1,31 @@
+/* ==UserStyle==
+@name      youtube.css
+@namespace https://twilczynski.com/usercss
+@author    tomasz86 <twilczynski@mailbox.org> (https://twilczynski.com)
+@version   1.0.4
+@updateURL https://twilczynski.com/usercss/youtube.user.css
+==/UserStyle== */
+
+@-moz-document domain("youtube.com"), domain("youtube-nocookie.com") {
+	/* Hide annoying elements. */
+	#video-preview-container, /* preview on hover */
+	.html5-endscreen,
+	.ytp-ce-element-show, /* cards inside video */
+	.ytp-miniplayer-button,
+	.ytp-next-button,
+	.ytp-pause-overlay-container, /* recommended videos bar */
+	.ytp-prev-button,
+	.ytp-share-button,
+	.ytp-watch-later-button { display: none !important; }
+
+	/* Keep progress bar always visible. */
+	/* .html5-video-player.playing-mode:not(:hover) .ytp-progress-bar-container { bottom: 0 !important; } */
+	/* .html5-video-player.playing-mode:not(:hover) .ytp-chrome-controls { display: none !important; } */
+	/* .ytp-chrome-bottom { opacity: 1 !important; } */
+
+	/* Always show volume bar. */
+	.ytp-volume-panel {
+		margin-right: 3px !important;
+		width: 52px !important;
+	}
+}

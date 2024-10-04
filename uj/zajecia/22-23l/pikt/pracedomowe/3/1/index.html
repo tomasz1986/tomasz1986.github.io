@@ -1,0 +1,52 @@
+<!DOCTYPE html><html lang="pl"><head><meta charset="utf-8">
+	<meta name="robots" content="none">
+	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1">
+
+	<title>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</title>
+	<meta name="author" content="Tomasz Wilczyński">
+
+	<base href="https://twilczynski.com/">
+	<link rel="icon" href="data:,">
+	<link rel="stylesheet" href="uj/css/all.css">
+	<link rel="stylesheet" media="print" href="uj/css/print.css">
+</head><body class="home">
+
+<h1>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</h1>
+
+<h2>Praca domowa 3 (<abbr>PowerShell</abbr>) - Zuzanna Glamowska</h2>
+
+<div>
+	<a href="uj/zajecia/22-23l/pikt/pracedomowe/3/1/pliki/Praca domowa 3 (PowerShell) - Zuzanna Glamowska.zip">Praca domowa 3 (PowerShell) - Zuzanna Glamowska.zip</a>
+</div>
+
+<pre class="code"><code># Poprawki:
+# - zmienne zapisane za pomocą PascalCase
+# - jeden skrypt dla wszystkich plików HTML zamiast trzech oddzielnych
+# - Where-Object zamiast aliasu "where"
+# - usunięty zbędny parametr AllMatches
+# - dodana pauza na końcu
+
+$PlikiXml = Get-ChildItem -Path "*.html"
+$PlikiXml
+
+$PlikiXml | forEach-Object {
+	$PlikXml = Get-Content -Path $_
+	$PlikXml
+
+	$Treść = Select-String -InputObject $PlikXml -Pattern "&gt;(.*?)&lt;"
+	$Treść
+
+	$CleanText = $PlikXml -replace "&lt;[^&lt;&gt;]+&gt;",""
+	$CleanText
+
+	$Sorted = $CleanText | Sort-Object -Property Length
+	$Sorted
+
+	$Trimed = $Sorted.Trim() | Where-Object { $_ -ne "" }
+	$Trimed
+
+	$Trimed | Out-File -FilePath ($_.BaseName + ".txt")
+}
+
+Pause</code></pre>
+</body></html>

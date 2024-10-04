@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="pl"><head><meta charset="utf-8">
+	<meta name="robots" content="none">
+	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1">
+
+	<title>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</title>
+	<meta name="author" content="Tomasz Wilczyński">
+
+	<base href="https://twilczynski.com/">
+	<link rel="icon" href="data:,">
+	<link rel="stylesheet" href="uj/css/all.css">
+	<link rel="stylesheet" media="print" href="uj/css/print.css">
+</head><body class="home">
+
+<h1>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</h1>
+
+<h2>Pobieranie artykułów z Naver News</h2>
+
+<p>Poniższy skrypt automatycznie pobiera wszystkie artykuły na dany temat z Naver News. Zgodnie z komentarzem przy samym kodzie należy najpierw wpisać i wyszukiwać na stronie Naver News interesujące nas słowa kluczowe, a następnie skopiować i wkleić do zmiennej w skrypcie wygenerowany przez stronę Navera pełny adres wyszukiwania. Jeżeli zdecydujemy się zawęzić kryteria wyszukiwania, np. do konkretnego przedziału dat, to te informacje również zostaną przez Navera dodane do automatycznie wygenerowanego adresu. Zawężenie kryteriów wyszukiwania do konkretnego przedziału czasowego jest bardzo polecane, ponieważ w przeciwnym razie może okazać się, że skrypt będzie miał do pobrania nawet dziesiątki tysięcy artykułów na dany temat, przez co nigdy nie będzie w stanie ukończyć swojego działania.</p>
+
+<div>
+	<a href="uj/zajecia/22-23l/pikt/zajecia/6/ps1/Pobieranie%20artykułów%20z%20Naver%20News.ps1">Pobieranie artykułów z Naver News.ps1</a>
+</div>
+
+<pre class="code"><code># Adres do poniższej zmiennej kopiujemy i wklejamy bezpośrednio z Navera. Dzięki temu możemy w wyszukiwarce ustawić, np. konkretny przedział dat, a następnie skopiować taki adres z automatycznie dodanymi parametrami, wkleić go tutaj, a skrypt wtedy użyje go do pobierania artykułów.
+$AdresWyszukiwania = ""
+
+# Używamy pętli do {} while (), tak aby skrypt automatycznie przechodził do kolejnych stron wyszukiwania i zbierał z nich adresy do artykułów. Skrypt sam zatrzyma się w momencie, gdy dojdzie do ostatniej strony wyszukiwania.
+do {
+	# Zapisujemy do zmiennej kod strony wyszukiwania (bez potrzeby tworzenia pliku HTML na dysku).
+	$StronaWyszukiwania = Invoke-WebRequest -Uri $AdresWyszukiwania | Select-Object -ExpandProperty Content
+
+	# Wyszukujemy w kodzie strony i zapisujemy do zmiennej wszystkie adresy głównych artykułów znajdujących się na Naver News. Użycie "+=" przy zmiennej powoduje, że do listy dodawane są kolejne adresy bez nadpisywania poprzednich.
+	$AdresyArtykułów += $StronaWyszukiwania | Select-String -Pattern "&lt;a href[^&gt;]*class=`"info`"[^&gt;]*&gt;" -AllMatches | ForEach-Object {
+		$_.Matches.Value -replace "^.*?`"","" -replace "`".*$","" | Select-String -Pattern "\.news\.naver\.com"
+	}
+
+	# Wyszukujemy w kodzie adresu do kolejnej strony wyszukiwania i zapisujemy go do zmiennej.
+	$AdresWyszukiwania = $StronaWyszukiwania | Select-String -Pattern "&lt;a href[^&gt;]*class=`"btn_next`"[^&gt;]*&gt;" | ForEach-Object {
+		"https://search.naver.com/search.naver" + ($_.Matches.Value -replace "^.*?`"","" -replace "`".*$","")
+	}
+} while ($AdresWyszukiwania)
+
+# Po zebraniu wszystkich adresów pobieramy i zapisujemy je w formie plików HTML.
+$AdresyArtykułów | ForEach-Object {
+	Invoke-WebRequest -Uri $_ -OutFile ("Artykuł" + $AdresyArtykułów.indexOf($_) + ".html")
+}
+
+Pause</code></pre>
+
+</body></html>

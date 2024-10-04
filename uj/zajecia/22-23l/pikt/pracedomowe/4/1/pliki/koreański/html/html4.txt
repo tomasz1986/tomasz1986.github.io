@@ -1,0 +1,2708 @@
+<html lang="ko" class="ko">
+    <head itemscope>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport"  content="width=1280">
+        <meta name="robots" content="max-image-preview:large, max-video-preview:0">
+        <meta itemprop="inLanguage" content="ko_KR" />
+		<meta name="google-site-verification" content="icDz6oxWxwp9SSur9h4ISnZKbIi12T4RkAD2UtEI_cw" />
+		<meta name="naver-site-verification" content="a41d14500de6ed44d227cd993106a7e8a1f2a081"/>
+        		<meta property="fb:app_id" content="" /> 
+		<meta property="og:title" content="이정근 경기마약퇴치본부장 &quot;합법적 마약류, 안전장치 필요&quot;[인터뷰] " />
+		<meta property="og:type" content="website" /> 
+		<meta property="og:image" content="http://image.newsis.com/2023/05/07/NISI20230507_0001259430_web.jpg" /> 
+		<meta property="og:site_name" content="newsis" /> 
+		<meta property="og:url" content="https://www.newsis.com/view/?id=NISX20230504_0002290966" />
+		<meta property="article:section" content="수도권" />
+		<meta property="article:section2" content="경기남부" />
+		<meta property="article:published_time" content="2023-05-07T10:12:09+09:00" />
+		<meta property="og:description" content="
+[수원=뉴시스] 이병희 기자 = &quot;흔히 마약이라고 하면 불법 마약류를 얘기하지만, 실제 마약류 사범은 불법 마약류보다 합법적 의료용 마약류 사범이 더 많아요" />
+		<meta name="author" content="NEWSIS" />
+		<meta name="writer" content="뉴시스" /> 
+		
+		<link rel="canonical" href="https://www.newsis.com/view/?id=NISX20230504_0002290966">
+        <link rel="alternate" media="only screen and ( max-width: 640px)" href="https://mobile.newsis.com/view.html?ar_id=NISX20230504_0002290966" />
+        <link rel="amphtml" id="MetaAmp" href="https://mobile.newsis.com/view_amp.html?ar_id=NISX20230504_0002290966">
+		
+		<!--twit-->
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:url" content="https://www.newsis.com/view/?id=NISX20230504_0002290966" />
+		<meta name="twitter:title" content="이정근 경기마약퇴치본부장 &quot;합법적 마약류, 안전장치 필요&quot;[인터뷰] " />
+		<meta name="twitter:description" content="
+[수원=뉴시스] 이병희 기자 = &quot;흔히 마약이라고 하면 불법 마약류를 얘기하지만, 실제 마약류 사범은 불법 마약류보다 합법적 의료용 마약류 사범이 더 많아요" />
+		<meta name="twitter:image" content="http://image.newsis.com/2023/05/07/NISI20230507_0001259430_web.jpg" /> 
+		<meta name="twitter:site" content="" />  
+		<meta name="twitter:creator" content="" />
+		<meta property="dable:item_id" content="NISX20230504_0002290966">
+		<meta property="aicon:item_id" content="NISX20230504_0002290966">
+		<meta name="newsis_hidden1" content="1" />
+		<meta name="newsis_hidden2" content="" />
+		<meta name="newsis_hidden3" content="1" />
+		
+		<title> 이정근 경기마약퇴치본부장 &quot;합법적 마약류, 안전장치 필요&quot;[인터뷰]  :: 공감언론 뉴시스통신사 :: </title>
+		
+		
+        <link rel="shortcut icon" href="//image.newsis.com/images/newsis.ico" />
+        <link rel="stylesheet" href="//image.newsis.com/n_www/css/font.css">
+		<link rel="stylesheet" type="text/css" href="/assets/css/jquery-ui.css" />
+		<link rel="stylesheet" href="//image.newsis.com/n_www/css/section.css?rnd=202303221446">
+		<link rel="stylesheet" type="text/css" href="/assets/css/crop.css" />
+        <script src="//image.newsis.com/n_www/js/jquery-3.6.0.min.js"></script>
+        <script src="//image.newsis.com/n_www/js/slick.min.js"></script>
+        <script src="//image.newsis.com/n_www/js/pubcommon.js?pd=202302031027"></script>
+		<script src="/assets/js/kakao.story.min.js"></script>
+		<script src="/assets/js/kakao.min.js"></script>
+		<script src="/assets/js/jquery-ui.min.js"></script>
+		<script src="/assets/js/js.js?pb=202206171327"></script>
+		<script src="/assets/js/ad.js?pb=202107141120"></script>
+		<script src="/assets/js/crop.js?pb=202109011315"></script>
+	<script src='//cdn.targetpush.co.kr/js/targetpushad.js' charset='utf-8'></script>
+	<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+	<script type="text/javascript" src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/newsis_pc/news@x96"></script>
+	
+    
+    <!--[if IE 8 ]> <body id="newsis" class="ie8"> <![endif]-->
+    <!--[if IE 9 ]> <body id="newsis" class="ie9"> <![endif]-->
+    <!--[if !IE]>-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-44835165-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-44835165-1');
+	  
+
+	var view_flag	=	'1';
+	
+	function ch_src(index){
+		var iframes = $('iframe.lazy_iframe');
+		iframes.eq(index).attr('src', iframes.eq(index).attr('data-src'));
+		iframes.eq(index).removeAttr('data-src');
+	}
+	function all_src(){
+		var iframes = $('iframe.lazy_iframe');
+		iframes.attr('data-src', function(index){
+			iframes.eq(index).attr('src', iframes.eq(index).attr('data-src'));
+			iframes.eq(index).removeAttr('data-src');
+		});
+	}
+	function lazy_exec(){
+		var iframes = $('iframe.lazy_iframe');
+		iframes.attr('data-src', function(index) {
+			if(index <= 2){
+				setTimeout("ch_src("+index+")", 500 + ( index * 200 ) );
+			}else{
+				setTimeout("ch_src("+index+")", 500 * index);
+			}
+		});
+	}
+
+	if(view_flag == '1'){
+		window.googletag = window.googletag || {cmd: []};
+		googletag.cmd.push(function() {
+			googletag.defineSlot('/23600383/newsis_300250', [300, 250], 'div-gpt-ad-1588815174692-0').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+
+		$(document).ready(function(){
+			(function(d,a,b,l,e,_) {
+			d[b]=d[b]||function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+			e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+			_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+			})(window,document,'dable','script');
+			dable('setService', 'newsis.com');
+		
+			var agent = navigator.userAgent.toLowerCase();
+			if ( (navigator.appName == 'Netscape' && agent.indexOf('trident') != -1) || (agent.indexOf("msie") != -1)) {
+				// ie일 경우
+				$(window).on("load", function(){
+					setTimeout(lazy_exec, 1000);
+				});
+			}else{
+				// ie가 아닐 경우
+				all_src();
+			}
+		});
+	}
+	
+</script>
+</head><body id="newsis"><!--<![endif]-->
+        <div id="wrap"><!-- start tag ~ h_inc_corner_world.php --> 
+            <div class="skipNav">
+
+            </div>
+            <div id="header"><!-- header start tag ~ h_inc_sokbo.php --> 
+                <div class="w_header_01">
+                    <div class="inner">
+                        <div class="left_ad">
+                            <a href="#" target="_blank">
+								<span class="banner1"></span>
+                            </a>
+                        </div>
+                        <div class="right_ad">
+                            <a href="#" target="_blank">
+								<span class="banner2"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="w_header_02">	<!-- header start tag ~ h_inc_sokbo.php --> 
+                    <div class="inner">
+                        <h1 class="logo">
+                            <a href="/">
+                                <img src="//image.newsis.com/n_www/images/logo2022.png" alt="">
+                            </a>
+                        </h1>
+                        <div class="weather">
+                            <!-- 일단은 이미지를 사용 -->
+		<div class="thum">
+			<a href="https://www.weather.go.kr/w/weather/forecast/short-term.do" target="_blank"><img src="//image.newsis.com/new_www/homepage/wi_icon/dr_03.png" alt=""></a>
+		</div>
+		
+		<div class="txt">
+			<p class="date">2023.05.07 (일)</p>
+			<a href="https://www.weather.go.kr/w/weather/forecast/short-term.do" target="_blank" ><p class="temp"><strong>서울 0℃</strong></p></a>
+		</div>							
+                        </div>
+                        <div class="topMenu">
+                            <ul>
+                                <li><a href="https://tubeguide.co.kr/" target="_blank" class="k_price">튜브가이드</a></li>
+                                <li><a href="http://kartprice.net/" target="_blank" class="k_price">K-Artprice</a></li>
+                                <li><a href="http://prime.newsis.com/" target="_blank">프라임뉴스</a></li>
+                                <li><a href="https://weekly.newsis.com/" target="_blank">위클리뉴시스</a></li>
+                            </ul>
+                        </div>
+                        <div class="socialArea">
+                            <ul>
+                                <li><a href="https://www.facebook.com/newsis.news?sk=wall" target="_blank"><img src="//image.newsis.com/n_www/images/ico_face.png" alt="페이스북"></a></li>
+                                <li><a href="https://twitter.com/newsis" target="_blank"><img src="//image.newsis.com/n_www/images/ico_twi.png" alt="트위터"></a></li>
+                                <li><a href="https://www.youtube.com/channel/UCAKGKvxlNWuWn1wGXZnr01Q" target="_blank"><img src="//image.newsis.com/n_www/images/ico_utu.png" alt="유튜브"></a></li>
+                                <li><a href="https://newsstand.naver.com/?pcode=003&list=ct1" target="_blank"><img src="//image.newsis.com/n_www/images/ico_naver.png" alt="네이버"></a></li>
+                                <li><a href="/RSS/" target="_blank"><img src="//image.newsis.com/n_www/images/ico_wifi.png" alt="RSS"></a></li>
+                                <li><a href="https://mobile.newsis.com" target="_blank"><img src="//image.newsis.com/n_www/images/ico_phone.png" alt="모바일앱스토어"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+<script>
+var number = -1; 
+var timeOut; 
+var callFunction = adrolling();
+var callFunction2 = adrand ();
+var tempar;
+
+function adrolling() { 
+	var js_ad_array		=	[{"cmp_id":"AD_20161107_000331","img_id":"129486","img_type":"jpg","loc_url":"http:\/\/www.hyosung.com\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-01-28 00:00:00","img_name":"hyosung_26060_170629.jpg","old_new_flag":"Y","img_path":"AD_20161107_000331_1498703756.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000331_1498703756.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000319","img_id":"129495","img_type":"jpg","loc_url":"http:\/\/bit.ly\/3ZN0gUX","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2016-11-12 00:00:00","img_name":"\uc0bc\uc131\uc804\uc790_230411.jpg","old_new_flag":"Y","img_path":"AD_20161107_000319_1681165188.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000319_1681165188.jpg\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20161129_000396","img_id":"130667","img_type":"jpg","loc_url":"http:\/\/www.sktelecom.com","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-04-30 00:00:00","img_name":"skt_27060_161129.jpg","old_new_flag":"Y","img_path":"AD_20161129_000396_1493194553.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/29\/AD_20161129_000396_1493194553.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000322","img_id":"133484","img_type":"jpg","loc_url":"http:\/\/www.hanafn.com\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-04-30 00:00:00","img_name":"\ud558\ub098\uae08\uc735\uadf8\ub8f9_230228.jpg","old_new_flag":"Y","img_path":"AD_20161107_000322_1677567254.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000322_1677567254.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000325","img_id":"143588","img_type":"gif","loc_url":"https:\/\/product.kt.com\/wDic\/productDetail.do?ItemCode=1163&cmpid=shop_wire_221004-cpc-event_genietv-nbs_ktcom_event-%EC%A7%80%EB%8B%88%ED%8B%B0%EB%B9%84","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-03-21 00:00:00","img_name":"KT_230103.gif","old_new_flag":"Y","img_path":"AD_20161107_000325_1672697992.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000325_1672697992.gif\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20230329_002138","img_id":"144068","img_type":"jpg","loc_url":"https:\/\/www.doosanenerbility.com\/kr","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-05-24 00:00:00","img_name":"\ub450\uc0b0\uc5d0\ub108\ube4c\ub9ac\ud2f0_230329.jpg","old_new_flag":"Y","img_path":"AD_20230329_002138_1680044814.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2023\/03\/29\/AD_20230329_002138_1680044814.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20220627_001988","img_id":"144175","img_type":"jpg","loc_url":"https:\/\/www.seoul.go.kr\/news\/news_notice.do#view\/383621","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-05-04 00:00:00","img_name":"\uc11c\uc6b8\uc2dc\uccad(\uc870\uacbd\uacfc)_230407.jpg","old_new_flag":"Y","img_path":"AD_20220627_001988_1680820374.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2022\/06\/27\/AD_20220627_001988_1680820374.jpg\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000333","img_id":"144316","img_type":"jpg","loc_url":"http:\/\/www.lh.or.kr\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-05-31 00:00:00","img_name":"\ud55c\uad6d\ud1a0\uc9c0\uc8fc\ud0dd\uacf5\uc0ac_230427.jpg","old_new_flag":"Y","img_path":"AD_20161107_000333_1682493413.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000333_1682493413.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"}]; 
+	var js_ad_array2 	=	[{"cmp_id":"AD_20161107_000319","img_id":"129495","img_type":"jpg","loc_url":"http:\/\/bit.ly\/3ZN0gUX","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2016-11-12 00:00:00","img_name":"\uc0bc\uc131\uc804\uc790_230411.jpg","old_new_flag":"Y","img_path":"AD_20161107_000319_1681165188.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000319_1681165188.jpg\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20101029_28581","img_id":"132506","img_type":"jpg","loc_url":"http:\/\/www.sk.co.kr\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-03-31 00:00:00","img_name":"SK_180427.jpg","old_new_flag":"Y","img_path":"AD_20101029_28581_1524809228.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2010\/10\/29\/AD_20101029_28581_1524809228.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20170317_000579","img_id":"135772","img_type":"jpg","loc_url":"https:\/\/securities.miraeasset.com\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-05-26 00:00:00","img_name":"\ubbf8\ub798\uc5d0\uc14b\uc99d\uad8c_221216.jpg","old_new_flag":"Y","img_path":"AD_20170317_000579_1671171036.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2017\/03\/17\/AD_20170317_000579_1671171036.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20110124_32661","img_id":"136092","img_type":"gif","loc_url":"https:\/\/bit.ly\/42aHnge","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-05-27 00:00:00","img_name":"LG_27060_230427.gif","old_new_flag":"Y","img_path":"AD_20110124_32661_1682629942.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2011\/01\/24\/AD_20110124_32661_1682629942.gif\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20170727_000777","img_id":"141896","img_type":"jpg","loc_url":"https:\/\/campaign.naver.com\/collect_v2\/?pcode=pressnetwork_fullcare&event_id=SME&target=https%253A%252F%252Fcampaign.naver.com%252Fsmefullcare%252Fonline%252F","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2022-06-30 00:00:00","img_name":"\ub124\uc774\ubc84_220607-1.jpg","old_new_flag":"Y","img_path":"AD_20170727_000777_1654582442.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2017\/07\/27\/AD_20170727_000777_1654582442.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20230323_002137","img_id":"144015","img_type":"jpg","loc_url":"https:\/\/www.2030busanexporequest.com ","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-06-04 00:00:00","img_name":"SK(\ubd80\uc0b0\uc5d1\uc2a4\ud3ec)_230327.jpg","old_new_flag":"Y","img_path":"AD_20230323_002137_1679538689.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2023\/03\/23\/AD_20230323_002137_1679538689.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"}]; 
+	
+	js_ad_array 	=	shuffle(js_ad_array)
+	js_ad_array2 	=	shuffle(js_ad_array2)
+	number++; 
+	
+	if ( number == js_ad_array.length ) number = 0; 
+	var newSrc = "<a href='"+ js_ad_array [ number ]['loc_url'] +"'   target='"+ js_ad_array [ number ]['open_target'] +"' >"+ base_img_url(js_ad_array [ number ]['file_link']) + "</a>"; 
+	$(".banner1").html(newSrc);
+
+	if ( number == js_ad_array2.length ) number = 0; 
+	var newSrc2 = "<a href='"+ js_ad_array2 [ number ]['loc_url'] +"'   target='"+ js_ad_array2 [ number ]['open_target'] +"' >"+ base_img_url(js_ad_array2 [ number ]['file_link']) + "</a>"; 
+
+	$(".banner2").html(newSrc2);
+	timeOut = setTimeout ( adrolling , 20000 ); 
+}
+
+function adrand() {
+  var js_ad_array = [{"cmp_id":"AD_20161107_000331","img_id":"129486","img_type":"jpg","loc_url":"http:\/\/www.hyosung.com\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-01-28 00:00:00","img_name":"hyosung_26060_170629.jpg","old_new_flag":"Y","img_path":"AD_20161107_000331_1498703756.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000331_1498703756.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000319","img_id":"129495","img_type":"jpg","loc_url":"http:\/\/bit.ly\/3ZN0gUX","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2016-11-12 00:00:00","img_name":"\uc0bc\uc131\uc804\uc790_230411.jpg","old_new_flag":"Y","img_path":"AD_20161107_000319_1681165188.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000319_1681165188.jpg\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20161129_000396","img_id":"130667","img_type":"jpg","loc_url":"http:\/\/www.sktelecom.com","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-04-30 00:00:00","img_name":"skt_27060_161129.jpg","old_new_flag":"Y","img_path":"AD_20161129_000396_1493194553.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/29\/AD_20161129_000396_1493194553.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000322","img_id":"133484","img_type":"jpg","loc_url":"http:\/\/www.hanafn.com\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-04-30 00:00:00","img_name":"\ud558\ub098\uae08\uc735\uadf8\ub8f9_230228.jpg","old_new_flag":"Y","img_path":"AD_20161107_000322_1677567254.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000322_1677567254.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000325","img_id":"143588","img_type":"gif","loc_url":"https:\/\/product.kt.com\/wDic\/productDetail.do?ItemCode=1163&cmpid=shop_wire_221004-cpc-event_genietv-nbs_ktcom_event-%EC%A7%80%EB%8B%88%ED%8B%B0%EB%B9%84","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-03-21 00:00:00","img_name":"KT_230103.gif","old_new_flag":"Y","img_path":"AD_20161107_000325_1672697992.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000325_1672697992.gif\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20230329_002138","img_id":"144068","img_type":"jpg","loc_url":"https:\/\/www.doosanenerbility.com\/kr","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-05-24 00:00:00","img_name":"\ub450\uc0b0\uc5d0\ub108\ube4c\ub9ac\ud2f0_230329.jpg","old_new_flag":"Y","img_path":"AD_20230329_002138_1680044814.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2023\/03\/29\/AD_20230329_002138_1680044814.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20220627_001988","img_id":"144175","img_type":"jpg","loc_url":"https:\/\/www.seoul.go.kr\/news\/news_notice.do#view\/383621","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-05-04 00:00:00","img_name":"\uc11c\uc6b8\uc2dc\uccad(\uc870\uacbd\uacfc)_230407.jpg","old_new_flag":"Y","img_path":"AD_20220627_001988_1680820374.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2022\/06\/27\/AD_20220627_001988_1680820374.jpg\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000333","img_id":"144316","img_type":"jpg","loc_url":"http:\/\/www.lh.or.kr\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2023-05-31 00:00:00","img_name":"\ud55c\uad6d\ud1a0\uc9c0\uc8fc\ud0dd\uacf5\uc0ac_230427.jpg","old_new_flag":"Y","img_path":"AD_20161107_000333_1682493413.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/h_www\/advertise\/2016\/11\/07\/AD_20161107_000333_1682493413.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"}]; 
+	js_ad_array = shuffle(js_ad_array);
+
+	if(js_ad_array.length == 0){
+		return false;
+	}
+	var newSrc = "<a href='"+ js_ad_array [ number ]['loc_url'] +"'   target='"+ js_ad_array [ number ]['open_target'] +"' >"+  base_img_url(js_ad_array [ number ]['file_link']) + "</a>"; 
+	
+}
+
+if((getParam("cid") == "10800" || getParam("cid") == "14000") && getParam("scid")){
+	var wholarr = { "10801": "서울", "10818": "세종", "10811": "부산", "10810" : "대구/경북", "10802" : "인천", "10809" : "광주/전남", "10807" : "대전/충남", "10814" : "울산", "10804" : "경기동부", "10803" : "경기남부", "10817" : "경기북부", "10805" : "강원", "10806" : "충북", "10808" : "전북", "10812" : "경남", "10813" : "제주" }; 
+	if(wholarr[getParam("scid")] != undefined){
+		$(".logo a").after('<span>' + wholarr[getParam("scid")] + '</span>');
+	}
+}
+
+if(window.location.pathname.indexOf( '/msi' ) >= 0 ){
+	$('.logo a').after('<a href="/msi"><strong id="logo_title" style="cursor: pointer; font-size: 29px; letter-spacing: -2.5px;" >빅데이터 MSI</strong></a>');
+}
+
+
+</script>		<div class="nav">
+			<div class="inner">
+				<button>
+					<img src="//image.newsis.com/n_www/images/ico_search.png" alt="검색하기 버튼">
+				</button>
+				<ul class="gnb">
+					<li id="top_realnews"><a href="/realnews">실시간</a></li>
+					<li id="top_10300" ><a href="/pol?cid=10300">정치</a></li>
+					<li id="top_10100" ><a href="/int?cid=10100">국제</a></li>
+					<li id="top_10400" ><a href="/eco?cid=10400">경제</a></li>
+					<li id="top_15000" ><a href="/bank?cid=15000">금융</a></li>
+					<li id="top_13000" ><a href="/inds?cid=13000">산업</a></li>
+					<li id="top_13100" ><a href="/hel?cid=13100">IT·바이오</a></li>
+					<li id="top_10200" ><a href="/soci?cid=10200">사회</a></li>
+					<li id="top_14000"  class="on" ><a href="/met?cid=14000">수도권</a></li>
+					<li id="top_10800" ><a href="/whol?cid=10800">지방</a></li>
+					<li id="top_10700" ><a href="/cul?cid=10700">문화</a></li>
+					<li id="top_10500" ><a href="/spo?cid=10500">스포츠</a></li>
+					<li id="top_10600" ><a href="/ent?cid=10600">연예</a></li>
+					<li id="top_16000" ><a href="/squ?cid=16000">광장</a></li>
+					<li id="top_pho" ><a href="/pho?cid=pho">포토</a></li>
+					<li id="top_19000" ><a href="/video?cid=19000">뉴시스 TV</a></li>
+				</ul>
+			</div>
+		</div>
+<script>
+	
+var getParam = function(key){
+var _parammap = {};
+	document.location.search.replace(/\??(?:([^=]+)=([^&]*)&?)/g, function () {
+		function decode(s) {
+			return decodeURIComponent(s.split("+").join(" "));
+		}
+		_parammap[decode(arguments[1])] = decode(arguments[2]);
+	});
+        return _parammap[key];
+    };
+var urlpath	 = $(location).attr('pathname');
+var page_up_catg = getParam("cid");
+var page_catg 	= getParam("scid");
+if(!page_up_catg){
+	page_up_catg	=	(window.location.pathname).replace(/\//g,"");
+}
+if(getParam("cid") != ''){
+	$("#top_" + page_up_catg).addClass("on");
+}
+
+</script>
+		
+		
+		<div class="quickArea">
+			<div class="inner">
+				<!-- 속보 뉴스의 갯수는 임의로 보여주기식의 5개 적용.  -->
+				<div class="quickNews">
+					<ul class="newsList">
+						<li id="pushdate_id_0" pushdate = "20230507215828"><a href="/view/?id=NISX20230507_0002293480"><span id="sokbo_span_0"></span> [속보]尹-기시다 부부,  2시간 25분 '관저 만찬'  마쳐</a></li>
+						<li id="pushdate_id_1" pushdate = "20230507201245"><a href="/view/?id=NISX20230507_0002293431"><span id="sokbo_span_1"></span> 프로농구 인삼공사, 2년 만에 챔피언 탈환…통산 4번째 우승</a></li>
+						<li id="pushdate_id_2" pushdate = "20230507194730"><a href="/view/?id=NISX20230507_0002293434"><span id="sokbo_span_2"></span> [속보]尹대통령 부부 주최 기시다 총리 부부 환영 만찬 시작 </a></li>
+						<li id="pushdate_id_3" pushdate = "20230507184046"><a href="/view/?id=NISX20230507_0002293413"><span id="sokbo_span_3"></span> [속보] 尹-기시다 공동기자회견 종료…곧 관저로 이동 만찬</a></li>
+						<li id="pushdate_id_4" pushdate = "20230507183932"><a href="/view/?id=NISX20230507_0002293412"><span id="sokbo_span_4"></span> [속보]尹 "강제징용 3자 변제 해법, 법적 완결성 지닌 유일한 해결책"</a></li>
+						<li id="pushdate_id_5" pushdate = "20230507183911"><a href="/view/?id=NISX20230507_0002293411"><span id="sokbo_span_5"></span> [속보]尹 "강제징용 3자 변제 해법, 韓정부 방침 바뀌지 않는다"</a></li>
+						<li id="pushdate_id_6" pushdate = "20230507183645"><a href="/view/?id=NISX20230507_0002293409"><span id="sokbo_span_6"></span> [속보]기시다 "후쿠시마 오염수 韓국민 불안에 답하는 노력 지속"</a></li>
+						<li id="pushdate_id_7" pushdate = "20230507182928"><a href="/view/?id=NISX20230507_0002293405"><span id="sokbo_span_7"></span> [속보]기시다 "역사인식 관련 역대내각 입장 계승중...앞으로도 흔들림 없어"</a></li>
+						<li id="pushdate_id_8" pushdate = "20230507182734"><a href="/view/?id=NISX20230507_0002293404"><span id="sokbo_span_8"></span> [속보]尹 "워싱턴 선언, 궤도 오르면 언제든 일본과 협력"</a></li>
+						<li id="pushdate_id_9" pushdate = "20230507181313"><a href="/view/?id=NISX20230507_0002293383"><span id="sokbo_span_9"></span> [속보]尹 "한일 정상, 한국인 히로시마 원폭 피해자 위령비 함께 참배"</a></li>
+						<li id="pushdate_id_10" pushdate = "20230507181048"><a href="/view/?id=NISX20230507_0002293381"><span id="sokbo_span_10"></span> [속보]尹 "후쿠시마 오염수 한국 전문가 현장 사찰단 파견 합의"</a></li>
+						<li id="pushdate_id_11" pushdate = "20230507180921"><a href="/view/?id=NISX20230507_0002293380"><span id="sokbo_span_11"></span> [속보]尹 "기시다와 한미일 3자정상회담 개최 등 3국 소통강화 합의"</a></li>
+						<li id="pushdate_id_12" pushdate = "20230507180854"><a href="/view/?id=NISX20230507_0002293379"><span id="sokbo_span_12"></span> [속보]尹 "韓 반도체업체-日 소부장 기업, 견고한 공급망 구축 공조 강화"</a></li>
+						<li id="pushdate_id_13" pushdate = "20230507180616"><a href="/view/?id=NISX20230507_0002293376"><span id="sokbo_span_13"></span> [속보]尹 "기시다, 화이트리스트 원상회복 절차 이행 확인"</a></li>
+						<li id="pushdate_id_14" pushdate = "20230507180407"><a href="/view/?id=NISX20230507_0002293375"><span id="sokbo_span_14"></span> [속보]尹 "기시다와, 안보·경제·글로벌 아젠다 대응 긴밀 협의 합의"</a></li>
+						<li id="pushdate_id_15" pushdate = "20230507180236"><a href="/view/?id=NISX20230507_0002293374"><span id="sokbo_span_15"></span> 기시다, 용산 대통령실 방명록에 "따뜻한 환대 감사드린다"</a></li>
+						<li id="pushdate_id_16" pushdate = "20230507174427"><a href="/view/?id=NISX20230507_0002293310"><span id="sokbo_span_16"></span> [속보]尹-기시다, 확대회담 63분 만에 종료...곧 공동기자회견</a></li>
+						<li id="pushdate_id_17" pushdate = "20230507164510"><a href="/view/?id=NISX20230507_0002293330"><span id="sokbo_span_17"></span> [속보]尹 "과거사 정리 없인 미래 없다는 인식서 벗어나야"</a></li>
+						<li id="pushdate_id_18" pushdate = "20230507164502"><a href="/view/?id=NISX20230507_0002293331"><span id="sokbo_span_18"></span> [속보]尹 "한일 더 끈끈한 연대로 공동이익 추구 국제사회와 협력"</a></li>
+						<li id="pushdate_id_19" pushdate = "20230507164423"><a href="/view/?id=NISX20230507_0002293327"><span id="sokbo_span_19"></span>  [속보]尹 "한일관계 뚜렷이 개선...더 좋은 시절 만들겠단 책임감"</a></li>
+					</ul>
+					<a href="/squ/sokbo/?cid=16000" class="btnMore"><img src="https://image.newsis.com/n_www/images/btn_more01.png" alt="속보뉴스 더보기"></a>
+				</div>
+				<a href="/journalism" class="btnChannel" style="display:none;">
+					<img src="https://image.newsis.com/n_www/images/btn_channel.png" alt="기자채널 바로가기">
+				</a>
+			</div>
+		</div>
+	</div><!-- h_inc_header_ad.php .w_header_02 end tag--> 
+</div><!-- h_inc_header_ad.php #header end tag--> 
+
+
+
+<script>
+var timeCheck;
+sokobo_list();
+function sokobo_list(){
+	var sokbolist_cnt = '20';
+	var time_flag, time_split;
+	
+	var time_red_flag 	=	0; 
+	var time			=	$('.newsList li').eq(0).attr('pushdate');
+	
+		
+		for(var so_i = 0; so_i < sokbolist_cnt; so_i ++){
+			var time_red_flag =	0;
+			var time = $("#pushdate_id_"+so_i).attr('pushdate');
+			
+				$("#sokbo_span_"+so_i).html(transferTime(time) + " &gt;");
+				
+				time_flag = transferTime(time);
+				time_split = time_flag.split("분");  
+					
+				if (transferTime(time).indexOf('분 전') != -1) {
+					if(time_split[0] <= 5){		//10수정
+						time_red_flag	=	1;
+					}
+				}else if (transferTime(time).indexOf('초 전') != -1) {
+					time_red_flag	=1;
+				}
+				if(time_red_flag == 1){
+					$("#sokbo_span_"+so_i).html('<strong>' + transferTime(time) + " &gt;" + '</strong>');
+				
+				}else{
+					$("#sokbo_span_"+so_i).html(transferTime(time) + " &gt;");
+				}
+		}
+	timeCheck = setTimeout ( sokobo_list , 20000 );
+}
+</script>	<!-- 돋보기 - 검색 영역 -->
+	<div class="gnbSearch">
+		<div class="inner">
+			<div class="searchBox_w">
+				<form name="search_form_main" id="search_form_main" method="post">
+					<input type="text" placeholder="검색어를 입력하세요." id="search_inputbox" name="search_val" onkeypress="enterkey('main')">
+					<!-- <button type="button" class="btn"><img src="//image.newsis.com/n_www/images/arrow_down.png" alt="검색리스트 보기"></button> -->
+					<button type="button" class="btnSearch" onclick="search(event, 'main');"><img src="//image.newsis.com/n_www/images/btn_search.png" alt="검색하기"></button>
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- 돋보기 - 검색 영역 -->
+	
+	<div class="fixHeader">
+		<div class="inner">
+			<h1 class="fixLogo"><!--/n_www/images/logo2.png-->
+				<a href="/"><img src="//image.newsis.com/n_www/images/logo2.png" alt="newsis"></a>
+			</h1>
+			<ul class="socialArea2">
+				<li><a href="https://www.facebook.com/newsis.news?sk=wall" target="_blank"><img src="//image.newsis.com/n_www/images/ico_face.png" alt="페이스북"></a></li>
+				<li><a href="https://twitter.com/newsis" target="_blank"><img src="//image.newsis.com/n_www/images/ico_twi.png" alt="트위터"></a></li>
+				<li><a href="https://www.youtube.com/channel/UCAKGKvxlNWuWn1wGXZnr01Q" target="_blank"><img src="//image.newsis.com/n_www/images/ico_utu.png" alt="유튜브"></a></li>
+			</ul>
+			<form name="search_form" id="search_form" method="post">
+				<div class="searchBox_s">
+					<input type="text" placeholder="뉴스검색" name="search_val" onkeypress="enterkey()">
+					<button type="button" class="btn"><img src="//image.newsis.com/n_www/images/arrow_down.png" alt="검색리스트 보기"  style="display:none;"></button>
+					<button type="button" class="btnSearch" onclick="search(event);"><img src="//image.newsis.com/n_www/images/ico_search2.png" alt="검색하기"></button>
+				</div>
+			</form>
+		</div>
+	</div>
+<script>
+function enterkey(args){ 
+	if (window.event.keyCode == 13) {
+		if(args){
+			search(event,args);
+		}else{
+			search(event);
+		}
+	}
+}
+</script>
+<div id="container" class="subView">
+	<div class="subMenu">
+		<div class="inner">
+		
+			<p class="tit"><a href="/met?cid=14000">수도권</a></p>
+			<ul>
+				<li ><a href="/met/list?cid=14000&scid=14001">수도권최신</a></li>
+				<li ><a href="/met/list?cid=14000&scid=10801">서울</a></li>
+				<li ><a href="/met/list?cid=14000&scid=10802">인천·경기서부</a></li>
+				<li ><a href="/met/list?cid=14000&scid=10804">경기동부</a></li>
+				<li class="on"><a href="/met/list?cid=14000&scid=10803">경기남부</a></li>
+				<li ><a href="/met/list?cid=14000&scid=10817">경기북부</a></li>
+			</ul>
+			
+		</div>
+	</div>
+<input type='hidden' name='NewsTitle' id='NewsTitle' value='이정근 경기마약퇴치본부장 "합법적 마약류, 안전장치 필요"[인터뷰] '>
+<input type='hidden' name='NewsUrl' id='NewsUrl' value='https://www.newsis.com/view/?id=NISX20230504_0002290966'>
+<input type='hidden' name='NewsImage' id='NewsImage' value='http://image.newsis.com/2023/05/07/NISI20230507_0001259430_web.jpg'>
+<!--20220923-->
+<div id="detail1-1" style="height:100px;  margin: 0 auto; width: 970px; margin-top:10px;">
+	<script type="text/javascript" src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/newsis_pc/news@Top1"></script>
+</div><!-- 광고 배너 - 좌측 20220923 -->
+<div style="position:absolute; top: 584px; left:48%; margin-left:-792px; width:120px; height:600px;">
+	<script type="text/javascript" src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/newsis_pc/news@x01"></script> 
+</div>
+<!-- 광고 배너 - 우측 -->
+<div style="position:absolute; top:584px; left:49%; margin-left:723px; width:120px; height:600px;">
+	<iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_wing_r.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"  width="160" height="600"></iframe>
+</div>
+<div style="position:absolute; top:1190px; left:49%; margin-left:723px; width:120px; height:600px;">
+	<iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_wing_r2.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"  width="160" height="600"></iframe>
+</div>				
+                <div id="content">
+
+                    <div class="articleView">
+						<div class="view" itemprop="articleBody">
+							<div class="top">
+								<p class="tit title_area">이정근 경기마약퇴치본부장 "합법적 마약류, 안전장치 필요"[인터뷰] </p>
+							</div>
+							<div class="infoLine">
+								<div class="left">
+									<p class="txt"><span>등록 2023.05.07 10:12:09</span></p>
+								</div>
+								
+								<div class="right">
+									<div class="infoBox" style="margin-left:15px;">
+										<ul>
+											<li><a href="#"><img src="//image.newsis.com/n_www/images/icon_email.png" alt="이메일 보내기" onclick="output('email','article');"></a></li>
+											<li><a href="#"><img src="//image.newsis.com/n_www/images/icon_print.png" alt="프린터" onclick="output('print','article');"></a></li>
+											<li><a href="#"><img src="//image.newsis.com/n_www/images/icon_pdf.png" alt="PDF" onclick="output('pdf','article');"></a></li>  <!--onclick="downloadPdf();"-->
+											<li style="margin-left:5px;"><button type="button" class="f_size_s fontbtn" id="btn_view_fontsmall" onclick="fn_view_font('m');"><span>작게</span></button></li>
+											<li><button type="button" class="f_size_b fontbtn" id="btn_view_fontbig" onclick="fn_view_font('p');"><span>크게</span></button></li>
+										</ul>
+										<!-- float 해제 -->
+										<div class="cboth"></div>
+									</div>
+		
+									<!-- float 해제 -->
+									<div class="cboth"></div>
+								</div>
+								
+							</div>
+							
+							<div class="viewer">
+								<article>
+					<div class="summury">
+<h2>"합법적 마약류, 마약이 보편화된 이유 중 하나"</h2><h2>프로포폴·나비약·공부 잘하는 약 '합법적 마약류'</h2><h2>"합법·불법 종이 한 장 차이…생활 속 예방 필요"</h2>							
+					</div>
+		
+							<div id="view_ad"></div>
+<div class="thumCont" align="justify"><div id="textBody"><div class="article_photo thum center" id="imgartitable_NISI20230507_0001259430"><tbody><tr><td class="img"><img src="//image.newsis.com/2023/05/07/NISI20230507_0001259430_web.jpg?rnd=20230507003322" alt="associate_pic" style="float:; margin:0 auto;display:block;" check_caption="Y" mode_we="edit" arti_id="NISI20230507_0001259430" /></td></tr><tr><p class="desc" id="caption_NISI20230507_0001259430"><p class="photojournal">이정근 경기도마약퇴치본부 본부장.&nbsp; *재판매 및 DB 금지</td></tr></tbody></div></div></div><br />
+[수원=뉴시스] 이병희 기자 = "흔히 마약이라고 하면 불법 마약류를 얘기하지만, 실제 마약류 사범은 불법 마약류보다 합법적 의료용 마약류 사범이 더 많아요. 제대로 사용하면 문제 될 게 없지만, 함부로 쓰면 안 되는 게 약이라는 점을 기억해야 합니다."<br />
+<br />
+이정근 경기도마약퇴치운동본부 본부장은 7일 뉴시스와의 인터뷰에서 마약이 보편화된 이유 중 하나로 '합법적 마약류' 사용을 꼽았다. <br />
+<br />
+프로포폴·졸피뎀 등 진통제, 수면제, 마취제뿐 아니라 최근 문제가 된 '나비약' 같은 식욕억제제(살 빼는 약), 공부 잘하는 약으로 알려진 ADHD치료제 등이 모두 합법적 마약류에 속한다.<br />
+<br />
+약사이기도 한 이 본부장은 "의료용 마약류가 개인에게 문제 없이 처방된 뒤 개인 간 거래로 판매되거나 2차적으로 불법에 연루되기도 한다"며 "처방 단계부터 안전장치를 마련하거나 의료인이 관심을 가져야 할 문제"라고 말했다.<br />
+<br />
+안전한 약물 유통을 위해 경기도마약퇴치운동본부는 2021년부터 '마그미약국'을 운영하고 있다. 약사가 의료용 마약류를 사용하는 '잠재적 중독위험군 환자'를 대상으로 안전한 약물사용 방법을 안내해 중독위험성을 낮추는 서비스다.<br />
+<br />
+그는 "합법과 불법은 종이 한 장 차이다. 불법 마약류를 퇴치하는 것은 수사기관이 나서야 할 일이지만, 합법적 마약류 문제는 우리가 생활 속에서 예방해야 할 일"이라고 강조했다.<br />
+<br />
+&nbsp;<div class="thumCont" align="justify"><div id="textBody"><div class="article_photo thum center" id="imgartitable_NISI20230507_0001259433"><tbody><tr><td class="img"><img src="//image.newsis.com/2023/05/07/NISI20230507_0001259433_web.jpg?rnd=20230507004103" alt="associate_pic" style="float:; margin:0 auto;display:block;" check_caption="Y" mode_we="edit" arti_id="NISI20230507_0001259433" /></td></tr><tr><p class="desc" id="caption_NISI20230507_0001259433"><p class="photojournal">마그미약국이란? (사진=경기도마약퇴치운동본부 제공) *재판매 및 DB 금지</td></tr></tbody></div></div></div><br />
+이 본부장은 마약을 개인의 의지 문제가 아니라 사회 구조적 문제로 봤다. 그는 "단순한 호기심에 기인하기도 하지만, 불화·단절·소외 등 개인과 개인 관계나 사회의 구조적 문제에서 발생한다. 마약 문제가 향후 더 심각해질 수밖에 없는 이유"라고 말했다. <br />
+<br />
+같은 맥락에서 팬데믹을 불러일으킨 코로나19도 마약이 퍼지는 데 영향을 끼쳤다. <br />
+<br />
+이 본부장은 "일상과 관계가 단절되면서 '코로나블루' 같은 우울감 등이 마약이 늘어난 데 영향을 미쳤다. 또 코로나19로 비대면 주문과 유통이 활성화된 것도 마약이 퍼진 큰 이유 중 하나"라고 말했다. <br />
+<br />
+이어 "불과 7~8년 전까지만 해도 40대 마약 범죄가 많았지만, 최근에는 20~30대가 가장 많다. 10대도 숫자는 적지만 5년 전에 비해 5배 가까이 늘었다. 모바일에 익숙한 젊은 층에게 마약이 유통되면서 전국적 평준화가 나타난 것"이라고 설명했다.<br />
+<br />
+그러면서 "예전에는 항구도시나 대도시를 중심으로 마약 관련 이슈가 많았지만, 최근에는 유통망 자체가 바뀌면서 전국 어디서나 보편적으로 일어나는 현상이 됐다"라고 진단했다.<br />
+<br />
+이 본부장이 가장 우려하는 부분은 젊은 세대가 마약을 너무 가볍게 본다는 것. 그는 "마약이 흔히 소비하는 '기호식품'이 될까 걱정된다. 특히 젊은 세대가 마약을 바라보는 시각이나 소비하는 방식에서 가볍게 접근하는 것은 큰 문제"라고 지적했다. <br />
+<br />
+또 "마약사범이 한 가지 물질만 하는 경우는 드물다. 가벼운 마약으로 시작하다가 더 강한 것을 찾는 것이 중독의 기본적인 패턴이다. 그러면서 마약이 일반화되고, 저변이 넓혀질까 걱정"이라고도 했다.<br />
+<br />
+<div class="thumCont" align="justify"><div id="textBody"><div class="article_photo thum center" id="imgartitable_NISI20230507_0001259431"><tbody><tr><td class="img"><img src="//image.newsis.com/2023/05/07/NISI20230507_0001259431_web.jpg?rnd=20230507003356" alt="associate_pic" style="float:; margin:0 auto;display:block;" check_caption="Y" mode_we="edit" arti_id="NISI20230507_0001259431" /></td></tr><tr><p class="desc" id="caption_NISI20230507_0001259431"><p class="photojournal">경기도마약퇴치운동본부, 경기도청 봄꽃축제 마약류퇴치 캠페인(사진=경기도마약퇴치운동본부 제공) *재판매 및 DB 금지</td></tr></tbody></div></div></div><br />
+우리 사회에 퍼진 마약 문제를 해결하기 위해서는 제도적 뒷받침이 필요하다고도 강조했다. <br />
+<br />
+이 본부장은 "과거 마약은 조직폭력배나 특정 계층에서 '약쟁이들이 자기 몸 망가트린 일'이라는 인식으로 관심 밖의 문제였다. 그러다 최근 유명 연예인이 연루된 사건이 국민들의 말초신경을 자극하고 '마약 음료 사건' 같은 청소년 문제가 공분을 일으키면서 사회적으로 관심이 높아진 상황"이라고 말했다.<br />
+<br />
+이어 "안타깝게도 우리나라는 공식적인 마약 관련 통계가 없고, 마약 관리 체계도 나눠져 컨트롤타워도 없다. 이번을 계기로 컨트롤타워를 마련해야 한다"라고 강조했다.<br />
+<br />
+또 "'마약과의 전쟁'을 벌였던 국가들이 '엄벌주의'의 한계에 봉착하면서 예방과 치료재활 위주로 마약정책의 방향을 전환하고 있다. 하지만 우리나라 마약 정책은 마약범죄 단속, 처벌, 청소년 보호 등에 집중됐다"라고 했다. <br />
+<br />
+그러면서 "이미 '마약 청정국'이라는 말은 깨진 지 오래다. 정부와 지자체가 예산이나 지원을 늘려 시스템을 만들어야 한다"며 "턱없이 부족한 예방·중독자 치료 인프라를 돌아봐야 하며, 전문가 양성도 중요한 문제"라고 덧붙였다. <br />
+<br />
+끝으로 이 본부장은 마약 중독을 이겨내고 싶다면 상담기관이나 중독자치료보호 의료기관에 도움을 요청하라고 조언했다. <br />
+<br />
+그는 "상담이나 치료를 진행하는 기관에서 사법기관에 환자의 개인정보를 고지할 의무가 없다. 병원에 가면 잡혀가는 줄 알고 치료를 못 하는 경우도 있는데, 비밀이 보장된다"면서 "마약에 중독됐다면 하루라도 빨리 중복재활센터나 국가에서 지원하는 병원을 찾아 치료에 나서길 바란다"라고 말했다. <br />
+<br />
+한편 경기도마약퇴치운동본부는 지난 2004년 12월 ▲마약류·약물남용 폐해에 대한 예방활동 및 연구사업 ▲마약류·약물남용자의 치료·재활사업 ▲마약 없는 밝은 사회 건설 등을 목적으로 설립됐다.<br />
+<br />
+주요 사업으로 ▲약물 오·남용 예방교육 ▲약물남용 예방 홍보 ▲치료·재활 프로그램 운영 ▲전문자원인력 양성프로그램 운영 등을 전개하고 있다.<br />
+<br />
+<br />
+◎공감언론 뉴시스 iambh@newsis.com	
+<script>
+	$('iframe').addClass("frameCenter");
+	
+	function output(type,ob){
+		var windoption = "width=760,height=700,left=300,top=100,resizable=no,scrollbars = yes";
+		if(type == "email"){
+
+		}
+		if(ob == "article"){
+			if(type =="pdf"){
+				//alert('pdf 서비스 점검 중입니다.');
+				//return false;
+
+				location.href="/pdf?id=NISX20230504_0002290966"+ '&type='+ob+'&title='+encodeURI($('.title_area').text());
+			}else{
+				window.open('/common/?id=NISX20230504_0002290966&method='+type + '&type='+ob,'', windoption);
+			}
+
+		}else if(ob == "photo"){
+			var thopho_id = $("#hid_foc").val();
+			if(type =="pdf"){
+
+			//alert('pdf 서비스 점검 중입니다.');
+			//return false;
+
+				location.href="/pdf?id="+ thopho_id + '&type='+ob+'&title='+encodeURI($('.title_area').text());
+			}else{
+				window.open('/common/?id='+ thopho_id +'&method='+type+'&type='+ob,'',windoption);
+			}
+		}
+	}
+</script>					
+								</article>
+								<div class="viewerBottom">
+									<p class="copyright">Copyright © NEWSIS.COM, 무단 전재 및 재배포 금지</p>
+<div id="shuffle" style="margin-top:10px; margin-bottom:10px;">	
+	<ul>
+		<li style="height:25px;">
+			<iframe width="100%" height="25" src="https://www.kodcad.kr/ad/43/e08617dacaae21829a985764dfd645f7.html" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe>							
+		</li>
+		<li style="height:25px;">
+			<iframe width="100%" height="25" src="https://www.kodcad.kr/ad/43/97f4a7f7ededefcc157a754c981b9fc6.html" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe>							
+		</li>
+		<li style="height:25px;">
+			<iframe src="/view/ad/proc_byline_3.html" width="100%" height="25px" frameborder="0" scrolling="no" sandbox="allow-same-origin allow-scripts allow-forms allow-top-navigation allow-popups"></iframe>							
+		</li>
+		<li style="height:25px;">
+			<iframe width="100%" height="25" src="/view/ad/proc_byline_4.html" allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>							
+		</li>
+		<li style="height:25px;">
+			<iframe width="100%" height="25" src="https://www.kodcad.kr/ad/43/6110ed14877461a3d654c135900d4e46.html" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe>							
+		</li>
+		<li style="height:25px;">
+			<iframe src="https://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=03U9&out=iframe" width="100%" height="25px" frameborder="0" scrolling="no" sandbox="allow-same-origin allow-scripts allow-forms allow-top-navigation allow-popups"></iframe>							
+		</li>
+	</ul>
+</div>
+<script>
+	var uls = document.querySelectorAll('#shuffle > ul');
+	for (var j = 0; j < uls.length; j++) {
+	  var ul = uls.item(j);
+	  for (var i = ul.children.length; i >= 0; i--) {
+		ul.appendChild(ul.children[Math.random() * i | 0]);
+	  }
+	}
+</script>								
+                            </div>
+                        </div>
+						
+					</div>
+	
+<!-- 엥커 -->
+<script>
+var page_up_catg 	= 	'';
+var page_catg		=	'';
+var page_bugo		=	'0';
+</script>
+<script> (function(){adtive_targetpush_ad.start('0V444448','OPLLLLLF')}(document)) </script>
+
+<script>
+/*	20230307 hjh	본문내 플로팅 광고 교체
+    var top_obj     =   $("div#view_ad").next().next().next().next().next().next().next().next().next().next();
+    var top_fix     =   790;
+    if(top_obj != undefined){
+        if(top_obj.prop('tagName') == "BR"){
+            top_fix         =   top_obj.position().top;
+        }else{
+            if(top_obj.prop('tagName') == undefined){
+                top_fix         =   250;
+            }
+        }
+    }
+    if(page_bugo == 0){
+		document.write("<d"+"iv id='mobonDivBanner_361526' style='position:absolute; z-index:8; top: "+top_fix.toString()+"px;left: 14px;'><d"+"iv id='mobonButton' style='cursor: pointer;position: absolute; top: 240px;z-index: 8;'onclick='document.getElementById(\"mobonDivBanner_361526\").setAttribute(\"style\",\"display:none\")'><img src=\"https://img.mobon.net/mediaCategory/image/x.jpg\" style='width: 15px;height: 15px;'></d"+"iv><iframe name='ifrad' width='300' height='250' id='mobonIframe_361526' src='//www.mediacategory.com/servlet/adBanner?from="+escape(document.referrer)+"&s=361526&iwh=300_250&igb=74&cntad=1&cntsr=1' frameBorder='0' marginWidth='0' marginHeight='0' scrolling='no' ></iframe></d"+"iv>");
+	}
+document.cookie = "newsis=view; samesite=None"
+*/
+</script>
+<script type="text/javascript" src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/newsis_pc/news@x05"></script>
+<!-- Dable 하B_가로4_NULL 위젯 종료/ 문의 http://dable.io 
+<script type="text/javascript" src="//cdn.interworksmedia.co.kr/js/tm/ip/latest/interplay.js" async></script>
+-->
+<!--20210324 교체 (애드서버 코드로 운영 / 업체 코드 롤링 노출) -->
+
+<script type="text/javascript" src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/newsis_pc/news@Frame1"></script>
+
+<script type="text/javascript" src="https://ads.mtgroup.kr/RealMedia/ads/adstream_jx.ads/newsis_pc/news@Position2"></script>
+<script>
+
+	var check_artype = "ver_new";
+	var cnt_img = "3";
+	var arphoto_type = "article";
+
+	var is_ban_width	=	0;
+	var first_full_width=	600;		//	GISA WEB IMAGE MAX WIDTH
+	var force_width		=	0;
+	var ban_width		=	0;
+	var ori_bann_width	=	250;		//	AD BANNER WIDTH
+
+	$(function viewad(){
+		var url = '/view/ad/proc_view_in_ad.html';
+
+		$.ajax({
+			  type: "GET",
+			  url:  url,
+			  cache: false,
+			success: function (responseText,status,data) {
+					if(check_artype == "ver_new"){
+						if(cnt_img == 0){
+							if(arphoto_type != "photo"){
+								$("div#view_ad").append(data.responseText);
+								//$('.iwmads-wrapper').hide();
+							}
+						}else if(arphoto_type != "photo"){
+							//$("div.view_text").eq(1).append(data.responseText);
+							$(".article_photo").eq(0).after(data.responseText);
+							var i_wid		=	first_full_width;
+							if(is_ban_width > 0){
+								i_wid		=	$('img[arti_id*="NISI"]').eq(0).prop('width');
+								if(i_wid < first_full_width){
+									force_width		=	1;
+									ban_width		=	first_full_width - i_wid;
+									if(ban_width < ori_bann_width){
+										force_width		=	0;
+									}
+								}
+							}
+							if(force_width > 0){
+								$(".article_photo").eq(1).eq(0).attr('style', 'width: '+ ban_width + 'px !important;');
+							}
+						}
+					}else{
+						if(arphoto_type != "photo"){
+							$("div#view_ad").append(data.responseText);
+							//$('.iwmads-wrapper').hide();
+						}
+					}
+		  },
+		  error: function (status) {
+		  },
+		}); 
+	});
+	
+	
+//아이커버
+(function(){var d=!1,e="//www.mediacategory.com/servlet/iadbn?from="+escape(document.referrer)+"&s=18917&psb=99",c=function(){d=!0;var a=document.createElement("iframe");a.src=e;a.width="0";a.height="0";a.frameBorder=0;a.marginWidth=0;a.marginHeight=0;a.scrolling="no";a.async?a.async=!0:a.defer&&(a.defer=!0);if(document.body)document.body.appendChild(a);else{var b=document.getElementsByTagName("html")[0],c=document.createElement("body");b.appendChild(c);c.appendChild(a)}};try{var f=setTimeout(c,1E3),g=document.getElementsByTagName("head").item(0),b=document.createElement("script");b.src="//cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";b.type="text/javascript";b.async?b.async=!0:b.defer=!0;b.onload=function(){!0!==d&&(clearTimeout(f),enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("ico"),enlipleMBSHandler.getWebCode(),18917).appendICover(e))};g.appendChild(b)}catch(a){c()}})();
+
+</script>
+<div class="viewBottom">
+	<div style="margin-bottom: 15px;">
+		<a href="http://kartprice.net" target="_blank">
+			<img src="//image.newsis.com/h_www/common/20210818_view_banner_kartprice.jpg" alt="">
+		</a>
+	</div>
+	
+	<div style="margin-bottom: 15px;">
+		<a href="https://media.naver.com/channel/promotion.nhn?oid=003" target="_blank">
+			<img src="//image.newsis.com/h_www/common/20210818_view_banner_naver.jpg" style="border:0;" alt="네이버 구독베너">
+		</a>
+		<div class="cboth"></div>
+	</div><div class="botBox1">
+	<!-- Begin Dable 바이라인_그리드 / For inquiries, visit http://dable.io -->
+	<div id="dablewidget_x7yzrGl6" data-widget_id="x7yzrGl6">
+	<script>
+	(function(d,a,b,l,e,_) {
+	if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+	e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+	_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+	})(window,document,'dable','script');
+	dable('setService', 'newsis.com');
+	dable('sendLogOnce');
+	dable('renderWidget', 'dablewidget_x7yzrGl6');
+	</script>
+	</div>
+	<!-- End 바이라인_그리드 / For inquiries, visit http://dable.io -->
+</div><iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_info.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"  width="909"  height="246"></iframe><div class="botBox1">	
+	<iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_money.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"  width="909" height="212"></iframe>			
+</div><div class="botBox1 twinBox">
+	<div class="box909">
+		<div class="slide_plan">
+			<p class="tit">뉴시스 기획특집</p>
+
+
+
+			<ul>
+				<li>
+					<div class="img_wrapper">
+						<figure>
+							<a href="/squ/spe_list?stid=ST20230506_0000001139&cid=16000&scid=spec" tabindex="-1">
+								<img src="//image.newsis.com/h_www/special/2023/05/06/ST20230506_0000001139.jpg?rnd=20230507185059" alt="">
+								<figcaption><p>스타트업 노리는 해커</p></figcaption>
+							</a>
+						</figure>
+					</div>
+				</li>
+				<li>
+					<div class="img_wrapper">
+						<figure>
+							<a href="/squ/spe_list?stid=ST20230506_0000001138&cid=16000&scid=spec" tabindex="-1">
+								<img src="//image.newsis.com/h_www/special/2023/05/06/ST20230506_0000001138.jpg?rnd=20230507185047" alt="">
+								<figcaption><p>CFD 주가 후폭풍</p></figcaption>
+							</a>
+						</figure>
+					</div>
+				</li>
+				<li>
+					<div class="img_wrapper">
+						<figure>
+							<a href="/squ/spe_list?stid=ST20230506_0000001135&cid=16000&scid=spec" tabindex="-1">
+								<img src="//image.newsis.com/h_www/special/2023/05/06/ST20230506_0000001135.jpg?rnd=20230507185036" alt="">
+								<figcaption><p>불법하도급 근절</p></figcaption>
+							</a>
+						</figure>
+					</div>
+				</li>
+			</ul>		
+		</div>
+		
+		<div class="pInside">
+
+		<p class="tit">피플인사이드</p>
+		<ul>
+		
+			<li>
+				<div class="thumCont">
+					<a href="/view?id=NISX20230502_0002287266">
+						<img src="//image.newsis.com/2023/04/20/NISI20230420_0001247568_web.jpg?rnd=" alt="">
+					</a>
+				</div>
+				<div class="txtCont">
+					<a href="/view?id=NISX20230502_0002287266">
+					
+						<p class="txt">"기타 한 대면 어디든 갑니다"</p>
+						<p class="people">'포크 거목' 김두수</p>
+						
+						
+					</a>
+				</div>
+			</li>
+		
+			<li>
+				<div class="thumCont">
+					<a href="/view?id=NISX20230427_0002284047">
+						<img src="//image.newsis.com/2023/04/27/NISI20230427_0019868971_web.jpg?rnd=" alt="">
+					</a>
+				</div>
+				<div class="txtCont">
+					<a href="/view?id=NISX20230427_0002284047">
+					
+						<p class="txt">"봉준호와 비교하면 &nbsp;내 영화는 불완전"</p>
+						<p class="people">신카이 마코토</p>
+						
+						
+					</a>
+				</div>
+			</li>
+			
+
+		</ul>		
+		</div>
+		<div class="popular">
+	<p class="tit">뉴시스 PIC</p>
+	<div class="popularG">
+	
+	<div>
+		<div class="thumCont">
+			<a href="/view?id=NISX20230507_0002293466">
+				<img src="//image.newsis.com/2023/05/07/NISI20230507_0019878596_web.jpg?rnd=20230507211819" alt=""  style="width:auto;"  class="cropcls2">
+			</a>
+		</div>
+		<div class="txtCont">
+			<p class="txt">
+				<a href="/view?id=NISX20230507_0002293466">
+					프로농구 인삼공사, 통합우승!				</a>
+			</p>
+		</div>
+	</div>
+	
+	<div>
+		<div class="thumCont">
+			<a href="/view?id=NISX20230507_0002293439">
+				<img src="//image.newsis.com/2023/05/07/NISI20230507_0019878221_web.jpg?rnd=20230507160526" alt=""  style="width:auto;"  class="cropcls2">
+			</a>
+		</div>
+		<div class="txtCont">
+			<p class="txt">
+				<a href="/view?id=NISX20230507_0002293439">
+					윤석열 대통령 '기시다 일본 총리, 용산 대통령실서 맞이' 				</a>
+			</p>
+		</div>
+	</div>
+	
+	<div>
+		<div class="thumCont">
+			<a href="/view?id=NISX20230507_0002293258">
+				<img src="//image.newsis.com/2023/05/07/NISI20230507_0019878088_web.jpg?rnd=20230507141056" alt=""  style="width:auto;"  class="cropcls2">
+			</a>
+		</div>
+		<div class="txtCont">
+			<p class="txt">
+				<a href="/view?id=NISX20230507_0002293258">
+					기시다 일본 총리 방한, 첫 일정은 현충원 참배  				</a>
+			</p>
+		</div>
+	</div>
+	
+	<div>
+		<div class="thumCont">
+			<a href="/view?id=NISX20230507_0002293255">
+				<img src="//image.newsis.com/2023/05/07/NISI20230507_0019877954_web.jpg?rnd=20230507125800" alt=""  style="width:auto;"  class="cropcls2">
+			</a>
+		</div>
+		<div class="txtCont">
+			<p class="txt">
+				<a href="/view?id=NISX20230507_0002293255">
+					기시다 일본 총리 방한, 12년만의 '셔틀외교' 복원 				</a>
+			</p>
+		</div>
+	</div>
+	</div>
+<script>
+	$(window).on( "load", function() {
+		Master.imgCropEvt('.popularG','img.cropcls12','300','196');
+	});
+</script>			</div>
+	</div>
+</div> <div class="botBox2 twinBox">
+	<div class="box640">
+		<div class="hotTime">
+			<p class="tit">이시간 <span>핫 뉴스</span></p>
+			<div class="thumCont">
+				<a href="javascript:fn_openpop('T20220714_0000007623', '10200');"><img src="//image.newsis.com/h_www/theme/2022/07/14/T20220714_0000007623.jpg?rnd=20220714140632" alt=""></a>
+			</div>
+			<div class="txtCont">
+				<ul>
+				
+					<li><a href="/view?id=NISX20230507_0002293191">"진짜 닮았네"…'리틀 송혜교' 여배우, 엄마된 근황</a></li>
+				
+					<li><a href="/view?id=NISX20230507_0002293280">"엄마 피 못 속이네"…연정훈, 상위 1% 영재 딸 자랑</a></li>
+				
+					<li><a href="/view?id=NISX20230506_0002292974">세븐·이다해, 달콤한 입맞춤…결혼식 현장 공개</a></li>
+				
+					<li><a href="/view?id=NISX20230506_0002292909">서정희 "서세원, 날 사랑해서 폭행" 사망 전 녹화</a></li>
+				
+					<li><a href="/view?id=NISX20230507_0002292996">"고소해" 괴식 유튜버 우마가 11개월 만에 먹은 이것</a></li>
+				
+					<li><a href="/view?id=NISX20230506_0002292736">김구라 "연애 더 하고 싶었는데…주변 비난 거지같다"</a></li>
+				
+					<li><a href="/view?id=NISX20230506_0002292789">지드래곤이 선물한 세상에 하나 뿐인 신발 보니…</a></li>
+				
+					<li><a href="/view?id=NISX20230505_0002292345">"개그맨 이용식 사망"…딸 이수민 트라우마 고백</a></li>
+					
+
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="box250">
+		<iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_hotnews.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="250" height="250"></iframe>
+	</div>
+</div><div class="botBox3 twinBox">
+	<div class="box640">
+		<div class="todayhead">
+			<p class="tit">오늘의 헤드라인</p>
+			<div class="boxStyle13">
+				<div class="thumCont">
+					<a href="/view?id=NISX20230507_0002293437"><img src="//image.newsis.com/h_www/searea/2023/05/07/NISX20230507_0002293437_20230507_204920_36291.jpg" alt=""></a>
+				</div>
+				<div class="txtCont">
+					<p class="tit"><a href="/view?id=NISX20230507_0002293437">"尹 "과거사 문제, 진정성이 중요" <br>기시다, 사죄 대신 "가슴 아프다"</a></p>
+					
+					<p class='txt'><a href="/view?id=NISX20230507_0002293437">
+윤석열 대통령은 7일 일제 강제동원 피해자 등 과거사 문제에 대해 "과거사에 대한 인식 문제는 진정성을 가지고 하는 것이 중요하지, 일방의 상대에게 요구할 수 있는 문제는 아니라고 생각한다"며 "과거사가 완전히 정리되지 않았다고 해서 현안과 미래 협력을 위해 한 발짝도 내딛어서는 안 된다는 인식에서는 벗어나야 한다"고 밝혔다. 
+
+하지만 윤 대통령의</a></p>
+				</div> 
+			</div>
+			<div class="headSlide">
+				<ul>
+				
+					<li>
+						<div class="boxStyle13">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293460"><img src="//image.newsis.com/h_www/subtop/2023/05/07/NISX20230507_0002293460_20230507_215235_86145.jpg" alt=""></a>
+							</div>
+							<div class="txtCont">
+								<p class="tit"><a href="/view?id=NISX20230507_0002293460">"한일정상 부부 동반 만찬…한식에 반주는 경주법주</a></p>
+							</div>
+						</div>
+					</li>
+				
+					<li>
+						<div class="boxStyle13">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293441"><img src="//image.newsis.com/h_www/subtop/2023/05/07/NISX20230507_0002293441_20230507_202314_66474.jpg" alt=""></a>
+							</div>
+							<div class="txtCont">
+								<p class="tit"><a href="/view?id=NISX20230507_0002293441">"與 "미래지향적 한일관계" vs 野 "역사 내다팔아"</a></p>
+							</div>
+						</div>
+					</li>
+				
+					<li>
+						<div class="boxStyle13">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293483"><img src="//image.newsis.com/h_www/subtop/2023/05/07/NISX20230507_0002293483_20230507_222633_81959.jpg" alt=""></a>
+							</div>
+							<div class="txtCont">
+								<p class="tit"><a href="/view?id=NISX20230507_0002293483">"김남국 "60억 코인 현금화 안해"…ATM 내역 공개</a></p>
+							</div>
+						</div>
+					</li>
+				
+					<li>
+						<div class="boxStyle13">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293407"><img src="//image.newsis.com/h_www/subtop/2023/05/07/NISX20230507_0002293407_20230507_183923_68589.jpg" alt=""></a>
+							</div>
+							<div class="txtCont">
+								<p class="tit"><a href="/view?id=NISX20230507_0002293407">"태영호, 보좌관 채용 논란에 "악의적 프레임 유감"</a></p>
+							</div>
+						</div>
+					</li>
+				
+					<li>
+						<div class="boxStyle13">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293435"><img src="//image.newsis.com/h_www/subtop/2023/05/07/NISX20230507_0002293435_20230507_203013_26476.jpg" alt=""></a>
+							</div>
+							<div class="txtCont">
+								<p class="tit"><a href="/view?id=NISX20230507_0002293435">"러 "크름반도에 뜬 우크라 드론 10개, 모두 격추"</a></p>
+							</div>
+						</div>
+					</li>
+				
+					<li>
+						<div class="boxStyle13">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293447"><img src="//image.newsis.com/h_www/subtop/2023/05/07/NISX20230507_0002293447_20230507_202559_72909.jpg" alt=""></a>
+							</div>
+							<div class="txtCont">
+								<p class="tit"><a href="/view?id=NISX20230507_0002293447">"프로농구 인삼공사, 챔피언 탈환…통산 4번째 우승</a></p>
+							</div>
+						</div>
+					</li>
+				
+					<li>
+						<div class="boxStyle13">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293484"><img src="//image.newsis.com/h_www/subtop/2023/05/07/NISX20230507_0002293484_20230507_222846_58620.jpg" alt=""></a>
+							</div>
+							<div class="txtCont">
+								<p class="tit"><a href="/view?id=NISX20230507_0002293484">"마포서 SUV 차량, 모텔로 돌진…5명 병원 이송</a></p>
+							</div>
+						</div>
+					</li>
+		
+				
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="box250">
+		<iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_headline.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="250" height="250"></iframe>
+	</div>
+</div> <div class="botBox4 twinBox">
+	<div class="box909">
+		<div class="viewBox">
+
+			<p class="tit">많이 본 기사</p>
+			<div class="sectName main">
+				<div class="tit on"  >
+					<a href="#section1">종합</a>
+				</div>
+				<div class="tit "  >
+					<a href="#section2">정치</a>
+				</div>
+				<div class="tit "  >
+					<a href="#section3">국제</a>
+				</div>
+				<div class="tit "  >
+					<a href="#section4">경제</a>
+				</div>
+				<div class="tit "  >
+					<a href="#section5">금융</a>
+				</div>
+				<div class="tit "  >
+					<a href="#section6">산업</a>
+				</div>
+				<div class="tit " style="width:90px;" >
+					<a href="#section7">IT·바이오</a>
+				</div>
+				<div class="tit "  >
+					<a href="#section8">사회</a>
+				</div>
+				<div class="tit " style="width:70px;" >
+					<a href="#section9">수도권</a>
+				</div>
+				<div class="tit "  >
+					<a href="#section10">지방</a>
+				</div>
+				<div class="tit " style="width:70px;" >
+					<a href="#section11">문화</a>
+				</div>
+				<div class="tit "  >
+					<a href="#section12">스포츠</a>
+				</div>
+				<div class="tit "  >
+					<a href="#section13">연예</a>
+				</div>
+			</div>
+			<div class="rankBox main">
+				<div id="section1" class="box"  style="display:block;" >
+					<ul>
+					
+						<li class="in_img">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293191">
+									<img src="//image.newsis.com/2023/05/07/NISI20230507_0001259569_web.jpg?rnd=20230507120403" alt="" style="width: auto;" class="cropcls3">
+								</a>
+							</div>
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293191">
+									<p class="tita">
+										<strong class="rank">1</strong>"진짜 닮았네"…'리틀 송혜교' 여배우, 엄마된 근황 									</p>
+									
+									<p class="cont">
+										
+배우 한지우(36·김보람)가 여전한 미모를 자랑하며 근황을 전했다. 
+
+한지우는 최근 인스타그램에 "내일 어린이날을 맞이해 멀리서 조카랑 언니랑 오는데 진짜 재미나게 놀아줄 예정이라 심장이 두근두근"이라고 적으며 사진을 올렸다. 사진에서 그는 아이보리색 민소매 원피스를 입고 포즈를 취하고 있다. 송혜교를 닮은 이목구비와 분위기가 눈길을 끌었다. 
+
+한편 2007년 미스코리아 중국 진 출신인 한지우는 MBC 주말드라마 '반짝반짝 빛나는'에서 금란이(이유리 분)의 개념 없는 여동생 미란이로 출연하며 얼굴을 알렸다. 이후 MB									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293292">
+									<p class="">
+										<strong class="rank">2</strong>화재 건물 13층서 80대 할머니 업고 계단 내려온 경찰관									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293280">
+									<p class="">
+										<strong class="rank">3</strong>"우리 딸이 다 아는데"…연정훈, 상위 1% 영재 자녀 자랑									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293381">
+									<p class="">
+										<strong class="rank">4</strong> 尹 "후쿠시마 오염수 한국 전문가 현장 사찰단 파견 합의"									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293250">
+									<p class="">
+										<strong class="rank">5</strong>"먹고 끊는 훈련해"…유인나, 44사이즈 몸매유지 비결									</p>
+									
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div id="section2" class="box" >
+					<ul>
+					
+						<li class="in_img">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293381">
+									<img src="//image.newsis.com/2020/12/11/NISI20201211_0000654239_web.jpg?rnd=20201211094145" alt="" style="width: auto;" class="cropcls3">
+								</a>
+							</div>
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293381">
+									<p class="tita">
+										<strong class="rank">1</strong> 尹 "후쿠시마 오염수 한국 전문가 현장 사찰단 파견 합의"									</p>
+									
+									<p class="cont">
+										
+尹 "후쿠시마 오염수 한국 전문가 현장 사찰단 파견 합의"
+									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293352">
+									<p class="">
+										<strong class="rank">2</strong>與, 김남국 60억 코인에 "돈 없어 호텔 못 잔다더니…내로남불"(종합)									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293169">
+									<p class="">
+										<strong class="rank">3</strong>與, 김남국 60억 코인에 "3만원 운동화 신는다더니…내로남불 DNA"									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293335">
+									<p class="">
+										<strong class="rank">4</strong>가정의 달 맞아 이색 군 가족 프로야구 시구·시타행사									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293376">
+									<p class="">
+										<strong class="rank">5</strong>尹 "기시다, 화이트리스트 원상회복 절차 이행 확인"									</p>
+									
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div id="section3" class="box" >
+					<ul>
+					
+						<li class="in_img">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293119">
+									<img src="//image.newsis.com/2023/05/07/NISI20230507_0001259570_web.jpg?rnd=20230507121604" alt="" style="width: auto;" class="cropcls3">
+								</a>
+							</div>
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293119">
+									<p class="tita">
+										<strong class="rank">1</strong>"日 기시다, 한국 도착…한일관계 개선 흐름 가속" NHK									</p>
+									
+									<p class="cont">
+										7일 오전 정부 전용기로 하네다 공항을 출발한 기시다 후미오 일본 총리가 정오 전 서울 근교 군용 공항에 도착했다고 일본 공영 NHK가 보도했다. 
+
+매체에 따르면 기시다 총리는 이날 국립서울현충원을 방문해 헌화를 한 후 윤석열 대통령과의 정상회담에 임한다.
+
+기시다 총리는 회담에서 한일관계 개선 흐름을 가속화하기 위해 긴밀한 의사소통을 계속해 나갈 것임을 확인할 것으로 보인다. 
+
+또 북한의 핵과 미사일 문제에 따른 안보 제휴 강화를 확인하고, 반도체 분야 등에서의 경제안보 협력과 한일 양국 간 수출관리 방향 등을 놓고									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293386">
+									<p class="">
+										<strong class="rank">2</strong>기시다 "수출 통제, 한국그룹A로 추가 위한 절차 진행 중"									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293311">
+									<p class="">
+										<strong class="rank">3</strong>도심 곳곳 기시다 방한 규탄 집회…"강제동원 해법으로 구걸한 정상회담"									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293154">
+									<p class="">
+										<strong class="rank">4</strong>'지옥의 화염' 휩싸인 바흐무트…"러, 백린탄 투하"									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293227">
+									<p class="">
+										<strong class="rank">5</strong>두 달새 세번 만나는 尹-기시다…관계 개선 '급속' 숨은 진의는									</p>
+									
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div id="section4" class="box" >
+					<ul>
+					
+						<li class="in_img">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293264">
+									<img src="//image.newsis.com/2023/05/07/NISI20230507_0001259621_web.jpg?rnd=20230507144230" alt="" style="width: auto;" class="cropcls3">
+								</a>
+							</div>
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293264">
+									<p class="tita">
+										<strong class="rank">1</strong>혼동하기 쉬운 건축용어…베란다·발코니·테라스 차이는?									</p>
+									
+									<p class="cont">
+										베란다와 발코니, 테라스는 혼동하기 쉬운 대표적인 건축 용어다. 실생활에서도 이 단어들을 혼용해 사용하는 경우가 많지만 건축법상 세 가지는 전혀 다른 개념이다.
+
+7일 사단법인 한국목조건축협회에 따르면 베란다와 발코니는 자주 혼용되고 있지만 엄연히 따져보면 다른 부분이다. 일반적으로 1층 면적이 넓고 2층 면적이 적을 경우 1층의 지붕 부분이 남게 되는데 이 곳을 활용한 것이 베란다다.
+
+옥외라기보다는 옥내의 양지바른 남향에 위치하며, 여름에는 시원하게 할 수 있는 테라스 형식과 위층부분이나 창 앞에 넓게 내밀어 꾸민 바닥으									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293279">
+									<p class="">
+										<strong class="rank">2</strong>국토부 "용산어린이정원 안전성 검증 세 차례 모두 합격"									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293271">
+									<p class="">
+										<strong class="rank">3</strong>버핏·멍거 "미·중 갈등은 멍청한 짓…공동번영할 수 있어"									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293298">
+									<p class="">
+										<strong class="rank">4</strong>SK에코플랜트, 중국에 폐배터리 리사이클링 시설 짓는다									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230505_0002292555">
+									<p class="">
+										<strong class="rank">5</strong>공정위, 가맹점에 '버팀목자금' 강요 피투피시스템즈 철퇴									</p>
+									
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div id="section5" class="box" >
+					<ul>
+					
+						<li class="in_img">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230504_0002292175">
+									<img src="//image.newsis.com/2023/03/29/NISI20230329_0019837822_web.jpg?rnd=20230329131751" alt="" style="width: auto;" class="cropcls3">
+								</a>
+							</div>
+							<div class="txtCont">
+								<a href="/view?id=NISX20230504_0002292175">
+									<p class="tita">
+										<strong class="rank">1</strong>중국인 아닌 '이들', 면세점 쇼핑 1800% 늘었다									</p>
+									
+									<p class="cont">
+										
+
+관광업계에서 베트남 관광객이 신흥 '큰 손'으로 떠오르고 있다. 
+
+BC카드가 7일 최근 3년간 외국관광객 국내 가맹점 소비현황을 분석해 공개했다. 그 결과 지난해 베트남 관광객은 중국, 일본 관광객 대비 인당 카드평균 승인금액(승인금액을 승인건수로 나눈 수치)이 19만7000원으로 가장 높은 것으로 나타났다. 이는 전년 대비 89% 증가한 수치다.
+
+이들은 소비성향도 뚜렷했다. 최근 3년간 베트남 관광객 국내 소비 상위 업종은 면세점, 백화점, 병원, 화장품 등이 주로 차지했고 면세점과 백화점이 1·2위를 독식했다.									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230504_0002292012">
+									<p class="">
+										<strong class="rank">2</strong>매각 난항 겪는 MG손보…예보, 재매각 시기 고심									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230504_0002292199">
+									<p class="">
+										<strong class="rank">3</strong>무난한 어닝시즌…2500선 굳히기 시도									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230504_0002292115">
+									<p class="">
+										<strong class="rank">4</strong>실물카드 시대 저물지만…'캐릭터' 카드 인기는 여전									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230504_0002292050">
+									<p class="">
+										<strong class="rank">5</strong>금융위 "기업 M&A 규제 대폭 완화"…공개매수 부담 완화 등									</p>
+									
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div id="section6" class="box" >
+					<ul>
+					
+						<li class="in_img">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293264">
+									<img src="//image.newsis.com/2023/05/07/NISI20230507_0001259621_web.jpg?rnd=20230507144230" alt="" style="width: auto;" class="cropcls3">
+								</a>
+							</div>
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293264">
+									<p class="tita">
+										<strong class="rank">1</strong>혼동하기 쉬운 건축용어…베란다·발코니·테라스 차이는?									</p>
+									
+									<p class="cont">
+										베란다와 발코니, 테라스는 혼동하기 쉬운 대표적인 건축 용어다. 실생활에서도 이 단어들을 혼용해 사용하는 경우가 많지만 건축법상 세 가지는 전혀 다른 개념이다.
+
+7일 사단법인 한국목조건축협회에 따르면 베란다와 발코니는 자주 혼용되고 있지만 엄연히 따져보면 다른 부분이다. 일반적으로 1층 면적이 넓고 2층 면적이 적을 경우 1층의 지붕 부분이 남게 되는데 이 곳을 활용한 것이 베란다다.
+
+옥외라기보다는 옥내의 양지바른 남향에 위치하며, 여름에는 시원하게 할 수 있는 테라스 형식과 위층부분이나 창 앞에 넓게 내밀어 꾸민 바닥으									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230502_0002288889">
+									<p class="">
+										<strong class="rank">2</strong>'강아지냐, 고양이냐'…반려동물 보면 가족 성향 보인다									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293293">
+									<p class="">
+										<strong class="rank">3</strong>삼성전자, "파운드리 5년 안에 TSMC 뛰어넘는다"									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293279">
+									<p class="">
+										<strong class="rank">4</strong>국토부 "용산어린이정원 안전성 검증 세 차례 모두 합격"									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293298">
+									<p class="">
+										<strong class="rank">5</strong>SK에코플랜트, 중국에 폐배터리 리사이클링 시설 짓는다									</p>
+									
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div id="section7" class="box" >
+					<ul>
+					
+						<li class="in_img">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293174">
+									<img src="//image.newsis.com/2014/05/26/NISI20140526_0009720623_web.jpg?rnd=20140526174431" alt="" style="width: auto;" class="cropcls3">
+								</a>
+							</div>
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293174">
+									<p class="tita">
+										<strong class="rank">1</strong>포털 1위→카카오→홀로서기?…'다음(Daum)'의 다음은									</p>
+									
+									<p class="cont">
+										카카오가 오는 15일 포털 ‘다음’을 사내독립기업(CIC)으로 분리하기로 결정했습니다. 지난 2014년 10월 카카오와 다음이 합병해 통합법인이 출범한 지 9년 만입니다. 카카오는 다음 CIC 설립으로 포털 서비스 가치에 더욱 집중하고 인공지능(AI) 활용 신규 서비스 출시 등으로 돌파구를 마련하겠다는 목표입니다.
+
+카카오 측은 "검색 및 콘텐츠 유통 플랫폼으로서 다음 서비스의 가치에 더욱 집중하고 성과를 내고자 다음사업부문을 CIC로 운영하기로 결정했다"고 설명했습니다.
+
+다만 ‘다음’을 사업에서 분할시키는 것은 아닙니다.									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230504_0002291700">
+									<p class="">
+										<strong class="rank">2</strong>실제 위성 태운 누리호…과거 발사와 뭐가 다를까									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230428_0002285599">
+									<p class="">
+										<strong class="rank">3</strong> '한번 뚫리면 망한다" 인식 가져야									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230504_0002291350">
+									<p class="">
+										<strong class="rank">4</strong>"무릎이 자꾸 붓네" 엄마의 혼잣말…혹시 관절염 신호?									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230504_0002292134">
+									<p class="">
+										<strong class="rank">5</strong>애플페이 이용자 10명 중 8명은 MZ세대									</p>
+									
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div id="section8" class="box" >
+					<ul>
+					
+						<li class="in_img">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293292">
+									<img src="//image.newsis.com/2023/03/02/NISI20230302_0001207983_web.jpg?rnd=20230302224908" alt="" style="width: auto;" class="cropcls3">
+								</a>
+							</div>
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293292">
+									<p class="tita">
+										<strong class="rank">1</strong>화재 건물 13층서 80대 할머니 업고 계단 내려온 경찰관									</p>
+									
+									<p class="cont">
+										심야에 불이 난 주상복합건물에서 입주민들을 깨워서 대피시키던 경찰관이 13층에서 홀로 거주하는 거동이 불편한 80대 할머니를 업어서 구조한 사실이 뒤늦게 알려졌다. 
+
+7일 부산 북부경찰서에 따르면 지난달 15일 오전 4시 39분께 북구의 한 주상복합건물 15층 식당에서 불이 났다. 
+
+신고를 받고 출동한 경찰관들은 방송을 하거나 12~14층 입주민들의 집 문을 일일이 두드리며 잠을 깨워서 대피시켰다. 
+
+이 과정에서 김동희 경사는 13층에서 홀로 거주하는 할머니가 거동이 불편하는 얘기를 전해들었다.   
+
+이에 김 									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293319">
+									<p class="">
+										<strong class="rank">2</strong>'문 전 대통령 사저 폭파하겠다' 인터넷 게시글…경찰 수색									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230502_0002288889">
+									<p class="">
+										<strong class="rank">3</strong>'강아지냐, 고양이냐'…반려동물 보면 가족 성향 보인다									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230504_0002291434">
+									<p class="">
+										<strong class="rank">4</strong>"사는 곳 안전하지 않다"는 국민 다수…도심·여성·40대↑									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293311">
+									<p class="">
+										<strong class="rank">5</strong>도심 곳곳 기시다 방한 규탄 집회…"강제동원 해법으로 구걸한 정상회담"									</p>
+									
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div id="section9" class="box" >
+					<ul>
+					
+						<li class="in_img">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293433">
+									<img src="//image.newsis.com/2020/11/04/NISI20201104_0000630239_web.jpg?rnd=20201104100849" alt="" style="width: auto;" class="cropcls3">
+								</a>
+							</div>
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293433">
+									<p class="tita">
+										<strong class="rank">1</strong>인천 신축 아파트 입주 이틀 만에 옹벽 무너져									</p>
+									
+									<p class="cont">
+										입주를 시작한 지 이틀 만에 신축 아파트 옹벽이 무너지는 사고가 발생했다.
+
+7일 인천소방본부 등에 따르면 전날 오후 3시49분께 인천 미추홀구 용현동 한 신축 아파트에서 높이 1m, 길이 20m의 옹벽이 무너졌다는 119신고가 접수됐다.
+
+이 사고로 인명피해는 발생하지 않았지만, 단지 내 조경시설 등이 일부 파손됐다.
+
+신고를 받고 출동한 소방당국은 현장에 대한 안전조치를 모두 마쳤다.
+
+붕괴된 옹벽은 외부에 조경용 블록을 쌓은 뒤 내부에 토사를 채워 시공한 것으로 전해졌다.
+
+아파트 시공사는 전날 많은 비로 인									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293187">
+									<p class="">
+										<strong class="rank">2</strong>25년 지기 친구 등쳐 수천만원 대출, 40대 주부 '징역 2년6월'									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293176">
+									<p class="">
+										<strong class="rank">3</strong>'골드라인 대안'…김포시, 8일부터 70번 버스 '24회 증회'									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293278">
+									<p class="">
+										<strong class="rank">4</strong>서울 공공임대 입주자 절반 "좁다"…65%는 "자가주택 필요"									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230504_0002291412">
+									<p class="">
+										<strong class="rank">5</strong>늘어나는 아동 우울증…오세훈, '알파세대 행복' 키운다									</p>
+									
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div id="section10" class="box" >
+					<ul>
+					
+						<li class="in_img">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293292">
+									<img src="//image.newsis.com/2023/03/02/NISI20230302_0001207983_web.jpg?rnd=20230302224908" alt="" style="width: auto;" class="cropcls3">
+								</a>
+							</div>
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293292">
+									<p class="tita">
+										<strong class="rank">1</strong>화재 건물 13층서 80대 할머니 업고 계단 내려온 경찰관									</p>
+									
+									<p class="cont">
+										심야에 불이 난 주상복합건물에서 입주민들을 깨워서 대피시키던 경찰관이 13층에서 홀로 거주하는 거동이 불편한 80대 할머니를 업어서 구조한 사실이 뒤늦게 알려졌다. 
+
+7일 부산 북부경찰서에 따르면 지난달 15일 오전 4시 39분께 북구의 한 주상복합건물 15층 식당에서 불이 났다. 
+
+신고를 받고 출동한 경찰관들은 방송을 하거나 12~14층 입주민들의 집 문을 일일이 두드리며 잠을 깨워서 대피시켰다. 
+
+이 과정에서 김동희 경사는 13층에서 홀로 거주하는 할머니가 거동이 불편하는 얘기를 전해들었다.   
+
+이에 김 									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293319">
+									<p class="">
+										<strong class="rank">2</strong>'문 전 대통령 사저 폭파하겠다' 인터넷 게시글…경찰 수색									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230504_0002291700">
+									<p class="">
+										<strong class="rank">3</strong>실제 위성 태운 누리호…과거 발사와 뭐가 다를까									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293178">
+									<p class="">
+										<strong class="rank">4</strong>'5일간 최고 345㎜ 단비' 동복댐 저수율 30%대 가뭄 해갈									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293140">
+									<p class="">
+										<strong class="rank">5</strong>광주·전남 5일간 최고 349.5㎜ 비 곳곳 생채기…가뭄은 해갈(종합)									</p>
+									
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div id="section11" class="box" >
+					<ul>
+					
+						<li class="in_img">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293262">
+									<img src="//image.newsis.com/2023/05/07/NISI20230507_0001259626_web.jpg?rnd=20230507150558" alt="" style="width: auto;" class="cropcls3">
+								</a>
+							</div>
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293262">
+									<p class="tita">
+										<strong class="rank">1</strong>서경덕, 가정의 달 맞아 '성북투어' 영상 공개									</p>
+									
+									<p class="cont">
+										
+5월 가정의 달을 맞아 서경덕 성신여대 교수팀은 '서경덕의 성북투어' 영상을 공개했다고 7일 밝혔다.
+
+이번 '성북투어' 영상은 총 9편으로 기획된 시리즈로 성북구와 함께 제작했다. 서 교수와 김주희 아나운서가 함께 출연한다. 한국어와 영어로 각각 제작됐다.
+
+6분 분량의 1편은 서 교수가 국내 최초의 석조전문박물관인 우리옛돌박물관을 방문해 문인석을 감상하며 일제강점기에 빼앗겼던 문화재들과 이를 되찾기 위한 노력을 소개한다. 향후 공개될 2편에서는 독립운동가인 만해 한용운의 심우장을 영상에 담았고, 3편에서는 성북구 출신									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293302">
+									<p class="">
+										<strong class="rank">2</strong>SVB 파산은 미국 정부 탓이다?…'불황의 역사'									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293232">
+									<p class="">
+										<strong class="rank">3</strong>경남문화예술진흥원 신임 원장 오는 9~17일 재공모									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293224">
+									<p class="">
+										<strong class="rank">4</strong>예술위, 문화예술후원매개전문가 교육…24일까지 모집									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293114">
+									<p class="">
+										<strong class="rank">5</strong>어린이날 맞은 서점가…만화, 자녀교육서 베스트셀러 진입									</p>
+									
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div id="section12" class="box" >
+					<ul>
+					
+						<li class="in_img">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293213">
+									<img src="//image.newsis.com/2023/04/30/NISI20230430_0000158751_web.jpg?rnd=20230501121128" alt="" style="width: auto;" class="cropcls3">
+								</a>
+							</div>
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293213">
+									<p class="tita">
+										<strong class="rank">1</strong>伊언론 "맨유, 김민재 영입에 874억원 쓴다"									</p>
+									
+									<p class="cont">
+										이탈리아 프로축구 세리에A에서 33년 만에 나폴리의 우승에 일조한 국가대표 수비수 김민재가 잉글랜드 무대에 진출할까.
+
+잉글랜드 명문 맨체스터 유나이티드가 김민재 영입을 위해 6000만 유로(약 874억원)를 준비하고 있다는 이탈리아 언론의 보도가 나왔다.
+
+이탈리아 '코리에레 델로 스포르트'는 7일(한국시간) "맨유가 김민재 영입을 위해 6000만 유로를 준비하고 있다"고 보도했다.
+
+2022~2023시즌을 앞두고 페네르바체(튀르키예)를 떠나 세리에A에 진출한 김민재는 나폴리의 핵심 중앙 수비수로 자리잡아 33년 만에 									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293190">
+									<p class="">
+										<strong class="rank">2</strong>프로야구 7일 삼성-롯데전 우천 취소									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293247">
+									<p class="">
+										<strong class="rank">3</strong>리창 中총리, IOC 위원장에 "스포츠 정치화 반대"									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293159">
+									<p class="">
+										<strong class="rank">4</strong>KOVO 외인 트라이아웃…"눈에 띄는 선수가 없다"									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293316">
+									<p class="">
+										<strong class="rank">5</strong>LG, 두산 꺾고 3연승…박동원 2홈런 작렬									</p>
+									
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div id="section13" class="box" >
+					<ul>
+					
+						<li class="in_img">
+							<div class="thumCont">
+								<a href="/view?id=NISX20230507_0002293191">
+									<img src="//image.newsis.com/2023/05/07/NISI20230507_0001259569_web.jpg?rnd=20230507120403" alt="" style="width: auto;" class="cropcls3">
+								</a>
+							</div>
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293191">
+									<p class="tita">
+										<strong class="rank">1</strong>"진짜 닮았네"…'리틀 송혜교' 여배우, 엄마된 근황 									</p>
+									
+									<p class="cont">
+										
+배우 한지우(36·김보람)가 여전한 미모를 자랑하며 근황을 전했다. 
+
+한지우는 최근 인스타그램에 "내일 어린이날을 맞이해 멀리서 조카랑 언니랑 오는데 진짜 재미나게 놀아줄 예정이라 심장이 두근두근"이라고 적으며 사진을 올렸다. 사진에서 그는 아이보리색 민소매 원피스를 입고 포즈를 취하고 있다. 송혜교를 닮은 이목구비와 분위기가 눈길을 끌었다. 
+
+한편 2007년 미스코리아 중국 진 출신인 한지우는 MBC 주말드라마 '반짝반짝 빛나는'에서 금란이(이유리 분)의 개념 없는 여동생 미란이로 출연하며 얼굴을 알렸다. 이후 MB									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293280">
+									<p class="">
+										<strong class="rank">2</strong>"우리 딸이 다 아는데"…연정훈, 상위 1% 영재 자녀 자랑									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293250">
+									<p class="">
+										<strong class="rank">3</strong>"먹고 끊는 훈련해"…유인나, 44사이즈 몸매유지 비결									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293208">
+									<p class="">
+										<strong class="rank">4</strong>'청담동 주식부자' 이희진→321억 '인줌마'까지…SNS 사기꾼 실체									</p>
+									
+								</a>
+							</div>
+						</li>
+					
+						<li >
+							<div class="txtCont">
+								<a href="/view?id=NISX20230507_0002293135">
+									<p class="">
+										<strong class="rank">5</strong>현진영, '흐린 기억속의 그대" 노래 주인공은 '어머니'									</p>
+									
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+			
+				
+			</div>
+<script>
+$(window).on( "load", function() {
+	Master.imgCropEvt02('.rankBox','img.cropcls3','230','173');
+});
+</script>					
+		</div>
+	</div>
+</div><div class="botBox5 twinBox">
+	<div class="box909">
+
+	<div class="viewBox">
+		<p class="tit">이 시간 Top</p>
+		<div class="sectName main">
+			<div class="tit on" >
+				<a href="#topnews1">종합</a></div>
+			<div class="tit " >
+				<a href="#topnews2">정치</a></div>
+			<div class="tit " >
+				<a href="#topnews3">국제</a></div>
+			<div class="tit " >
+				<a href="#topnews4">경제</a></div>
+			<div class="tit " >
+				<a href="#topnews5">금융</a></div>
+			<div class="tit " >
+				<a href="#topnews6">산업</a></div>
+			<div class="tit " style="width:90px;">
+				<a href="#topnews7">IT·바이오</a></div>
+			<div class="tit " >
+				<a href="#topnews8">사회</a></div>
+			<div class="tit " style="width:70px;">
+				<a href="#topnews9">수도권</a></div>
+			<div class="tit " >
+				<a href="#topnews10">지방</a></div>
+			<div class="tit " style="width:70px;">
+				<a href="#topnews11">문화</a></div>
+			<div class="tit " >
+				<a href="#topnews12">스포츠</a></div>
+			<div class="tit " >
+				<a href="#topnews13">연예</a></div>
+		</div>
+		<div class="rankBox main">
+	
+			<div id="topnews1" class="box" style="display:block;">
+				<ul class="left">
+					<li><a href="/view?id=NISX20230507_0002293486">한일 관계 개선 본궤도에 한미일 안보협력 추진…日오염수 방출·과거사 사과 '관건'</a></li>
+					<li><a href="/view?id=NISX20230507_0002293479">시리아 알아사드 '학살 정권' 아랍연맹 복귀</a></li>
+					<li><a href="/view?id=NISX20230507_0002293484">서울 마포구서 SUV차량 모텔 건물로 돌진…5명 병원 이송</a></li>
+					<li><a href="/view?id=NISX20230507_0002293483">김남국 "'60억원 코인' 현금화 안 했다"…ATM 출금 내역 공개</a></li>
+					<li><a href="/view?id=NISX20230507_0002293480">尹-기시다 부부,  2시간 25분 '관저 만찬'  마쳐</a></li>
+					<li><a href="/view?id=NISX20230507_0002293475">외신, 기시다의 '가슴아프다' 발언에 주목하면서 다소 다른 평가   </a></li>
+				
+				</ul><ul class="right">
+					<li><a href="/view?id=NISX20230507_0002293067">'K-909', 5개월 만에 재개…아이브·비투비</a></li>
+					<li><a href="/view?id=NISX20230507_0002293238">우승 김상식 감독 "이제는 농구와 인연이 없는 줄 알았는데"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293476">여수서 60대 KTX 열차에 치여 사망</a></li>
+					<li><a href="/view?id=NISX20230507_0002293467">MVP 오세근 "바닥까지 갔었다…'두고 보자'는 마음으로"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293466">프로농구 인삼공사, 통합우승![뉴시스Pic]</a></li>
+					<li><a href="/view?id=NISX20230507_0002293461">[부고] 안민석(더불어민주당 국회의원)씨 모친상</a></li>
+			</div>
+	
+			<div id="topnews2" class="box" >
+				<ul class="left">
+					<li><a href="/view?id=NISX20230507_0002293486">한일 관계 개선 본궤도에 한미일 안보협력 추진…日오염수 방출·과거사 사과 '관건'</a></li>
+					<li><a href="/view?id=NISX20230507_0002293483">김남국 "'60억원 코인' 현금화 안 했다"…ATM 출금 내역 공개</a></li>
+					<li><a href="/view?id=NISX20230507_0002293480">尹-기시다 부부,  2시간 25분 '관저 만찬'  마쳐</a></li>
+					<li><a href="/view?id=NISX20230507_0002293461">[부고] 안민석(더불어민주당 국회의원)씨 모친상</a></li>
+					<li><a href="/view?id=NISX20230507_0002293460">尹-기시다 내외, 관저 만찬…구절판·탕평채 한식에 경주법주 곁들여</a></li>
+					<li><a href="/view?id=NISX20230507_0002293459">與 최형두 "기시다 발언 진일보…日 의원들, 尹 리더십 고마워해"</a></li>
+				
+				</ul><ul class="right">
+					<li><a href="/view?id=NISX20230507_0002293437">尹 "'일방의 상대에 과거사 요구 안돼"…기시다 "가슴 아파 제 마음" 사과·반성 없어</a></li>
+					<li><a href="/view?id=NISX20230507_0002293448">尹-기시다, 오염수 검증 韓참여 합의…한국 원폭 희생자 위령비 참배</a></li>
+					<li><a href="/view?id=NISX20230507_0002293446">대통령실 "기시다, 尹에 원폭 한인 위령비 추모 제안"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293441">한일정상회담…與 "미래지향적 관계" vs 野 "역사 내다 판 대통령"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293444">[전문]윤석열 대통령 한일정상회담 공동기자회견 발표문</a></li>
+					<li><a href="/view?id=NISX20230507_0002293438">尹 "후쿠시마 오염수 검증 韓전문가 파견…워싱턴 선언 日 배제 안해"(종합)</a></li>
+			</div>
+	
+			<div id="topnews3" class="box" >
+				<ul class="left">
+					<li><a href="/view?id=NISX20230507_0002293479">시리아 알아사드 '학살 정권' 아랍연맹 복귀</a></li>
+					<li><a href="/view?id=NISX20230507_0002293475">외신, 기시다의 '가슴아프다' 발언에 주목하면서 다소 다른 평가   </a></li>
+					<li><a href="/view?id=NISX20230507_0002293435">러, "크름반도에 우크라 드론 10개 날아왔으나 모두 격추" </a></li>
+					<li><a href="/view?id=NISX20230507_0002293440">[전문]기시다 후미오 정상회담 기자회견 "힘들고 슬픈 경험 가슴 아프다"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293414">기시다, 강제징용 사과 대신 "가슴 아프다…원전 처리수 방류 韓과 꼭 소통"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293415">"러, 수십 년간 심각한 노동력 부족"…국외탈주·전사·코로나</a></li>
+				
+				</ul><ul class="right">
+					<li><a href="/view?id=NISX20230507_0002293420">기시다 "원전 오염수 방류, 한국측과 의사소통하면서 계속 진행"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293418">[속보]기시다 "日韓美 핵협의체 창설 긴밀히 공조·논의"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293368">"우크라이나인 많이 죽였다" 친푸틴 작가 차량 폭발 '중상'</a></li>
+					<li><a href="/view?id=NISX20230507_0002293371">기시다, 강제징용 염두 "가슴 아프게 생각…한국 측과 협력은 내 책무" (2보)</a></li>
+					<li><a href="/view?id=NISX20230507_0002293410">기시다 "日韓 국민 건강에 나쁜 영향 주는 오염수 방류 인정 안 할 것"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293370">기시다, 강제징용 염두 "韓, 힘들고 슬픈 경험 가슴 아프게 생각" (1보)</a></li>
+			</div>
+	
+			<div id="topnews4" class="box" >
+				<ul class="left">
+					<li><a href="/view?id=NISX20230507_0002293271">버핏·멍거 "미·중 갈등은 멍청한 짓…공동번영할 수 있어"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293296">롯데건설, 내달까지 공사현장에 '햄버거' 새참 쏜다 </a></li>
+					<li><a href="/view?id=NISX20230507_0002293298">SK에코플랜트, 중국에 폐배터리 리사이클링 시설 짓는다</a></li>
+					<li><a href="/view?id=NISX20230507_0002293279">국토부 "용산어린이정원 안전성 검증 세 차례 모두 합격"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293264">혼동하기 쉬운 건축용어…베란다·발코니·테라스 차이는?</a></li>
+					<li><a href="/view?id=NISX20230505_0002292555">공정위, 가맹점에 '버팀목자금' 강요 피투피시스템즈 철퇴</a></li>
+				
+				</ul><ul class="right">
+					<li><a href="/view?id=NISX20230507_0002293156">전세사기 피해자 '저금리 대출' 집행률 1% 밑돌아</a></li>
+					<li><a href="/view?id=NISX20230504_0002292253">오세훈표 재개발 신속통합기획 '수시신청' 전환</a></li>
+					<li><a href="/view?id=NISX20230507_0002293149">LH, 코트라와 중소기업 해외 판로개척 지원 협업</a></li>
+					<li><a href="/view?id=NISX20230505_0002292502">일 할 사람 없어 '발동동'…산업부, 지방투자기업 인력난 지원</a></li>
+					<li><a href="/view?id=NISX20230505_0002292510">"부모님 집에 있는 위니아딤채 노후 김치냉장고 살피세요"</a></li>
+					<li><a href="/view?id=NISX20230505_0002292626">농식품부, 2030세대 참신한 농촌 관광 활성화 아이디어 공모</a></li>
+			</div>
+	
+			<div id="topnews5" class="box" >
+				<ul class="left">
+					<li><a href="/view?id=NISX20230504_0002292115">실물카드 시대 저물지만…'캐릭터' 카드 인기는 여전</a></li>
+					<li><a href="/view?id=NISX20230504_0002292175">중국인 아닌 '이들', 면세점 쇼핑 1800% 늘었다</a></li>
+					<li><a href="/view?id=NISX20230504_0002292134">애플페이 이용자 10명 중 8명은 MZ세대</a></li>
+					<li><a href="/view?id=NISX20230504_0002291834">JB카드, 가정의 달 맞아 '오매가3 이벤트'…캐시백 지급</a></li>
+					<li><a href="/view?id=NISX20230504_0002292012">매각 난항 겪는 MG손보…예보, 재매각 시기 고심</a></li>
+					<li><a href="/view?id=NISX20230504_0002292050">금융위 "기업 M&A 규제 대폭 완화"…공개매수 부담 완화 등</a></li>
+				
+				</ul><ul class="right">
+					<li><a href="/view?id=NISX20230504_0002292199">무난한 어닝시즌…2500선 굳히기 시도[주간증시전망]</a></li>
+					<li><a href="/view?id=NISX20230507_0002293088">BNK경남은행, 취약계층 지원 '고금리 대환 대출' 상품 출시</a></li>
+					<li><a href="/view?id=NISX20230504_0002291529">제 3인물?…판도라 상자 열리나[CFD 주가 후폭풍③]</a></li>
+					<li><a href="/view?id=NISX20230506_0002292978">윤창현 의원 "주가조작범, 10년 간 계좌 개설 금지…법안 발의"</a></li>
+					<li><a href="/view?id=NISX20230504_0002291982">우리은행, 만 60세 이상 이체수수료 어버이날부터 면제</a></li>
+					<li><a href="/view?id=NISX20230506_0002292959">하나금융, 대만 CTBC은행과 글로벌 사업 협약</a></li>
+			</div>
+	
+			<div id="topnews6" class="box" >
+				<ul class="left">
+					<li><a href="/view?id=NISX20230507_0002293417">"경계를 지웠다" 파라다이스복지재단 '아이소리축제'[ESG 현장]</a></li>
+					<li><a href="/view?id=NISX20230419_0002272531">"가성비 냉동치킨 시장 판 커졌다"…전문업체 '사세', 작년 매출 22%↑</a></li>
+					<li><a href="/view?id=NISX20230504_0002290982">"中소비회복·관광객유입" 아모레퍼시픽 2Q 실적 반등할까</a></li>
+					<li><a href="/view?id=NISX20230502_0002288728">'K뷰티 투톱' 中 소비심리 위축 여파...1분기 우울한 성적표</a></li>
+					<li><a href="/view?id=NISX20230505_0002292594">아무나 맡을 수 없는 자리…라도, ECB 첫 '타임 키퍼'[팔레트]</a></li>
+					<li><a href="/view?id=NISX20230418_0002271197">'완판 도넛' 노티드 운영사 GFFG, 530억 매출에도 '적자' 무슨일?</a></li>
+				
+				</ul><ul class="right">
+					<li><a href="/view?id=NISX20230419_0002272863">백종원 더본 "해외서 신통찮네"…日자회사 당기순익 26%↓</a></li>
+					<li><a href="/view?id=NISX20230425_0002279179">'매드포갈릭'도 매물로…패밀리 레스토랑 시장 판도 바뀌나</a></li>
+					<li><a href="/view?id=NISX20230417_0002270071">"발효유에 샐러드·밀키트 확대" hy, 작년 매출 1.1조 첫 돌파</a></li>
+					<li><a href="/view?id=NISX20230419_0002273006">설탕·밀가루 가격 올린 삼양사…작년 식품 매출 '역대 최대'</a></li>
+					<li><a href="/view?id=NISX20230507_0002293308">삼성전기, 4년 만에 임직원 가족들 사업장으로 초대</a></li>
+					<li><a href="/view?id=NISX20230507_0002293293">삼성전자, "파운드리 5년 안에 TSMC 뛰어넘는다"</a></li>
+			</div>
+	
+			<div id="topnews7" class="box" >
+				<ul class="left">
+					<li><a href="/view?id=NISX20230504_0002292134">애플페이 이용자 10명 중 8명은 MZ세대</a></li>
+					<li><a href="/view?id=NISX20230504_0002291868">"암‧난치성 환자 정서치유 도와요"…사회공헌 활동 모집</a></li>
+					<li><a href="/view?id=NISX20230507_0002293301">넥슨게임즈, 창립 10년 만에 1000명대 개발사로 우뚝 </a></li>
+					<li><a href="/view?id=NISX20230504_0002291350">"무릎이 자꾸 붓네" 엄마의 혼잣말…혹시 관절염 신호?</a></li>
+					<li><a href="/view?id=NISX20230504_0002291950">크리스탈지노믹스, 골관절염약 ‘폴마콕시브’ 브라질 특허</a></li>
+					<li><a href="/view?id=NISX20230504_0002292159">"도요샛부터 민간위성까지"…누리호 탄 큐브위성 임무는?[누리호 3차발사③]</a></li>
+				
+				</ul><ul class="right">
+					<li><a href="/view?id=NISX20230507_0002293174">포털 1위→카카오→홀로서기?…'다음(Daum)'의 다음은[사이다IT]</a></li>
+					<li><a href="/view?id=NISX20230504_0002292002">누리호 1등석 타는 '차소위성 2호'…태양을 쫓아간다고?[누리호 3차발사②]</a></li>
+					<li><a href="/view?id=NISX20230504_0002291700">실제 위성 태운 누리호…과거 발사와 뭐가 다를까[누리호 3차발사①]</a></li>
+					<li><a href="/view?id=NISX20230504_0002291406">[르포]"폭풍우에도 준비 '착착'"…누리호 3차 발사 앞둔 나로우주센터 가보니</a></li>
+					<li><a href="/view?id=NISX20230428_0002285599">[스타트업 노리는 해커③] '한번 뚫리면 망한다" 인식 가져야</a></li>
+					<li><a href="/view?id=NISX20230504_0002291150">누리호 이달 24일 쏜다…한화에이로스페이스 연구진 첫 발사 참여</a></li>
+			</div>
+	
+			<div id="topnews8" class="box" >
+				<ul class="left">
+					<li><a href="/view?id=NISX20230507_0002293484">서울 마포구서 SUV차량 모텔 건물로 돌진…5명 병원 이송</a></li>
+					<li><a href="/view?id=NISX20230507_0002293476">여수서 60대 KTX 열차에 치여 사망</a></li>
+					<li><a href="/view?id=NISX20230507_0002293433">인천 신축 아파트 입주 이틀 만에 옹벽 무너져</a></li>
+					<li><a href="/view?id=NISX20230507_0002293408">오세훈 "서울, '관광 성지' 되고 있어…투자로 그릇 키워야"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293357">'어버이날' 전국 대체로 맑아…출근길 쌀쌀[내일날씨]</a></li>
+					<li><a href="/view?id=NISX20230507_0002293353">집중 호우에 전남 남해안 '농작물 피해' 속출…잠정 728㏊</a></li>
+				
+				</ul><ul class="right">
+					<li><a href="/view?id=NISX20230507_0002293320">오세훈, 한남동 공관 이사…거주 아파트에 "감사했다" 편지</a></li>
+					<li><a href="/view?id=NISX20230507_0002293318">헌재, '野 방송법 직회부' 권한쟁의심판 다음달 공개변론</a></li>
+					<li><a href="/view?id=NISX20230507_0002293319">'문 전 대통령 사저 폭파하겠다' 인터넷 게시글…경찰 수색</a></li>
+					<li><a href="/view?id=NISX20230504_0002291881">"산업재해 대응 강화"…전북교육청, '업무처리 요령' 마련</a></li>
+					<li><a href="/view?id=NISX20230507_0002293311">도심 곳곳 기시다 방한 규탄 집회…"강제동원 해법으로 구걸한 정상회담"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293274">어버이날 감사의 마음을 전하는 카네이션  [뉴시스Pic]</a></li>
+			</div>
+	
+			<div id="topnews9" class="box" >
+				<ul class="left">
+					<li><a href="/view?id=NISX20230507_0002293433">인천 신축 아파트 입주 이틀 만에 옹벽 무너져</a></li>
+					<li><a href="/view?id=NISX20230507_0002293426">[수원소식] 능행차 공동재현 시민퍼레이드 참여단체 공모 등</a></li>
+					<li><a href="/view?id=NISX20230507_0002293408">오세훈 "서울, '관광 성지' 되고 있어…투자로 그릇 키워야"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293360">대낮 음주운전 차량이 은행으로 돌진…ATM 등 파손</a></li>
+					<li><a href="/view?id=NISX20230507_0002293320">오세훈, 한남동 공관 이사…거주 아파트에 "감사했다" 편지</a></li>
+					<li><a href="/view?id=NISX20230507_0002293277">공원 나무에 내 이름표…하남시, '내 나무 가꾸기' 추진</a></li>
+				
+				</ul><ul class="right">
+					<li><a href="/view?id=NISX20230507_0002293278">서울 공공임대 입주자 절반 "좁다"…65%는 "자가주택 필요"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293194">인천시설공단, 염전 염생식물군락 블루카본 조성 협약</a></li>
+					<li><a href="/view?id=NISX20230507_0002293187">25년 지기 친구 등쳐 수천만원 대출, 40대 주부 '징역 2년6월'</a></li>
+					<li><a href="/view?id=NISX20230504_0002291412">늘어나는 아동 우울증…오세훈, '알파세대 행복' 키운다[서울해요]</a></li>
+					<li><a href="/view?id=NISX20230507_0002293176">'골드라인 대안'…김포시, 8일부터 70번 버스 '24회 증회'</a></li>
+					<li><a href="/view?id=NISX20230507_0002293170">윤환 인천 계양구청장, 자매결연도시 전북 부안군 방문</a></li>
+			</div>
+	
+			<div id="topnews10" class="box" >
+				<ul class="left">
+					<li><a href="/view?id=NISX20230507_0002293476">여수서 60대 KTX 열차에 치여 사망</a></li>
+					<li><a href="/view?id=NISX20230507_0002293436">대전 보문산서 이웃돕기 자선 콘서트…'아름다운 음율' 울려</a></li>
+					<li><a href="/view?id=NISX20230507_0002293353">집중 호우에 전남 남해안 '농작물 피해' 속출…잠정 728㏊</a></li>
+					<li><a href="/view?id=NISX20230507_0002293323">울산 남구, 장생포 옛길 테마거리 준공</a></li>
+					<li><a href="/view?id=NISX20230507_0002293328">'산불감시원 탈락' 火김…야산에 불지른 60대</a></li>
+					<li><a href="/view?id=NISX20230507_0002293319">'문 전 대통령 사저 폭파하겠다' 인터넷 게시글…경찰 수색</a></li>
+				
+				</ul><ul class="right">
+					<li><a href="/view?id=NISX20230507_0002293304">[교육소식] 광주중앙도서관 '명인·명장에게 배우는 직업의 세계' 등</a></li>
+					<li><a href="/view?id=NISX20230507_0002293300">울진군, GS에너지와 원자력수소 국가산단 육성 업무협약</a></li>
+					<li><a href="/view?id=NISX20230507_0002293297">광주·전남 김대중재단 발기인대회 성황…"DJ=현대사 그 자체"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293140">광주·전남 5일간 최고 349.5㎜ 비 곳곳 생채기…가뭄은 해갈(종합)</a></li>
+					<li><a href="/view?id=NISX20230507_0002293291">여수 새순한방병원-근로복지공단 순천병원, 재활치료 양·한방 협진 협약</a></li>
+					<li><a href="/view?id=NISX20230507_0002293294">문경찻사발축제 24만명 찾았다…경제효과 150억원</a></li>
+			</div>
+	
+			<div id="topnews11" class="box" >
+				<ul class="left">
+					<li><a href="/view?id=NISX20230507_0002293436">대전 보문산서 이웃돕기 자선 콘서트…'아름다운 음율' 울려</a></li>
+					<li><a href="/view?id=NISX20230507_0002293361">권여선, 3년 만에 소설집 '각각의 계절' 출간</a></li>
+					<li><a href="/view?id=NISX20230507_0002293365">바리톤 고성현, 리음앙상블과 '시(詩)실내악2' 공연</a></li>
+					<li><a href="/view?id=NISX20230507_0002293326">동물시집·신발의 눈을 꼭 털어주세요</a></li>
+					<li><a href="/view?id=NISX20230507_0002293346">2023 종묘대제 </a></li>
+					<li><a href="/view?id=NISX20230507_0002293302">SVB 파산은 미국 정부 탓이다?…'불황의 역사'</a></li>
+				
+				</ul><ul class="right">
+					<li><a href="/view?id=NISX20230507_0002293306">명 앙상블, 8일 롯데콘서트홀서 어버이날 콘서트</a></li>
+					<li><a href="/view?id=NISX20230507_0002293262">서경덕, 가정의 달 맞아 '성북투어' 영상 공개</a></li>
+					<li><a href="/view?id=NISX20230507_0002293284">바이올리니스트 박수경, 16일 독주회</a></li>
+					<li><a href="/view?id=NISX20230507_0002293224">예술위, 문화예술후원매개전문가 교육…24일까지 모집</a></li>
+					<li><a href="/view?id=NISX20230507_0002293232">경남문화예술진흥원 신임 원장 오는 9~17일 재공모</a></li>
+					<li><a href="/view?id=NISX20230507_0002293243">KBS교향악단 'K클래식 스포트라이트'…박수예·이혁·심준호·박재홍</a></li>
+			</div>
+	
+			<div id="topnews12" class="box" >
+				<ul class="left">
+					<li><a href="/view?id=NISX20230507_0002293238">우승 김상식 감독 "이제는 농구와 인연이 없는 줄 알았는데"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293467">MVP 오세근 "바닥까지 갔었다…'두고 보자'는 마음으로"</a></li>
+					<li><a href="/view?id=NISX20230507_0002293466">프로농구 인삼공사, 통합우승![뉴시스Pic]</a></li>
+					<li><a href="/view?id=NISX20230507_0002293455">눈물 흘린 전희철 감독 "내가 너무 큰 실수…선수들에게 박수"</a></li>
+					<li><a href="/view?id=NISX20230506_0002292945">데뷔시즌을 화려하게 마무리한 인삼공사 김상식 감독</a></li>
+					<li><a href="/view?id=NISX20230507_0002293242">인삼공사 캡틴 양희종, 우승반지와 떠난다</a></li>
+				
+				</ul><ul class="right">
+					<li><a href="/view?id=NISX20230507_0002293222">'건세근'은 우승 보증 수표…다시 한 번 증명한 오세근</a></li>
+					<li><a href="/view?id=NISX20230507_0002293447">프로농구 인삼공사, 2년 만에 챔피언 탈환…MVP 오세근(종합)</a></li>
+					<li><a href="/view?id=NISX20230507_0002293445">프로농구 인삼공사, 2년 만에 챔피언 탈환…통산 4번째 우승</a></li>
+					<li><a href="/view?id=NISX20230507_0002293443">[속보]프로농구 인삼공사, 2년 만에 챔피언 탈환…통산 4번째 우승</a></li>
+					<li><a href="/view?id=NISX20230507_0002293351">'박동원 2홈런' LG, 두산 꺾고 3연승…한화 최하위 탈출(종합)</a></li>
+					<li><a href="/view?id=NISX20230507_0002293389">전북 출신 이승기 쐐기골…부산, 원정서 안양 3-0 격파</a></li>
+			</div>
+	
+			<div id="topnews13" class="box" >
+				<ul class="left">
+					<li><a href="/view?id=NISX20230507_0002293067">'K-909', 5개월 만에 재개…아이브·비투비</a></li>
+					<li><a href="/view?id=NISX20230507_0002293235">윤은혜가 알려준대로 먹으니 10일 만에 7㎏ 감량</a></li>
+					<li><a href="/view?id=NISX20230507_0002293344">'아이돌 조상' 토니안·문희준·브라이언·조권, 무인도서 긴급 회동</a></li>
+					<li><a href="/view?id=NISX20230507_0002293250">"먹고 끊는 훈련해"…유인나, 44사이즈 몸매유지 비결</a></li>
+					<li><a href="/view?id=NISX20230507_0002293314">김호영, 영화 '빌리 엘리어트' 남다른 관점 제시 '감탄' </a></li>
+					<li><a href="/view?id=NISX20230507_0002293253">허성태·이시언, 워홀 후 시드니관광 플렉스</a></li>
+				
+				</ul><ul class="right">
+					<li><a href="/view?id=NISX20230507_0002293303">혜리, 방탄소년단 문제 틀리자 '촬영 중단 요청'</a></li>
+					<li><a href="/view?id=NISX20230507_0002293287">'지구마불' 15개국 여행 끝 무사귀환…김태호PD, 시즌2 예고</a></li>
+					<li><a href="/view?id=NISX20230507_0002293280">"우리 딸이 다 아는데"…연정훈, 상위 1% 영재 자녀 자랑</a></li>
+					<li><a href="/view?id=NISX20230507_0002293240">엄정화만 모르는 김병철 불륜, 가족들의 선택은?</a></li>
+					<li><a href="/view?id=NISX20230507_0002293239">"너 내 거 해라" 김소연, 오랫동안 원했던 이동욱 만난다</a></li>
+					<li><a href="/view?id=NISX20230507_0002293233">이연복, 아들과 첫 요리 대결…태국 현지인 선택은?</a></li>
+			</div>
+		</div>
+	</div>	</div>
+</div></div>	
+	</div>
+    <div class="aside">
+		<div class="fix"><div class="smallbox">
+	<a href="https://pf.kakao.com/_iRxblK" target="_blank">
+		<img src="//image.newsis.com/h_www/banner/20220125_kakaoch_banner_300.jpg" alt="구독">
+	</a>
+</div>
+<!-- <div class="banner300"> -->
+	<!-- <a href="https://media.naver.com/channel/promotion.nhn?oid=003" target="_blank"> -->
+		<!-- <img src="//image.newsis.com/new_www/banner/20190304_banner_naver.jpg" alt="뉴시스 채널 추가"> -->
+	<!-- </a> -->
+<!-- </div> --><!--
+많이 본 뉴스 아래 
+-->
+<div class="smallbox"><iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_side1.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"></iframe></div><div class="viewBox">
+	<p class="tit">많이 본 기사</p>
+	<div class="rankBox add1">
+		<div class="box" data-name="수도권">
+			<ul>
+				<li class="in_img">
+					<div class="thumCont">
+						<a href="/view?id=NISX20230507_0002293433">
+							<img src="//image.newsis.com/2020/11/04/NISI20201104_0000630239_web.jpg?rnd=20201104100849" alt="" style="width:auto;" class="cropclsetc">
+						</a>
+					</div>
+					<div class="txtCont">
+						<a href="/view?id=NISX20230507_0002293433">
+							<p>
+								<strong class="rank">1</strong>인천 신축 아파트 입주 이틀 만에 옹벽 무너져							</p>
+						</a>
+					</div>
+				</li>
+				<li >
+					<div class="txtCont">
+						<a href="/view?id=NISX20230507_0002293187">
+							<p>
+								<strong class="rank">2</strong>25년 지기 친구 등쳐 수천만원 대출, 40대 주부 '징역 2년6월'							</p>
+						</a>
+					</div>
+				</li>
+				<li >
+					<div class="txtCont">
+						<a href="/view?id=NISX20230507_0002293176">
+							<p>
+								<strong class="rank">3</strong>'골드라인 대안'…김포시, 8일부터 70번 버스 '24회 증회'							</p>
+						</a>
+					</div>
+				</li>
+				<li >
+					<div class="txtCont">
+						<a href="/view?id=NISX20230507_0002293278">
+							<p>
+								<strong class="rank">4</strong>서울 공공임대 입주자 절반 "좁다"…65%는 "자가주택 필요"							</p>
+						</a>
+					</div>
+				</li>
+				<li >
+					<div class="txtCont">
+						<a href="/view?id=NISX20230504_0002291412">
+							<p>
+								<strong class="rank">5</strong>늘어나는 아동 우울증…오세훈, '알파세대 행복' 키운다[서울해요]							</p>
+						</a>
+					</div>
+				</li>
+				<li >
+					<div class="txtCont">
+						<a href="/view?id=NISX20230507_0002293320">
+							<p>
+								<strong class="rank">6</strong>오세훈, 한남동 공관 이사…거주 아파트에 "감사했다" 편지							</p>
+						</a>
+					</div>
+				</li>
+				<li >
+					<div class="txtCont">
+						<a href="/view?id=NISX20230507_0002293206">
+							<p>
+								<strong class="rank">7</strong>‘광명 자이 더샵 포레나’ 특별공급 최고경쟁률 11대 1							</p>
+						</a>
+					</div>
+				</li>
+			</ul>
+			
+		</div>
+		<div class="box" data-name="종합">
+			<ul>
+			
+				<li class="in_img">
+					<div class="thumCont">
+						<a href="/view?id=NISX20230507_0002293191">
+							<img src="//image.newsis.com/2023/05/07/NISI20230507_0001259569_web.jpg?rnd=20230507120403" alt="" style="width:auto;" class="cropclsetc">
+						</a>
+					</div>
+					<div class="txtCont">
+						<a href="/view?id=NISX20230507_0002293191">
+							<p>
+								<strong class="rank">1</strong>"진짜 닮았네"…'리틀 송혜교' 여배우, 엄마된 근황 							</p>
+						</a>
+					</div>
+				</li>
+			
+				<li >
+					<div class="txtCont">
+						<a href="/view?id=NISX20230507_0002293292">
+							<p>
+								<strong class="rank">2</strong>화재 건물 13층서 80대 할머니 업고 계단 내려온 경찰관							</p>
+						</a>
+					</div>
+				</li>
+			
+				<li >
+					<div class="txtCont">
+						<a href="/view?id=NISX20230507_0002293280">
+							<p>
+								<strong class="rank">3</strong>"우리 딸이 다 아는데"…연정훈, 상위 1% 영재 자녀 자랑							</p>
+						</a>
+					</div>
+				</li>
+			
+				<li >
+					<div class="txtCont">
+						<a href="/view?id=NISX20230507_0002293381">
+							<p>
+								<strong class="rank">4</strong>[속보] 尹 "후쿠시마 오염수 한국 전문가 현장 사찰단 파견 합의"							</p>
+						</a>
+					</div>
+				</li>
+			
+				<li >
+					<div class="txtCont">
+						<a href="/view?id=NISX20230507_0002293250">
+							<p>
+								<strong class="rank">5</strong>"먹고 끊는 훈련해"…유인나, 44사이즈 몸매유지 비결							</p>
+						</a>
+					</div>
+				</li>
+			
+				<li >
+					<div class="txtCont">
+						<a href="/view?id=NISX20230507_0002293352">
+							<p>
+								<strong class="rank">6</strong>與, 김남국 60억 코인에 "돈 없어 호텔 못 잔다더니…내로남불"(종합)							</p>
+						</a>
+					</div>
+				</li>
+			
+				<li >
+					<div class="txtCont">
+						<a href="/view?id=NISX20230507_0002293169">
+							<p>
+								<strong class="rank">7</strong>與, 김남국 60억 코인에 "3만원 운동화 신는다더니…내로남불 DNA"							</p>
+						</a>
+					</div>
+				</li>
+			</ul>
+			
+		</div>
+	</div>
+</div>
+<script>
+$(window).on( "load", function() {
+	Master.imgCropEvt('.viewBox .thumCont','img.cropclsetc','80','60');
+});
+</script><!--
+많이 본 뉴스 아래 
+-->
+<div class="smallbox"><iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_side2.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"></iframe></div> 
+	<div class="smallbox">
+		<p class="tit"><a href="/squ/section/?cid=16000&scid=11000&sscid=11014">기자수첩</a></p>
+		<div class="boxStyle07 right">
+			<div class="thumCont">
+				<a href="/view?id=NISX20230503_0002288981">
+					<img src="//image.newsis.com/2017/02/21/NISI20170221_0012712690_thm.jpg" alt="" style="width:auto" class="cropcls18">
+				</a>
+			</div>
+			<div class="txtCont">
+				<a href="/view?id=NISX20230503_0002288981">
+					<p class="tit">모든 영역에 'K 브랜드' 파급력 퇴색 내수용 벗어야</p>
+					<p class="name"></p>
+				</a>
+			</div>
+		</div>
+		<div class="boxStyle07 right">
+			<div class="thumCont">
+				<a href="/view?id=NISX20230426_0002281773">
+					<img src="//image.newsis.com/2018/10/05/NISI20181005_0000210059_thm.jpg" alt="" style="width:auto" class="cropcls18">
+				</a>
+			</div>
+			<div class="txtCont">
+				<a href="/view?id=NISX20230426_0002281773">
+					<p class="tit">가족돌봄, 이제는 정부가 적극 나설 때다</p>
+					<p class="name"></p>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- 기사 2벌일때 -->
+	<div class="smallbox">
+		<p class="tit"><a href="/squ/section/?cid=16000&scid=10900&sscid=10905">피플</a></p>
+		<div class="boxStyle07 left">
+			<div class="thumCont">
+				<a href="/view?id=NISX20230506_0002292803">
+					<img src="//image.newsis.com/2023/05/07/NISI20230507_0001259459_thm.jpg" alt="" style="width:auto" class="cropcls18">
+				</a>
+			</div>
+			<div class="txtCont">
+				<a href="/view?id=NISX20230506_0002292803">
+					<p class="subTit"></p>
+					<p class="tit">박세진·윤석철, 해장은 口뿐 아니라 耳로도…'한잔더' 외치는 조찬클럽</p>
+				</a>
+			</div>
+		</div>
+		<div class="boxStyle07 left">
+			<div class="thumCont">
+				<a href="/view?id=NISX20230504_0002290966">
+					<img src="//image.newsis.com/2023/05/07/NISI20230507_0001259430_thm.jpg" alt="" style="width:auto" class="cropcls18">
+				</a>
+			</div>
+			<div class="txtCont">
+				<a href="/view?id=NISX20230504_0002290966">
+					<p class="subTit"></p>
+					<p class="tit">이정근 경기마약퇴치본부장 "합법적 마약류, 안전장치 필요" </p>
+				</a>
+			</div>
+		</div>
+	</div>
+<script>
+$(window).on( "load", function() {
+	Master.imgCropEvt('.smallbox','img.cropcls18','110','100');
+
+});
+if(window.location.pathname.indexOf( '/view' ) >= 0 ){
+	$('div.boxStyle07.right').eq(1).after('<div class="smallbox"><iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_side3.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"></iframe></div><div class="smallbox"><iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_side4.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"></iframe></div><div class="smallbox"><iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_side5.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"></iframe></div>');
+}
+</script>	<div class="smallbox">
+	<iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_side6.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"></iframe>
+</div><div class="smallbox">
+	<iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_side7.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="300" height="348"></iframe>
+</div>							<div class="asideBox mt20 line">
+                                <p class="tit"><a href="/squ/sec/?cid=16000&sscid=10232">세상에 이런 일이</a></p>
+                                <div class="top">
+                                    <div class="thumCont">
+                                        <a href="/view?id=NISX20230506_0002292961&cid=10232">
+                                            <img src="//image.newsis.com/2022/11/14/NISI20221114_0019463580_web.jpg?rnd=20221114104323" alt="" style="width: auto;" class="cropcls2">
+                                        </a>
+                                    </div>
+                                    <div class="txtCont">
+                                        <a href="/view?id=NISX20230506_0002292961&cid=10232">
+                                            <p>"반드시 보복" 행동강령에 패싸움…철없는 조폭들 징역형</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <ul>
+                                    <li>
+                                        <a href="/view?id=NISX20230506_0002292921&cid=10232">술 취해 잠든 선장, 배는 갑판장이 몰고…벌금 2500만원</a>
+                                    </li>
+                                    <li>
+                                        <a href="/view?id=NISX20230506_0002292931&cid=10232">무면허 음주운전 40대 여성, 경찰에 친언니 주민번호 댔다가 '유죄'</a>
+                                    </li>
+                                    <li>
+                                        <a href="/view?id=NISX20230506_0002292906&cid=10232">집에서 죽은 남편, 범인은 전화로 싸우다 달려온 내연남</a>
+                                    </li>
+                                    <li>
+                                        <a href="/view?id=NISX20230506_0002292886&cid=10232">가슴까지 차오른 물…강에 고립된 낚시객 75분만에 구조</a>
+                                    </li>
+                                </ul>
+                            </div><div class="smallbox">
+	<iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_side8.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="300" height="260"></iframe>
+</div>
+
+<div class="asideBox mt20">
+	<p class="tit"><a href="/squ/sec/?cid=16000&sscid=16001">쏠쏠정보</a></p>
+	<div class="top">
+		<div class="thumCont">
+			<a href="/view?id=NISX20230507_0002293264&cid=16001">
+				<img src="//image.newsis.com/2023/05/07/NISI20230507_0001259621_web.jpg?rnd=20230507144230" alt="" style="width: auto;" class="cropcls2">
+			</a>
+		</div>
+		<div class="txtCont">
+			<a href="/view?id=NISX20230507_0002293264&cid=16001">
+				<p>혼동하기 쉬운 건축용어…베란다·발코니·테라스 차이는?</p>
+			</a>
+		</div>
+	</div>
+	<ul>
+		<li>
+			<a href="/view?id=NISX20230502_0002288905">'뒤척뒤척' 고통스런 불면의 밤…'꿀잠' 원한다면 이렇게[알아봅시다]</a>
+		</li>
+		<li>
+			<a href="/view?id=NISX20230504_0002292020">“식당·카페도 호텔처럼 ★모양이”…위생등급제 아세요?</a>
+		</li>
+		<li>
+			<a href="/view?id=NISX20230503_0002290281">"전세사기 피하려면 계약 전 3가지 확인하세요"</a>
+		</li>
+		<li>
+			<a href="/view?id=NISX20230502_0002288736">반복되는 소비자피해…서울시, 월별 '피해 품목' 예보</a>
+		</li>
+	</ul>
+</div>
+<script>
+$(window).on( "load", function() {
+	Master.imgCropEvt('.asideBox','img.cropcls2','300','225');
+});
+</script><div class="smallbox">
+	<iframe class="lazy_iframe" src="" data-src="/view/ad/proc_iframe_side9.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="300" height="260"></iframe>
+</div>
+						</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+<!-- //container -->        
+<!-- footer -->
+        <div id="footer">
+            <div class="serviceMenu">
+                <p class="tit">서비스 전체보기</p>
+                <div class="socialArea">
+                    <ul>
+                        <li class="face"><a href="https://www.facebook.com/newsis.news?sk=wall" target="_blank"><img src="//image.newsis.com/n_www/images/ico_face.png" alt="페이스북"></a></li>
+                        <li class="twi"><a href="https://twitter.com/newsis" target="_blank"><img src="//image.newsis.com/n_www/images/ico_twi.png" alt="트위터"></a></li>
+                        <li class="utu"><a href="https://www.youtube.com/channel/UCAKGKvxlNWuWn1wGXZnr01Q" target="_blank"><img src="//image.newsis.com/n_www/images/ico_utu.png" alt="유튜브"></a></li>
+                        <li class="naver"><a href="https://newsstand.naver.com/?pcode=003&list=ct1" target="_blank"><img src="//image.newsis.com/n_www/images/ico_naver.png" alt="네이버"></a></li>
+                        <li class="wifi"><a href="/RSS/" target="_blank"><img src="//image.newsis.com/n_www/images/ico_wifi.png" alt=""></a></li>
+                        <li class="phone"><a href="https://mobile.newsis.com" target="_blank"><img src="//image.newsis.com/n_www/images/ico_phone.png" alt=""></a></li>
+                    </ul>
+                </div>
+                <div class="cont section1">
+                    <p><strong>뉴스</strong></p>
+                    <ul>
+                        <li class="w100"><a href="/realnews" class="red">실시간</a></li>
+						
+                        <li><a href="/pol/?cid=10300">정치</a></li>
+						
+                        <li><a href="/int/?cid=10100">국제</a></li>
+						
+                        <li><a href="/eco/?cid=10400">경제</a></li>
+						
+                        <li><a href="/bank/?cid=15000">금융</a></li>
+						
+                        <li><a href="/inds/?cid=13000">산업</a></li>
+						
+                        <li><a href="/soci/?cid=10200">사회</a></li>
+						
+                        <li><a href="/met/?cid=14000">수도권</a></li>
+						
+                        <li><a href="/whol/?cid=10800">지방</a></li>
+						
+                        <li><a href="/cul/?cid=10700">문화</a></li>
+						
+                        <li><a href="/hel/?cid=13100">IT·바이오</a></li>
+						
+                        <li><a href="/spo/?cid=10500">스포츠</a></li>
+						
+                        <li><a href="/ent/?cid=10600">연예</a></li>
+						
+                        <li><a href="/pho/?cid=pho">포토</a></li>
+						
+                        <li><a href="/video/?cid=19000">뉴시스 TV</a></li>
+				
+                    </ul>
+                </div>
+                <div class="cont section2">
+                    <p><strong>광장</strong></p>
+                    <ul>
+                        <li class="w100"><a href="/squ/section/?cid=16000&scid=11000">기자수첩</a></li>
+                        <li><a href="/squ/?cid=16000">스토리칼럼</a></li>
+                        <li><a href="/squ/sec/?cid=16000&sscid=10720">아트클럽</a></li>
+                        <li><a href="/squ/section/?cid=16000&scid=11000&sscid=11011">기고</a></li>
+                        <li><a href="/squ/section/?cid=16000&scid=10900&sscid=10905">인터뷰</a></li>
+                        <li><a href="/squ/special/?cid=16000">기획특집</a></li>
+                        <li><a href="/squ/sec/?cid=16000">섹션코너</a></li>
+                        <li class="w100"><a href="/squ/top/?cid=16000">데일리뉴시스</a></li>
+                        <li class="w100"><a href="/squ/section/?cid=16000&scid=10900&sscid=10902">인사</a></li>
+                        <li class="w100"><a href="/squ/section/?cid=16000&scid=10900&sscid=10904">부고</a></li>
+                        <li class="w100"><a href="/squ/section/?cid=16000&scid=10900&sscid=10903">동정</a></li>
+                    </ul>
+                </div>
+                <div class="cont section3">
+                    <p><strong>포토&middot;영상</strong></p>
+                    <ul>
+                        <li><a href="/pho/list/?cid=pho&ptype=1">국내사진</a></li>
+                        <li><a href="/video?cid=19000">영상</a></li>
+                        <li class="w100"><a href="/pho/list/?cid=pho&ptype=2">해외사진</a></li>
+                        <li class="w100"><a href="/pho/gralist/?cid=pho">그래픽</a></li>
+                    </ul>
+                </div> 
+                <div class="cont section4">
+                    <p><strong>패밀리사이트</strong></p>
+                    <ul>
+                        <li class="w100"><a href="http://prime.newsis.com/" target="_blank">프라임뉴스</a></li>
+                        <li class="w100"><a href="https://weekly.newsis.com/" target="_blank">위클리뉴시스</a></li>
+					</ul>
+                    <p><strong>모바일앱서비스</strong></p>
+					<ul>
+                        <li class="w100"><a href="https://play.google.com/store/apps/details?id=kr.co.softcast.newsis.activitys&feature=search_result" target="_blank">Android</a></li>
+                        <li class="w100"><a href="https://apps.apple.com/kr/app/id384045534" target="_blank">IOS</a></li>
+                    </ul>
+                </div> 
+                <div class="cont section5">
+                    <p><strong>제휴사</strong></p>
+                    <ul>
+                        <li class="w100"><a href="https://www.ap.org/" target="_blank">AP통신</a></li>
+                        <li class="w100"><a href="http://www.xinhuanet.com/" target="_blank">新華通訊</a></li>
+                    </ul>
+                </div> 
+            </div>
+            <div class="joinCompany">   
+                <ul>
+                    <li><a href="http://www.skhynix.com/kor/index.jsp" target="_blank"><span><img src="//image.newsis.com/h_www/advertise/2016/11/13/AD_20161113_000356_1479016452.jpg" align="absmiddle" width="75" height="40"/></span></a></li>
+                    <li><a href="http://www.samsung.com/" target="_blank"><span><img src="//image.newsis.com/h_www/advertise/2016/11/13/AD_20161113_000356_1492654493.jpg" align="absmiddle" width="90" height="14"/></span></a></li>
+                    <li><a href="http://www.lg.co.kr/index/index.dev" target="_blank"><span><img src="//image.newsis.com/h_www/advertise/2016/11/13/AD_20161113_000356_1479016530.jpg" align="absmiddle" width="68" height="30"/></span></a></li>
+                    <li><a href="http://www.mobis.co.kr/main/index.do" target="_blank"><span><img src="//image.newsis.com/h_www/advertise/2016/11/13/AD_20161113_000356_1479016590.jpg" align="absmiddle" width="87" height="32"/></span></a></li>
+                </ul>
+            </div>
+            <div class="footer">
+                <div class="inner">
+                    <p class="logo"><img src="//image.newsis.com/n_www/images/logo_footer.png" alt="newsis"></p>
+                    <div class="footerMenu">
+                        <ul>
+                            <li><a href="javascript:intro_popup('', '');">회사소개</a></li>
+                            <li><a href="javascript:intro_popup('ad_question', '');">광고 &middot; 제휴 문의</a></li>
+                            <li><a href="javascript:intro_popup('coalition', '');">제휴사 안내</a></li>
+                            <li><a href="javascript:intro_popup('sale_content', '');">콘텐츠 판매</a></li>
+                            <li><a href="javascript:intro_popup('copyright', '');">저작권 규약</a></li>
+                            <li><a href="javascript:intro_popup('grievance', '');">고충처리</a></li>
+                            <li><a href="javascript:intro_popup('news_offer', '');">기사제보</a></li>
+                            <li><a href="javascript:intro_popup('policy', '1');">이용약관</a></li> 
+                            <li><a href="javascript:intro_popup('policy', '2');">개인정보 &middot; 청소년보호정책</a></li>
+                            <li><a href="javascript:intro_popup('policy', '3');"><strong>개인정보처리방침</strong></a></li>
+                            <li><a href="/intro">알립니다.</a></li>
+                        </ul>
+                    </div>
+                    <div class="address">
+                        <p>
+                            <span>대표이사 : 강호병</span>
+                            <span>주소 : 서울 중구  퇴계로  173 남산스퀘어빌딩 (구 극동빌딩) 12층</span>
+                            <span>사업자등록번호 : 102-81-36588</span>
+                        </p>
+                        <p>
+                            <span>발행인 : 강호병</span>
+							<span>편집인 : 강호병</span>
+                            <span>고충처리인 : 박상권</span>
+                            <span>통신판매업신고 : 서울중구 0398호</span>
+                            <span>문의  02-721-7400  webmaster@newsis.com</span>
+                        </p>
+                        <p>
+                            <span>뉴시스의 모든 콘텐츠는 저작권법의 보호를 받는 바, 무단 전재ㆍ복사ㆍ배포를 금합니다.  Copyright © NEWSIS.COM  All  rights  reserved.</span>
+                        </p>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+		
+		<form name="intro_form" method="post" action="/company/" target="newsis_intro">
+			<input type="hidden" name="page" value="">
+			<input type="hidden" name="sub_page" value="">
+		</form><!-- //footer -->
+<!-- 고정배너 -->
+<div id="quick_banner" class="view" style="top: 73px; position: fixed;">
+	<div class="socialBox view">
+		<div class="" style="display:none;">
+			<button class="like">
+				<strong>99+</strong>
+				<img src="//image.newsis.com/n_www/images/img_like.png" alt="좋아요">
+			</button>
+		</div>
+		<ul>
+			<li><a href="#"><img src="//image.newsis.com/n_www/images/icon_social_facebook2.png" alt="페이스북" onclick="snsSend('facebook', 'article');"></a></li>
+			<li><a href="#"><img src="//image.newsis.com/n_www/images/icon_social_twitter2.png" alt="트위터" onclick="snsSend('twitter','article');"></a></li>
+			<li><a href="#"><img src="//image.newsis.com/n_www/images/icon_social_kakao2.png" alt="카카오톡" onclick="snsSend('kakao','article');"></a></li>
+			<li><a href="#"><img src="//image.newsis.com/n_www/images/icon_social_kakao.png" alt="카카오스토리" onclick="snsSend('kakaostory','article');"></a></li>
+			<li><a href="#"><img src="//image.newsis.com/n_www/images/icon_social_naver2.png" alt="네이버 블로그" onclick="snsSend('naver','article');"></a></li>
+			<li class="divi"><a href="?id=NISX20230504_0002290966&reply"><img src="//image.newsis.com/n_www/images/icon_social_reply2.png" alt="댓글" onclick=""></a></li>
+			<li><a href="#"><img src="//image.newsis.com/n_www/images/icon_top.png" alt="홈페이지 상단이동" onclick=""></a></li>
+		</ul>
+		<!-- float 해제 -->
+		<div class="cboth"></div>
+	</div>
+</div>	
+
+		<div id="quick_up">
+			<a href="#"><img src="//image.newsis.com/n_www/images/btn_up.png" alt=""></a>
+		</div>
+<script>
+	setTimeout(function() {
+		viewerQuick();
+		$("#quick_banner.view").css("opacity","1");
+	}, 3000);
+</script>
+    </body>
+</html>

@@ -1,0 +1,164 @@
+<!DOCTYPE html><html lang="pl"><head><meta charset="utf-8">
+	<meta name="robots" content="none">
+	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1">
+
+	<title>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</title>
+	<meta name="author" content="Tomasz Wilczyński">
+
+	<base href="https://twilczynski.com/">
+	<link rel="icon" href="data:,">
+	<link rel="stylesheet" href="uj/css/all.css">
+	<link rel="stylesheet" media="print" href="uj/css/print.css">
+</head><body class="home">
+
+<h1>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</h1>
+
+<h2>Praca domowa 1 (<abbr>XML</abbr>) - Patrycja Żółkiewska</h2>
+
+<div>
+	<a href="uj/zajecia/22-23l/pikt/pracedomowe/1/11/pliki/Praca domowa 1 (XML) - Patrycja Żółkiewska.xml">Praca domowa 1 (XML) - Patrycja Żółkiewska.xml</a>
+</div>
+
+<pre class="code-box code"><code>&lt;?xml version="1.0" encoding="UTF-8" standalone="yes"?&gt;
+
+&lt;!--
+	Poprawki:
+	- zmiana nazw elementów 연습1, 연습2, 연습3 na 문제
+	- usunięcie numeracji z nazw elementów 드라마 i 인물
+	- zmiana nazw elementów miast na 도시, uczelni na 대학교 i przeniesienie nazw miast i uczelni do podelementów 이름
+	- przeniesienie wartości atrybutów 장르 do nowych elementów
+	- zmiana nazwy elementów 첫_번째_에피소드의_출시일 na 시작일
+	- zmiana nazwy elementów 마지막_에피소드의_출시일 na 종료일
+	- zmiana nazwy atrybutów 날짜 na 일자
+	- zmiana wartości 창립년도 z 알려지지 않은 na 알 수 없음
+	- drobne poprawki w składni i słownictwie
+--&gt;
+
+&lt;숙제&gt;
+	&lt;문제&gt;
+		&lt;드라마&gt; 
+			&lt;제목&gt;변론을 시작하겠습니다&lt;/제목&gt;
+			&lt;장르&gt;법정, 미스터리&lt;/장르&gt;
+			&lt;시작일&gt;2022년 9월 21일&lt;/시작일&gt;
+			&lt;종료일&gt;2022년 10월 26일&lt;/종료일&gt;
+			&lt;에피소드_수&gt;12&lt;/에피소드_수&gt;
+			&lt;주요_인물&gt;
+				&lt;인물 배우="정려원" 성별="여" &gt;노착희&lt;/인물&gt;
+				&lt;인물 배우="이규형" 성별="남" &gt;좌시백&lt;/인물&gt;
+			&lt;/주요_인물&gt;
+		&lt;/드라마&gt;
+		&lt;드라마&gt;
+			&lt;제목&gt;슈츠&lt;/제목&gt;
+			&lt;장르&gt;법정물&lt;/장르&gt;
+			&lt;시작일&gt;2018년 4월 25일&lt;/시작일&gt;
+			&lt;종료일&gt;2018년 6월 14일&lt;/종료일&gt;
+			&lt;에피소드_수&gt;16&lt;/에피소드_수&gt;
+			&lt;주요_인물&gt;
+				&lt;인물 배우="장동건" 성별="남" &gt;최강석&lt;/인물&gt;
+				&lt;인물 배우="박형식" 성별="남" &gt;고연우&lt;/인물&gt;
+		&lt;/주요_인물&gt;
+		&lt;/드라마&gt;
+		&lt;드라마&gt;
+			&lt;제목&gt;바람피면 죽는다&lt;/제목&gt;
+			&lt;장르&gt;코미디, 미스터리, 스릴러&lt;/장르&gt;
+			&lt;시작일&gt;22020년 12월 2일&lt;/시작일&gt;
+			&lt;종료일&gt;2021년 1월 28일&lt;/종료일&gt;
+			&lt;에피소드_수&gt;16&lt;/에피소드_수&gt;
+			&lt;주요_인물&gt;
+				&lt;인물 배우="조여정" 성별="여" &gt;강여주&lt;/인물&gt;
+				&lt;인물 배우="고준" 성별="남" &gt;한우성&lt;/인물&gt;
+			&lt;/주요_인물&gt;
+		&lt;/드라마&gt;
+	&lt;/문제&gt;
+	&lt;문제&gt;
+		&lt;도시&gt;
+			&lt;이름&gt;전주시&lt;/이름&gt;
+			&lt;도&gt;전라북도&lt;/도&gt;
+			&lt;인구 일자="2022년 3월"&gt;655,879명&lt;/인구&gt;
+			&lt;창립년도&gt;알 수 없음&lt;/창립년도&gt;
+			&lt;행정_구역&gt;
+				&lt;구&gt;2&lt;/구&gt; 
+				&lt;행정동&gt;35&lt;/행정동&gt; 
+				&lt;법정동&gt;83&lt;/법정동&gt;
+			&lt;/행정_구역&gt;
+			&lt;국회의원&gt;
+				&lt;갑 성별="남" 나이="57"&gt;김윤덕&lt;/갑&gt;
+				&lt;을&gt;공석&lt;/을&gt;
+				&lt;병 성별="남" 나이="59"&gt;김성주&lt;/병&gt;
+			&lt;/국회의원&gt;
+			&lt;연평균_기온&gt;13.3°C&lt;/연평균_기온&gt;
+		&lt;/도시&gt;
+		&lt;도시&gt;
+			&lt;이름&gt;목포시&lt;/이름&gt;
+			&lt;인구&gt;220,000명&lt;/인구&gt;
+			&lt;창립년도&gt;알 수 없음&lt;/창립년도&gt;
+			&lt;행정_구역&gt; 
+				&lt;행정동&gt;23&lt;/행정동&gt; 
+				&lt;법정동&gt;64&lt;/법정동&gt;
+			&lt;/행정_구역&gt;
+			&lt;국회의원&gt;
+				&lt;갑 성별="남" 나이="55"&gt;김원이&lt;/갑&gt;
+			&lt;/국회의원&gt;
+			&lt;연평균_기온&gt;18°C&lt;/연평균_기온&gt;
+		&lt;/도시&gt;
+		&lt;도시&gt;
+			&lt;이름&gt;부산광역시&lt;/이름&gt;
+			&lt;인구 일자="2022년"&gt;3,317,812명&lt;/인구&gt;
+			&lt;창립년도&gt;알 수 없음&lt;/창립년도&gt;
+			&lt;행정_구역&gt;
+				&lt;구&gt;15&lt;/구&gt; 
+				&lt;군&gt;1&lt;/군&gt;
+				&lt;동리&gt;253&lt;/동리&gt; 
+				&lt;읍&gt;3&lt;/읍&gt;
+				&lt;면&gt;2&lt;/면&gt;
+			&lt;/행정_구역&gt;
+			&lt;시장 성별="남" 나이="63"&gt;박형준&lt;/시장&gt;
+			&lt;연평균_기온&gt;14.7°C&lt;/연평균_기온&gt;
+		&lt;/도시&gt;
+	&lt;/문제&gt;
+	&lt;문제&gt;
+		&lt;대학교&gt;
+			&lt;이름&gt;전북대학교&lt;/이름&gt;
+			&lt;창립_연도&gt;1947년 10월 15일&lt;/창립_연도&gt;
+			&lt;주소&gt;
+				&lt;전주캠퍼스&gt;전라북도 전주시 덕진구 백제대로 567&lt;/전주캠퍼스&gt;
+				&lt;특성화캠퍼스&gt;전라북도 익산시 고봉로 79&lt;/특성화캠퍼스&gt;
+				&lt;고창캠퍼스&gt; 고창군 고창읍 태봉로 361&lt;/고창캠퍼스&gt;
+				&lt;새만금프런티어캠퍼스&gt;전라북도 군산시 산단남북로 177&lt;/새만금프런티어캠퍼스&gt;
+				&lt;완주캠퍼스&gt;전라북도 완주군 이서면 콩쥐팥쥐로 1043-7&lt;/완주캠퍼스&gt;
+				&lt;완주캠퍼스&gt;전라북도 완주군 봉동읍 용암리 38&lt;/완주캠퍼스&gt;
+				&lt;정읍캠퍼스&gt;전라북도 정읍시 입신길 181&lt;/정읍캠퍼스&gt;
+				&lt;남원캠퍼스&gt;전라북도 남원시&lt;/남원캠퍼스&gt;
+			&lt;/주소&gt;
+			&lt;종류&gt;국립&lt;/종류&gt;
+			&lt;학부생_수&gt;25,305명&lt;/학부생_수&gt;
+			&lt;총장&gt;양오봉&lt;/총장&gt;
+		&lt;/대학교&gt;
+		&lt;대학교&gt;
+			&lt;이름&gt;제주대학교&lt;/이름&gt;
+			&lt;창립_연도&gt;1951년&lt;/창립_연도&gt;
+			&lt;주소&gt;
+				&lt;아라캠퍼스&gt;제주특별자치도 제주시 제주대학로 102 (아라동)&lt;/아라캠퍼스&gt;
+				&lt;사라캠퍼스&gt;제주특별자치도 제주시 일주동로 61 (화북동)&lt;/사라캠퍼스&gt;
+			&lt;/주소&gt;
+			&lt;종류&gt;국립&lt;/종류&gt;
+			&lt;학부생_수&gt;30,898명&lt;/학부생_수&gt;
+			&lt;총장&gt;김일환&lt;/총장&gt;
+			&lt;학과_수&gt;12&lt;/학과_수&gt;
+		&lt;/대학교&gt;
+		&lt;대학교&gt;
+			&lt;이름&gt;한국외국어대학교&lt;/이름&gt;
+			&lt;창립_연도&gt;1954년 4월 20일&lt;/창립_연도&gt;
+			&lt;주소&gt;
+				&lt;서울캠퍼스&gt;서울특별시 동대문구 이문로 107(이문동 270-1)&lt;/서울캠퍼스&gt;
+				&lt;글로벌캠퍼스&gt;경기도 용인시 처인구 모현읍 외대로 81(왕산리 산55-4)&lt;/글로벌캠퍼스&gt;
+			&lt;/주소&gt;
+			&lt;종류&gt;사립&lt;/종류&gt;
+			&lt;학부생_수&gt;17,770명&lt;/학부생_수&gt;
+			&lt;총장&gt;박정운&lt;/총장&gt;
+			&lt;학부&gt;13&lt;/학부&gt;
+			&lt;학과_수&gt;64&lt;/학과_수&gt;
+		&lt;/대학교&gt;
+	&lt;/문제&gt;
+&lt;/숙제&gt;</code></pre>
+</body></html>

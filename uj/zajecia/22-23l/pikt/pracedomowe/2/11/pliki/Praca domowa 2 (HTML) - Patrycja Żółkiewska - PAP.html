@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<!-- Zapisz w HTML-u trzy wybrane artykuły z Polskiej Agencji Prasowej (https://pap.pl) -->
+
+<!--
+	Poprawki:
+	- dodanie atrybutu lang do elementu <html>
+	- zmiana elementu <b> na <strong>
+	- dodanie elementów <li> wewnątrz <menu>
+	- usunięcie spacji w atrybutach id
+	- style dobrze byłoby przenieść w całości do pliku CSS
+	- JavaScript dobrze byłoby umieścić w oddzielnym pliku JS
+-->
+
+<html lang="pl">
+	<head>
+		<link rel="stylesheet" href="Praca%20domowa%202%20(HTML)%20-%20Patrycja%20Żółkiewska%20-%20PAP.css">
+		<script>
+			function ShowAndHide(id) {
+				var x = document.getElementById(id);
+				if (x.style.display == 'none') {
+					x.style.display = 'block';
+				} else {
+					x.style.display = 'none';
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<h1 style="text-align: center;">숙제 2 pt.3</h1>
+		<div>
+			<p style="text-align: center;"><strong>기사 제목을 선택하세요.</strong></p>
+			<menu class="menu">
+				<li><button onclick="ShowAndHide('num1')">문제 1</button></li>
+				<li><button onclick="ShowAndHide('num2')" style="margin-left: 10px; margin-right: 10px;">문제 2</button></li>
+				<li><button onclick="ShowAndHide('num3')">문제 3</button></li>
+			</menu>
+		</div>
+		<div id="num1" style="display: none; text-align: justify;">
+				<h2 style="text-align: right;">Owce zastąpią kosiarki. W Nantes pasą się już krowy, świnie i kozy.</h2>
+				<h3 style="text-align: right;">Anonim</h3>
+				<p>W Nantes w zachodniej Francji 11 owiec wędruje po mieście pod okiem pasterza i pracowników miejskich, zatrzymując się w parkach. Projekt ma na celu wprowadzenie zwierząt do miasta – pisze francuski dziennik „Le Figaro”.</p>
+				<p> „Owce od kilku miesięcy są przyzwyczajane do miejskiego hałasu. Harmonogram mają ustalony co do minuty, tak aby nie przekroczyć linii tramwajowej. Czasami, gdy nie idą wzdłuż rzeki, owce muszą korzystać z drogi. W tym przypadku za wyprzedzanie ich odpowiada straż miejska” – pisze „Le Figaro”.</p>
+				<p>Jak twierdzi radna Severine Figuls, projekt ma na celu „wprowadzanie zwierząt do miasta”. Owce będą pasły się w parkach, co jest „mniej agresywne od kosiarek”. Gazeta zaznacza, że w dzielnicach miasta pasą się już krowy, świnie i kozy.</p>
+				<p>Obecność owiec ma być atrakcyjna dla mieszkańców; zwierzęta są cały czas fotografowane. Jeśli chodzi o odchody, to „stanowią one nawóz i sprawiają, że trawa oddycha” – twierdzą przedstawiciele miasta.</p>
+				<p>Celem jest również dotarcie do dzieci w wieku szkolnym, które w ten sposób będą mogły odkrywać dla siebie faunę.</p>
+				<p>Stadko, które należy do miasta, będzie wędrować po niemal wszystkich dzielnicach. W parkach mają odbywać się również zajęcia dla rodzin z ich udziałem.</p>
+				<p>W środę owce opuściły park La Beaujoire, aby przemieścić się w drugie miejsce, gdzie spędzą kolejny tydzień. Owce od marca do lipca przemieszczać się będą po mieście w regularnych odstępach czasu pod okiem pasterza i pracowników miejskich.</p>
+				<p>Nie jest to pierwszy tego typu projekt we Francji – przypomina „Le Figaro”. W Lyonie, mieście zarządzanym przez ekologa Gregory’ego Douceta, we wrześniu ubiegłego roku przez trzy dni i dwie noce 30 owiec przemierzało po mieście 24 kilometry – pisze dziennik.</p>
+		</div>
+		<div id="num2" style="display: none; text-align: justify;">
+			<h2 style="text-align: right;">Polsko-armeński zespół odkrył "ZLoty Grobowiec" sprzed 3 tysięcy lat.</h2>
+			<h3 style="text-align: right;">Szymon Ździebłowski</h3>
+			<p>Grób dwóch osób, zapewne pary - mężczyzny i kobiety, w którym odkryto pozostałości po trzech złotych naszyjnikach przebadał w Metsamor w Armenii polsko-armeński zespół archeologów. Pochodzi z czasów, gdy w Egipcie rządził Ramzes II.</p>
+			<p>Metsamor to jedno z najbardziej znanych stanowisk archeologicznych w Armenii położone kilkadziesiąt kilometrów na zachód od Erywania.</p>
+			<p>Był to grób skrzynkowy. Oznacza to, że dwa szkielety znaleziono w komorach zagłębionych w ziemię i obramowanych dużymi kamieniami. Badacze natknęli się też na pozostałości drewnianego łoża pogrzebowego.</p>
+			<p>Archeolodzy opisali, że kości zachowały się dobrze. Oba szkielety miały lekko podkurczone nogi. Ze wstępnych szacunków wynika, że para zmarła w wieku 30-40 lat.</p>
+			<p>“Śmierć tych osób jest dla nas zagadką, nie znamy przyczyny, ale wszystko wskazuje, że zmarli jednocześnie, bo nie ma śladów po ponownym otwieraniu grobowca” - powiedział PAP szef badań, prof. Krzysztof Jakubiak z Wydziału Archeologii UW. Jest to wspólny projekt Centrum Archeologii Śródziemnomorskiej UW i Departamentu Starożytności i Ochrony Dziedzictwa Narodowego Armenii. Ze strony armeńskiej przedsięwzięciem kieruje prof. Ashot Piliposjan.</p>
+			<p>Prof. Jakubiak uważa, że jest to wyjątkowe znalezisko, bo grób nie został obrabowany i jest bardzo bogato wyposażony.</p>
+			<p>Grób pochodzi z końca późnej epoki brązu (1300–1200 p.n.e.). To mniej więcej w tym czasie w Egipcie rządził słynny faraon Ramzes II Wielki. Wewnątrz grobowca archeolodzy znaleźli ponad sto paciorków i zawieszek ze złota. Część z nich przypomina trochę krzyże celtyckie. Było też kilkadziesiąt zawieszek z karneolu.</p>
+			<p>“Zapewne wszystkie te elementy składały się na trzy naszyjniki” - uważa prof. Jakubiak.</p>
+			<p>W grobie było też kilkanaście kompletnych naczyń ceramicznych oraz unikatowa fajansowa flasza. Nie jest ona jednak lokalnej produkcji. Przywieziono ją z pogranicza syryjsko-mezopotamskiego - ustalili naukowcy.</p>
+			<p>Prof. Jakubiak powiedział, że do tej pory na olbrzymiej nekropolii mającej zapewne ok. 100 ha przebadano ok. 100 grobów, ale tylko kilka z nich nie było wyrabowanych.</p>
+			<p>Według naukowców groby na tym cmentarzysku miały formę kurhanów - skrzynie kamienne pokrywano dużą ilością ziemi. Jednak po nasypach do naszych czasów prawie nie zachował się ślad.</p>
+			<p>Archeolodzy nie wiedzą, kto w tym czasie - w drugiej połowie II tysiąclecia - mieszkał w Metsamor. Lud, który zamieszkiwał tam obszerną, ufortyfikowana osadę nie był piśmienny, więc nie pozostawił po sobie żadnych tekstów. To utrudnia jego identyfikację przez naukowców.</p>
+			<p>“Była to jednak wielka osada. Do naszych czasów zachowały się nawet fortyfikacje wykonane z olbrzymich bloków kamiennych, opasające położoną na wzgórzu tzw. cytadelę. Pod koniec II tysiąclecia p.n.e. nie było w regionie osady, którą można by porównać pod względem rangi i wielkości” - uważa prof. Jakubiak.</p>
+			<p>Metsamor jest chronionym stanowiskiem archeologicznym o statusie rezerwatu archeologicznego. Wykopaliska w jego obrębie prowadzone są od 1965 roku.</p>
+			<p>W okresie świetności od IV do II tysiąclecia p.n.e. osada zajmowała ponad 10 hektarów i otoczona była przez mury cyklopie. We wczesnym okresie żelaza od XI do IX wieku Metsamor rozrosło się do prawie 100 hektarów. Centralną część w postaci twierdzy otaczały kompleksy świątynne z siedmioma sanktuariami. W tym czasie było to jedno z najważniejszych centrów kulturowych i politycznych w dolinie Araksu. Miejsce było stale zasiedlane aż do XVII wieku.</p>
+			<p>Od VIII wieku p.n.e. Metsamor wchodziło w skład królestwa Uraratu – biblijnego królestwa Ararat. Podboju dokonał król Argiszti I. To za jego panowania granice państwa poszerzyły się o Zakaukazie, właśnie o rejon dzisiejszego Erywania. Zniszczenia z tego okresu polscy archeolodzy odkryli w poprzednich latach.</p>
+			<p>Ostatni sezon badawczy odbył się we wrześniu i październiku 2022 r. Polacy prowadzą wykopaliska w Metsamor od 2013 r. na mocy umowy z Instytutem Archeologii Akademii Nauk Armenii oraz Ministerstwem Kultury Armenii.</p>
+		</div>
+		<div id="num3" style="display: none; text-align: justify;">
+			<h2 style="text-align: right;">Niemcy chcą się rozliczyć ze swoją historią kolonialną w Tanzanii. Jest mowa o reparacjach</h2>
+			<h3 style="text-align: right;">Berenika Lemańczyk</h3>
+			<p> Sekretarz stanu w niemieckim ministerstwie spraw zagranicznych Katja Keul zapowiedziała rozliczenie historii kolonialnej Niemiec w Tanzanii. Najwyższy czas zająć się tym problemem - oświadczyła. Tanzania już w 2020 roku wezwała Berlin do negocjacji w sprawie reparacji.</p>
+			<p>Obszar dzisiejszej Tanzanii należał w latach 1885-1918 do kolonii "Niemiecka Afryka Wschodnia". Szacuje się, że podczas powstania Maji Maji, w którym rdzenne grupy ludności zjednoczyły się przeciwko niemieckim okupantom, zginęło nawet 300 000 afrykańskich mężczyzn, kobiet i dzieci.</p>
+			<p>Sekretarz stanu w niemieckim MSZ Katja Keul zapowiedziała rozliczenie historii kolonialnej Niemiec w Tanzanii.</p>
+			<p>"Najwyższy czas zająć się tym problemem" - powiedziała portalowi Table Media.</p>
+			<p>W niemieckich muzeach znajdują się setki czaszek, które niemieccy naukowcy przywieźli z kolonii do Niemiec - pisze portal stacji Deutschlandfunk. Zgodnie z wolą MSZ i prezesa Fundacji Pruskiego Dziedzictwa Kulturowego Harmanna Parzingera doczesne szczątki mają zostać zwrócone lub pochowane w odpowiednim miejscu. Chodzi również o zwrot zrabowanych dóbr kultury.</p>
+			<p>"Tanzania wzywa Niemcy do negocjacji w sprawie reparacji za zbrodnie popełnione w okresie niemieckiego kolonializmu w Afryce Wschodniej" - pisały niemieckie media w 2020 roku.</p>
+			<p>"Oczekuję, że rząd niemiecki zrobi tu pierwszy krok i zwróci się do nas" - powiedział wówczas gazecie "Tagesspiegel" ambasador Tanzanii w Berlinie Abdallah Possi.</p>
+			<p>Podkreślał, że najpierw niemiecki rząd musi oficjalnie poinformować rząd Tanzanii "o tym, ile ludzkich kości i przedmiotów kultury z obecnej Tanzanii zostało przywiezionych do Niemiec w okresie kolonialnym i gdzie są one dzisiaj".</p>
+			<p>W ramach rozliczeń z historia kolonialną Niemiec w Afryce rząd Niemiec i rząd Namibii od dłuższego czasu negocjują porozumienie w sprawie odszkodowań dla Namibii. W grudniu minister spraw zagranicznych Niemiec Annalena Baerbock i minister stanu ds. kultury Claudia Roth oddały Nigerii 20 cennych brązów z dawnego królestwa Beninu. Zrabowane w czasach kolonialnych dzieła sztuki przez długi czas znajdowały się w zbiorach niemieckich muzeów.</p>
+			<p>"Wspaniale usłyszeć, że Niemcy planują zwrócić Tanzanii "zagrabioną sztukę" sprzed ponad 100 lat i rozpocząć dyskusję na temat reparacji. Czekamy na konstruktywne rozpoczęcie dyskusji na temat reparacji dla Polski" - napisano na Twitterowym koncie Reparations-for-Poland.com.</p>
+		</div>
+	</body>
+</html>

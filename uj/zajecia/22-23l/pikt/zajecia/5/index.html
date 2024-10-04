@@ -1,0 +1,120 @@
+<!DOCTYPE html><html lang="pl"><head><meta charset="utf-8">
+	<meta name="robots" content="none">
+	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1">
+
+	<title>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</title>
+	<meta name="author" content="Tomasz Wilczyński">
+
+	<base href="https://twilczynski.com/">
+	<link rel="icon" href="data:,">
+	<link rel="stylesheet" href="uj/css/all.css">
+	<link rel="stylesheet" media="print" href="uj/css/print.css">
+</head><body class="home">
+
+<h1>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</h1>
+
+<h2>Wyrażenia regularne (regex): przeszukiwanie i przetwarzanie tekstu</h2>
+
+<ul>
+	<li><a href="uj/zajecia/22-23l/pikt/pdf/Learn%20PowerShell%20in%20a%20Month%20of%20Lunches.%20Chapter%2021.%20Using%20regular%20expressions%20to%20parse%20text%20files.pdf">Learn PowerShell in a Month of Lunches. Chapter 21. Using regular expressions to parse text files</a></li>
+</ul>
+
+<h3>1. Czym są wyrażenie regularne?</h3>
+
+<ul>
+	<li>narzędzie do przetwarzania danych tekstowych</li>
+	<li>samodzielny język służący do definiowania ciągu znaków</li>
+	<li>główne zastosowania:
+		<ul>
+			<li>wyszukiwanie danego ciągu znaków w plikach tekstowych</li>
+			<li>wyciąganie potrzebnych danych z wyszukanego ciągu znaków</li>
+			<li>zastępowanie wyszukanych ciągów znaków innymi ciągami znaków</li>
+		</ul>
+	</li>
+</ul>
+
+<h3>2. Podstawowa składnia</h3>
+
+<ul>
+	<li><code>\w</code> - znaki słowne (litery, cyfry, myślnik dolny)</li>
+	<li><code>\W</code> - zaprzeczenie <code>\w</code></li>
+	<li><code>\d</code> - cyfry od 0 do <code>9</code> (odpowiednik <code>[0-9]</code>)</li>
+	<li><code>\D</code> - zaprzeczenie <code>\d</code></li>
+	<li><code>\s</code> - spacja, tabulator (<code>`t</code>), znaki nowej linii (<code>`r</code>, <code>`n</code>)</li>
+	<li><code>\S</code> - zaprzeczenie <code>\s</code></li>
+	<li><code>.</code> - dowolny jeden znak</li>
+	<li><code>[abcde]</code> - dowolny znak z zestawu</li>
+	<li><code>[a-z]</code> - dowolny znak z przedziału</li>
+	<li><code>[^abcde]</code> - zaprzeczenie <code>[abcde]</code></li>
+	<li><code>?</code> - 0 lub 1 wystąpienie poprzedzającego znaku</li>
+	<li><code>*</code> - 0 lub więcej wystąpień poprzedzającego znaku</li>
+	<li><code>+</code> - 1 lub więcej wystąpień poprzedzającego znaku</li>
+	<li><code>\</code></li> - znak modyfikacji; użyty przed innym znakiem specjalnym neguje jego specjalne znaczenie, np. <code>\.</code>
+	<li><code>{2}</code> - 2 wystąpienia poprzedzającego znaku (<code>{2,}</code> to 2 lub więcej, <code>{1,5}</code> to od 1 do <code>5</code>, itp.)</li>
+	<li><code>^</code> - początek linii</li>
+	<li><code>$</code> - koniec linii</li>
+</ul>
+
+<h3>3. Rodzaje użycia w PowerShellu</h3>
+
+<ul>
+	<li>operator <code>-match</code></li>
+	<li>operator <code>-replace</code></li>
+	<li>polecenie <code>Select-String</code></li>
+</ul>
+
+<h2>Praca domowa</h2>
+
+<h3>Tematy</h3>
+
+<ul>
+	<li>고령화 / starzenie się społeczeństwa</li>
+	<li>극단주의 / ekstremizm</li>
+	<li>다문화 / wielokulturowość</li>
+	<li>마약범죄 / przestępstwa narkotykowe</li>
+	<li>물가상승 / inflacja</li>
+	<li>북핵 / broń jądrowa KRLD</li>
+	<li>성차별 / dyskryminacja płciowa</li>
+	<li>세대갈등 / konflikt pokoleń</li>
+	<li>인터넷 검열 / cenzura w Internecie</li>
+	<li>저출산 / niski wskaźnik urodzeń</li>
+	<li>학교폭력 / przemoc w szkole</li>
+</ul>
+
+<ol>
+	<li>Wybierz jeden z tematów wymienionych powyżej. Każdy temat może zostać wybrany tylko przez jedną osobę.</li>
+	<li>Napisz dla języka koreańskiego skrypt w PowerShellu, który automatycznie:
+		<ol>
+			<li>Wyszuka w <a href="https://news.naver.com">네이버 뉴스</a> artykuły na dany temat.</li>
+			<li>Zapisze pierwsze 10 z nich na dysku w postaci plików 
+			<abbr>HTML</abbr> (patrz: odnośniki oznaczone <q>네이버뉴스</q>)</li>
+			<li>Pozbędzie się z plików wszystkich tagów i innych znaczników pozostawiając wyłącznie sam tytuł oraz podzielony na akapity tekst.</li>
+			<li>Wyszuka i zapisze w oddzielnym pliku wszystkie zdania zawierające dane słowo kluczowe.</li>
+		</ol>
+	</li>
+	<li>Napisz dla języka polskiego skrypt w PowerShellu, który automatycznie:
+		<ol>
+			<li>Wyszuka za pomocą Google News w wybranym polskim portalu internetowym artykuły na dany temat. (wskazówka: <code>site:pap.pl wielokulturowość</code>)</li>
+			<li>Zapisze pierwsze 10 z nich na dysku w postaci plików <abbr>HTML</abbr>.</li>
+			<li>Pozbędzie się z plików wszystkich tagów i innych znaczników pozostawiając wyłącznie sam tytuł oraz podzielony na akapity tekst.</li>
+			<li>Wyszuka i zapisze w oddzielnym pliku wszystkie zdania zawierające dane słowo kluczowe.</li>
+		</ol>
+	</li>
+</ol>
+
+<p>Każde działanie lub blok kodu wykonujący konkretne działanie powinien być opisany za pomocą komentarzy wyjaśniających, co dany kod konkretnie robi.</p>
+
+<p>Ostateczna wersja pracy domowej dla każdego z obu języków powinna składać się z następujących składników:</p>
+
+<ul>
+	<li>skryptu .ps1 wykonującego po kolei wszystkie działania</li>
+	<li>10 plików .html z artykułami w oryginalnej formie</li>
+	<li>10 plików .txt z tytułami oraz akapitami z artykułów</li>
+	<li>10 plików .txt ze zdaniami zawierającymi słowo kluczowe</li>
+</ul>
+
+<p>Gotowy zestaw plików wyślij na adres <a href="mailto:tomasz1.wilczynski@uj.edu.pl">tomasz1.wilczynski@uj.edu.pl</a> najpóźniej do północy w niedzielę 7 maja. Cały zestaw powinien być przygotowany w taki sposób, aby skrypty można było uruchomić i uzyskać identyczny wynik ich działania w postaci plików tekstowych.</p>
+
+<p><strong>Przed wysłaniem pamiętaj o zmianie końcówki plików .ps1 na .txt (lub utwórz archiwum .zip zabezpieczone hasłem "pikt").</strong></p>
+
+</body></html>

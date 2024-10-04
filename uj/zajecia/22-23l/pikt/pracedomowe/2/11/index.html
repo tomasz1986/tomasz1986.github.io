@@ -1,0 +1,300 @@
+<!DOCTYPE html><html lang="pl"><head><meta charset="utf-8">
+	<meta name="robots" content="none">
+	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1">
+
+	<title>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</title>
+	<meta name="author" content="Tomasz Wilczyński">
+
+	<base href="https://twilczynski.com/">
+	<link rel="icon" href="data:,">
+	<link rel="stylesheet" href="uj/css/all.css">
+	<link rel="stylesheet" media="print" href="uj/css/print.css">
+</head><body class="home">
+
+<h1>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</h1>
+
+<h2>Praca domowa 2 (<abbr>HTML</abbr>) - Patrycja Żółkiewska</h2>
+
+<div>
+	<a href="uj/zajecia/22-23l/pikt/pracedomowe/2/11/pliki/Praca domowa 2 (HTML) - Patrycja Żółkiewska - XML.html">Praca domowa 2 (HTML) - Patrycja Żółkiewska - XML.html</a>
+</div>
+
+<pre class="code-box code"><code>&lt;!DOCTYPE html&gt;
+
+&lt;!--
+	Poprawki:
+	- dodanie atrybutu lang do elementu &lt;html&gt;
+	- dodanie elementu &lt;head&gt;
+	- zmiana elementu &lt;em&gt; na &lt;em&gt;
+	- dodanie elementów &lt;thead&gt; i &lt;tbody&gt; oraz poprawne zamknięcie &lt;table&gt;
+	- style dobrze byłoby przenieść w całości do pliku CSS
+--&gt;
+
+&lt;html lang="ko"&gt;
+&lt;head&gt;
+	&lt;style&gt;
+		body{
+			background-color: rgb(220, 245, 223);
+			margin-left: 100px;
+			margin-right: 100px;
+		}
+	&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;h1 style="text-align: center;"&gt;숙제 2 pt.1&lt;/h1&gt;
+	&lt;h2 style="text-align: center;"&gt;문제 1 - 드라마&lt;/h2&gt;
+		&lt;h3 style="color: rgb(137, 0, 149);"&gt;바람피면 죽는다&lt;/h3&gt;
+		&lt;p&gt;&lt;em&gt;장르:&lt;/em&gt; 코미디, 미스터리, 스릴러&lt;/p&gt;
+		&lt;p&gt;&lt;em&gt;시작일:&lt;/em&gt; 2020년 12월 2일&lt;/p&gt;
+		&lt;p&gt;&lt;em&gt;종료일:&lt;/em&gt; 2021년 1월 28일&lt;/p&gt;
+		&lt;p&gt;&lt;em&gt;에피소드 수:&lt;/em&gt; 16&lt;/p&gt;
+		&lt;p&gt;&lt;em&gt;주요 인물:&lt;/em&gt;&lt;/p&gt;
+		&lt;ul&gt;
+			&lt;li&gt;강여주 (배우: 조여정, 성별: 여)&lt;/li&gt;
+			&lt;li&gt;한우성 (배우: 고준, 성별: 남)&lt;/li&gt;
+		&lt;/ul&gt;
+
+	&lt;h2 style="text-align: center;"&gt;문제 2 - 도시&lt;/h2&gt;
+		&lt;h3 style="color: rgb(137, 0, 149);"&gt;전주시&lt;/h3&gt;
+		&lt;p&gt;&lt;em&gt;도:&lt;/em&gt; 전라북도&lt;/p&gt;
+		&lt;p&gt;인구: 655,879명 (2022년 3월 기준)&lt;/p&gt;
+		&lt;p&gt;창립년도: 알 수 없음&lt;/p&gt;
+		&lt;p&gt;연평균 기온: 13.3°C&lt;/p&gt;
+		&lt;p&gt;행정 구역:&lt;/p&gt;
+		&lt;ul&gt;
+			&lt;li&gt;구: 2&lt;/li&gt;
+			&lt;li&gt;행정동: 35&lt;/li&gt;
+			&lt;li&gt;법정동: 83&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;p&gt;국회의원:&lt;/p&gt;
+		&lt;ul&gt;
+			&lt;li&gt;갑: 김윤덕 (성별: 남, 나이: 57)&lt;/li&gt;
+			&lt;li&gt;을: 공석&lt;/li&gt;
+			&lt;li&gt;병: 김성주 (성별: 남, 나이: 59)&lt;/li&gt;
+		&lt;/ul&gt;
+	
+	&lt;h2 style="text-align: center;"&gt;문제 3 - 대학교&lt;/h2&gt;
+		&lt;h3 style="color: rgb(137, 0, 149);"&gt;전북대학교&lt;/h3&gt;
+		&lt;p&gt;창립 연도: 1947년 10월 15일&lt;/p&gt;
+		&lt;p&gt;종류: 국립&lt;/p&gt;
+		&lt;p&gt;학부생 수: 25,305명&lt;/p&gt;
+		&lt;p&gt;총장: 양오봉&lt;/p&gt;
+		
+		&lt;table style="text-align:left;"&gt;
+			&lt;thead&gt;
+				&lt;tr&gt;
+					&lt;th&gt;캠퍼스&lt;/th&gt;
+					&lt;th&gt;주소&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody&gt;
+				&lt;tr&gt;
+					&lt;td&gt;전주캠퍼스&lt;/td&gt;
+					&lt;td&gt;전라북도 전주시 덕진구 백제대로 567&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;특성화캠퍼스&lt;/td&gt;
+					&lt;td&gt;전라북도 익산시 고봉로 79&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;고창캠퍼스&lt;/td&gt;
+					&lt;td&gt;고창군 고창읍 태봉로 361&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;새만금프런티어캠퍼스&lt;/td&gt;
+					&lt;td&gt;전라북도 군산시 산단남북로 177&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;완주캠퍼스 (이서)&lt;/td&gt;
+					&lt;td&gt;전라북도 완주군 이서면 콩쥐팥쥐로 1043-7&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;완주캠퍼스 (봉동)&lt;/td&gt;
+					&lt;td&gt;전라북도 완주군 봉동읍 용암리 38&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;정읍캠퍼스&lt;/td&gt;
+					&lt;td&gt;전라북도 정읍시 입신길 181&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;남원캠퍼스&lt;/td&gt;
+					&lt;td&gt;전라북도 남원시&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+		&lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;</code></pre>
+
+<div>
+	<a href="uj/zajecia/22-23l/pikt/pracedomowe/2/11/pliki/Praca domowa 2 (HTML) - Patrycja Żółkiewska - Naver.html">Praca domowa 2 (HTML) - Patrycja Żółkiewska - Naver.html</a>
+</div>
+
+<pre class="code-box code"><code>&lt;!DOCTYPE html&gt;
+&lt;!--Zapisz w HTML-u trzy wybrane artykuły z Navera (https://news.naver.com)--&gt;
+
+&lt;!--
+	Poprawki:
+	- dodanie atrybutu lang do elementu &lt;html&gt;
+	- zmiana elementu &lt;b&gt; na &lt;strong&gt;
+	- dodanie elementów &lt;li&gt; wewnątrz &lt;menu&gt;
+	- usunięcie spacji w atrybutach id
+	- style dobrze byłoby przenieść w całości do pliku CSS
+	- JavaScript dobrze byłoby umieścić w oddzielnym pliku JS
+--&gt;
+
+&lt;html lang="ko"&gt;
+	&lt;head&gt;
+		&lt;link rel="stylesheet" href="Praca%20domowa%202%20(HTML)%20-%20Patrycja%20Żółkiewska%20-%20Naver.css"&gt;
+		&lt;script&gt;
+			function ShowAndHide(id) {
+				var x = document.getElementById(id);
+				if (x.style.display == 'none') {
+					x.style.display = 'block';
+				} else {
+					x.style.display = 'none';
+				}
+			}
+		&lt;/script&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+		&lt;h1 style="text-align: left;"&gt;숙제 2 pt.2&lt;/h1&gt;
+		&lt;div&gt;
+			&lt;p&gt;&lt;strong&gt;기사 제목을 선택하세요.&lt;/strong&gt;&lt;/p&gt;
+			&lt;menu class="menu"&gt;
+				&lt;li&gt;&lt;button onclick="ShowAndHide('num1')"&gt;문제 1&lt;/button&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;button onclick="ShowAndHide('num2')" style="margin-left: 10px; margin-right: 10px;"&gt;문제 2&lt;/button&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;button onclick="ShowAndHide('num3')"&gt;문제 3&lt;/button&gt;&lt;/li&gt;
+			&lt;/menu&gt;
+		&lt;/div&gt;
+		&lt;div id="num1" style="display: none; text-align: justify;"&gt;
+				&lt;h2 style="text-align: right;"&gt;日 '은둔형 외톨이' 146만명…원인이 '코로나19'?&lt;/h2&gt;
+				&lt;h3 style="text-align: right;"&gt;김현정&lt;/h3&gt;
+				&lt;p&gt;일본의 15∼64세 인구 중 은둔형 외톨이(히키코모리)가 146만 명으로 추산된다는 정부 조사 결과가 나왔다.&lt;/p&gt;
+				&lt;p&gt;1일 아사히신문과 요미우리신문 등 일본 현지 언론의 보도에 따르면 일본 정부가 지난해 11월 실시한 조사 결과, 15∼39세 응답자 중 2.05%, 40∼64세 응답자 가운데 2.02%가 은둔형 외톨이인 것으로 파악됐다. 조사의 응답자 수는 약 1만1300명이었다. 이에 일본 정부는 이를 바탕으로 일본 전체의 은둔형 외톨이 수를 추정해 146만 명이라는 수치를 내놓았다.&lt;/p&gt;
+				&lt;p&gt;일본 정부는 '방에서 거의 나가지 않는다', '방에서는 나가지만, 집에서는 나가지 않는다', '근처에 있는 편의점 등에는 외출한다', '취미와 관련된 일이 있을 때만 외출한다' 등의 상태가 6개월 이상 지속된 사람을 은둔형 외톨이로 분류했다.&lt;/p&gt;
+				&lt;p&gt;이번 조사 결과에서 눈길을 끄는 점은 은둔형 외톨이 가운데 약 20%는 코로나19를 원인으로 지목했다는 것이다.&lt;/p&gt;
+				&lt;p&gt;그동안 일본 정부는 청년층과 중장년층을 구분해 은둔형 외톨이 실태를 조사해 왔으나, 이번에 처음으로 15∼64세를 통합해 조사를 실시했다.&lt;/p&gt;
+				&lt;p&gt;한편 아직 국내에서는 전 연령층을 대상으로 한 은둔형 외톨이 조사는 이뤄지지 않고 있으나, 은둔형 외톨이 청년은 24만4000명으로 추산된다는 최근 통계가 나왔다.&lt;/p&gt;
+				&lt;p&gt;지난 7일 국무총리실 산하 국무조정실이 발표한 '청년 삶 실태조사' 결과에 따르면 전체 청년의 2.4%인 24만 4000명이 은둔형 외톨이인 것으로 드러났다. 은둔형 외에도 가끔 외출하는 '저활력' 청년의 비율도 열 명 중 한 명꼴인 11.0%에 달했다. 이 조사는 지난해 7~8월 19~34세 청년 가구원을 포함한 1만5000가구를 대상으로 실시했다.&lt;/p&gt;
+				&lt;p&gt;우리나라 청년들이 은둔형 생활을 하게 된 가장 큰 이유는 '취업이 잘되지 않아서'(35.0%)였으며, 이어 '대인관계 어려움'(10.0%)과 '학업 중단'(7.9%) 등이 뒤따랐다.&lt;/p&gt;
+				&lt;p&gt;지난 1월에 발표된 서울시 조사 결과(2022년 5~12월 서울 거주 19~39세 청년 5513명 대상)에서 드러난 은둔형 외톨이 청년 규모는 더 커서 서울 청년의 4.5%, 최대 12만9000명이 고립·은둔 상태인 것으로 나타났다.&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div id="num2" style="display: none; text-align: justify;"&gt;
+			&lt;h2 style="text-align: right;"&gt;'경제난' 파키스탄, 구호품 받으려 몰린 인파… 20여명 압사&lt;/h2&gt;
+			&lt;h3 style="text-align: right;"&gt;권영은&lt;/h3&gt;
+			&lt;p&gt;경제난에 허덕이는 파키스탄에서 구호품을 받으려는 인파가 몰려 20여 명이 압사했다.&lt;/p&gt;
+			&lt;p&gt;1일(현지시간) 돈(DAWN) 등 파키스탄 매체에 따르면 전날 남부 카라치에 한 기업이 설치한 구호품 배급소에 인파가 몰리면서 12명이 깔려 숨졌다. 좁은 배급소에 600~700명이 갑자기 몰린 것으로 알려졌다.&lt;/p&gt;
+			&lt;p&gt;지난달 말에도 곳곳의 무료 밀가루 배급소에서 큰 혼란이 빚어지면서 북서부 지역(8명)과 동부 펀자브 지역(3명)에서 11명이 압사했다. 파키스탄 정부와 기업 등이 이슬람 금식 성월인 라마단을 맞아 벌인 이번 구호 활동이 오히려 곳곳에서 비극으로 이어진 셈이다.&lt;/p&gt;
+			&lt;p&gt;카라치 배급소 사고로 자매를 잃은 파티마 누르(22)는 AFP통신에 "정문이 열리자 모든 사람이 안으로 몰려들었다"고 말했다. 사고 당시 현장에는 줄을 서는 등의 질서 유지 노력이 전혀 이뤄지지 않은 것으로 전해졌다.&lt;/p&gt;
+			&lt;p&gt;부는 덮개가 없는 배수구에 빠지기도 했다. 현장에서 할머니와 사촌을 잃은 아스마 아흐메드(30)는 "사방이 혼란이었다"며 "관리를 할 수도 없는 상태에서 왜 우리를 오라고 불렀느냐"고 행사 주관 기업 측을 비난했다.&lt;/p&gt;
+			&lt;p&gt;경찰은 관리 소홀을 이유로 공장 직원 3명을 체포했다. 경찰 관계자는 "여러 여성이 열기에 혼절했고 압사당했다"며 "사망자 대부분은 여성"이라고 밝혔다.&lt;/p&gt;
+			&lt;p&gt;파키스탄 경제는 중국 일대일로(육·해상 실크로드) 등 대규모 인프라 투자로 인해 대외 부채에 시달리다 코로나19 사태, 우크라이나 전쟁, 정치 불안, 대홍수 등 악재가 거듭 발생하면서 붕괴 위기에 직면했다. 물가상승률은 작년 6월 이후 9개월 연속 20% 이상 폭등했고, 곳곳에서는 단전도 지속되는 등 주민 삶은 벼랑 끝으로 몰린 상태다.&lt;/p&gt;
+			&lt;p&gt;이에 파키스탄 정부는 국제통화기금(IMF)과 중단된 구제금융 프로그램 재개 협상을 벌이며 경제 회복에 총력을 기울이고 있다. 파키스탄은 2019년 IMF와 구제금융 지원에 합의했지만, 구조조정 등 정책 이견으로 인해 전체 지원금 약 65억달러(약 8조4,800억 원) 가운데 절반가량만 받은 상황이다. 당국은 금리·세금·유가를 대폭 인상하는 등 강도 높은 긴축 정책을 도입했고, 중국, 아랍에미리트(UAE) 등 우방국으로부터 긴급 지원 자금도 빌리고 있다.&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div id="num3" style="display: none; text-align: justify;"&gt;
+			&lt;h2 style="text-align: right;"&gt;아프간 탈레반, 여성 전용 라디오 방송국 폐쇄&lt;/h2&gt;
+			&lt;h3 style="text-align: right;"&gt;문예성&lt;/h3&gt;
+			&lt;p&gt;[서울=뉴시스] 문예성 기자 = 아프가니스탄 집권세력 탈레반이 바다크샨주 지방에 있는 한 여성 전용 라디오 방송국을 폐쇄시켰다.&lt;/p&gt;
+			&lt;p&gt;1일(현지시간) 미국의소리방송은 아프간 북동부 바다크샨주의 ‘사다 에 바노완(여성의 소리)' 라디오 방송국을 지난달 말 폐쇄했다고 전했다.&lt;/p&gt;
+			&lt;p&gt;지난달 31일 마주딘 아흐마디 바다크샨주 공보·문화국장은 “해당 방송국은 경고에도 불구하고 라마단 기간 음악을 틀었다”면서 “(탈레반) 원로들과 상의한 이후 폐쇄 결정을 내렸다”고 밝혔다.&lt;/p&gt;
+			&lt;p&gt;아흐마디 국장은 “다만 폐쇄 조치는 일시적인 것이며, 라디오 관계자들이 음악을 틀지 않겠다고 약속하면 방송을 다시 허용할 것”이라고 전했다.&lt;/p&gt;
+			&lt;p&gt;이 방송국의 나줄라 쉬자드 국장은 라마단 기간 음악을 틀지 않았고, 관련 정책을 위반하지 않았다고 주장했다.&lt;/p&gt;
+			&lt;p&gt;해당 지역에 근무하는 한 익명의 기자도 “해당 라디오 방송국 프로그램에는 음악 방송이 포함되지 않았다”고 전했다. 그러면서 “라마단 기간 해당 방송국은 음악 방송을 진행하지 않았다”고 부연했다.&lt;/p&gt;
+			&lt;p&gt;지난 2014년 설립된 이 방송국은 여성이 주요 청취자이고, 방송국 직원 대부분도 여성이다.&lt;/p&gt;
+			&lt;p&gt;탈레반은 지난 2021년 8월15일 아프간을 점령한 이후 더 부드러운 통치를 약속하며 여성의 권리가 보호될 것이라고 국제 사회에 공언했으나 상반된 행보를 보이고 있다.&lt;/p&gt;
+			&lt;p&gt;탈레반은 여학생의 중·고등 교육을 금지하고 여성의 취업을 학교와 병원 등 소수 기관으로 제한했다. 공공장소에서는 머리부터 발끝까지 전신을 가리는 부르카를 쓰도록 강제했다. 또한 남성 동행자 없이 여성이 외출할 수 없도록 했고, 심지어 여성들은 공원이나 놀이공원, 체육관, 공중목욕탕 출입도 금지된 상황이다.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/body&gt;
+&lt;/html&gt;</code></pre>
+
+<div>
+	<a href="uj/zajecia/22-23l/pikt/pracedomowe/2/11/pliki/Praca domowa 2 (HTML) - Patrycja Żółkiewska - PAP.html">Praca domowa 2 (HTML) - Patrycja Żółkiewska - PAP.html</a>
+</div>
+
+<pre class="code-box code"><code>&lt;!DOCTYPE html&gt;
+&lt;!-- Zapisz w HTML-u trzy wybrane artykuły z Polskiej Agencji Prasowej (https://pap.pl) --&gt;
+
+&lt;!--
+	Poprawki:
+	- dodanie atrybutu lang do elementu &lt;html&gt;
+	- zmiana elementu &lt;b&gt; na &lt;strong&gt;
+	- dodanie elementów &lt;li&gt; wewnątrz &lt;menu&gt;
+	- usunięcie spacji w atrybutach id
+	- style dobrze byłoby przenieść w całości do pliku CSS
+	- JavaScript dobrze byłoby umieścić w oddzielnym pliku JS
+--&gt;
+
+&lt;html lang="pl"&gt;
+	&lt;head&gt;
+		&lt;link rel="stylesheet" href="Praca%20domowa%202%20(HTML)%20-%20Patrycja%20Żółkiewska%20-%20PAP.css"&gt;
+		&lt;script&gt;
+			function ShowAndHide(id) {
+				var x = document.getElementById(id);
+				if (x.style.display == 'none') {
+					x.style.display = 'block';
+				} else {
+					x.style.display = 'none';
+				}
+			}
+		&lt;/script&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+		&lt;h1 style="text-align: center;"&gt;숙제 2 pt.3&lt;/h1&gt;
+		&lt;div&gt;
+			&lt;p style="text-align: center;"&gt;&lt;strong&gt;기사 제목을 선택하세요.&lt;/strong&gt;&lt;/p&gt;
+			&lt;menu class="menu"&gt;
+				&lt;li&gt;&lt;button onclick="ShowAndHide('num1')"&gt;문제 1&lt;/button&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;button onclick="ShowAndHide('num2')" style="margin-left: 10px; margin-right: 10px;"&gt;문제 2&lt;/button&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;button onclick="ShowAndHide('num3')"&gt;문제 3&lt;/button&gt;&lt;/li&gt;
+			&lt;/menu&gt;
+		&lt;/div&gt;
+		&lt;div id="num1" style="display: none; text-align: justify;"&gt;
+				&lt;h2 style="text-align: right;"&gt;Owce zastąpią kosiarki. W Nantes pasą się już krowy, świnie i kozy.&lt;/h2&gt;
+				&lt;h3 style="text-align: right;"&gt;Anonim&lt;/h3&gt;
+				&lt;p&gt;W Nantes w zachodniej Francji 11 owiec wędruje po mieście pod okiem pasterza i pracowników miejskich, zatrzymując się w parkach. Projekt ma na celu wprowadzenie zwierząt do miasta – pisze francuski dziennik „Le Figaro”.&lt;/p&gt;
+				&lt;p&gt; „Owce od kilku miesięcy są przyzwyczajane do miejskiego hałasu. Harmonogram mają ustalony co do minuty, tak aby nie przekroczyć linii tramwajowej. Czasami, gdy nie idą wzdłuż rzeki, owce muszą korzystać z drogi. W tym przypadku za wyprzedzanie ich odpowiada straż miejska” – pisze „Le Figaro”.&lt;/p&gt;
+				&lt;p&gt;Jak twierdzi radna Severine Figuls, projekt ma na celu „wprowadzanie zwierząt do miasta”. Owce będą pasły się w parkach, co jest „mniej agresywne od kosiarek”. Gazeta zaznacza, że w dzielnicach miasta pasą się już krowy, świnie i kozy.&lt;/p&gt;
+				&lt;p&gt;Obecność owiec ma być atrakcyjna dla mieszkańców; zwierzęta są cały czas fotografowane. Jeśli chodzi o odchody, to „stanowią one nawóz i sprawiają, że trawa oddycha” – twierdzą przedstawiciele miasta.&lt;/p&gt;
+				&lt;p&gt;Celem jest również dotarcie do dzieci w wieku szkolnym, które w ten sposób będą mogły odkrywać dla siebie faunę.&lt;/p&gt;
+				&lt;p&gt;Stadko, które należy do miasta, będzie wędrować po niemal wszystkich dzielnicach. W parkach mają odbywać się również zajęcia dla rodzin z ich udziałem.&lt;/p&gt;
+				&lt;p&gt;W środę owce opuściły park La Beaujoire, aby przemieścić się w drugie miejsce, gdzie spędzą kolejny tydzień. Owce od marca do lipca przemieszczać się będą po mieście w regularnych odstępach czasu pod okiem pasterza i pracowników miejskich.&lt;/p&gt;
+				&lt;p&gt;Nie jest to pierwszy tego typu projekt we Francji – przypomina „Le Figaro”. W Lyonie, mieście zarządzanym przez ekologa Gregory’ego Douceta, we wrześniu ubiegłego roku przez trzy dni i dwie noce 30 owiec przemierzało po mieście 24 kilometry – pisze dziennik.&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div id="num2" style="display: none; text-align: justify;"&gt;
+			&lt;h2 style="text-align: right;"&gt;Polsko-armeński zespół odkrył "ZLoty Grobowiec" sprzed 3 tysięcy lat.&lt;/h2&gt;
+			&lt;h3 style="text-align: right;"&gt;Szymon Ździebłowski&lt;/h3&gt;
+			&lt;p&gt;Grób dwóch osób, zapewne pary - mężczyzny i kobiety, w którym odkryto pozostałości po trzech złotych naszyjnikach przebadał w Metsamor w Armenii polsko-armeński zespół archeologów. Pochodzi z czasów, gdy w Egipcie rządził Ramzes II.&lt;/p&gt;
+			&lt;p&gt;Metsamor to jedno z najbardziej znanych stanowisk archeologicznych w Armenii położone kilkadziesiąt kilometrów na zachód od Erywania.&lt;/p&gt;
+			&lt;p&gt;Był to grób skrzynkowy. Oznacza to, że dwa szkielety znaleziono w komorach zagłębionych w ziemię i obramowanych dużymi kamieniami. Badacze natknęli się też na pozostałości drewnianego łoża pogrzebowego.&lt;/p&gt;
+			&lt;p&gt;Archeolodzy opisali, że kości zachowały się dobrze. Oba szkielety miały lekko podkurczone nogi. Ze wstępnych szacunków wynika, że para zmarła w wieku 30-40 lat.&lt;/p&gt;
+			&lt;p&gt;“Śmierć tych osób jest dla nas zagadką, nie znamy przyczyny, ale wszystko wskazuje, że zmarli jednocześnie, bo nie ma śladów po ponownym otwieraniu grobowca” - powiedział PAP szef badań, prof. Krzysztof Jakubiak z Wydziału Archeologii UW. Jest to wspólny projekt Centrum Archeologii Śródziemnomorskiej UW i Departamentu Starożytności i Ochrony Dziedzictwa Narodowego Armenii. Ze strony armeńskiej przedsięwzięciem kieruje prof. Ashot Piliposjan.&lt;/p&gt;
+			&lt;p&gt;Prof. Jakubiak uważa, że jest to wyjątkowe znalezisko, bo grób nie został obrabowany i jest bardzo bogato wyposażony.&lt;/p&gt;
+			&lt;p&gt;Grób pochodzi z końca późnej epoki brązu (1300–1200 p.n.e.). To mniej więcej w tym czasie w Egipcie rządził słynny faraon Ramzes II Wielki. Wewnątrz grobowca archeolodzy znaleźli ponad sto paciorków i zawieszek ze złota. Część z nich przypomina trochę krzyże celtyckie. Było też kilkadziesiąt zawieszek z karneolu.&lt;/p&gt;
+			&lt;p&gt;“Zapewne wszystkie te elementy składały się na trzy naszyjniki” - uważa prof. Jakubiak.&lt;/p&gt;
+			&lt;p&gt;W grobie było też kilkanaście kompletnych naczyń ceramicznych oraz unikatowa fajansowa flasza. Nie jest ona jednak lokalnej produkcji. Przywieziono ją z pogranicza syryjsko-mezopotamskiego - ustalili naukowcy.&lt;/p&gt;
+			&lt;p&gt;Prof. Jakubiak powiedział, że do tej pory na olbrzymiej nekropolii mającej zapewne ok. 100 ha przebadano ok. 100 grobów, ale tylko kilka z nich nie było wyrabowanych.&lt;/p&gt;
+			&lt;p&gt;Według naukowców groby na tym cmentarzysku miały formę kurhanów - skrzynie kamienne pokrywano dużą ilością ziemi. Jednak po nasypach do naszych czasów prawie nie zachował się ślad.&lt;/p&gt;
+			&lt;p&gt;Archeolodzy nie wiedzą, kto w tym czasie - w drugiej połowie II tysiąclecia - mieszkał w Metsamor. Lud, który zamieszkiwał tam obszerną, ufortyfikowana osadę nie był piśmienny, więc nie pozostawił po sobie żadnych tekstów. To utrudnia jego identyfikację przez naukowców.&lt;/p&gt;
+			&lt;p&gt;“Była to jednak wielka osada. Do naszych czasów zachowały się nawet fortyfikacje wykonane z olbrzymich bloków kamiennych, opasające położoną na wzgórzu tzw. cytadelę. Pod koniec II tysiąclecia p.n.e. nie było w regionie osady, którą można by porównać pod względem rangi i wielkości” - uważa prof. Jakubiak.&lt;/p&gt;
+			&lt;p&gt;Metsamor jest chronionym stanowiskiem archeologicznym o statusie rezerwatu archeologicznego. Wykopaliska w jego obrębie prowadzone są od 1965 roku.&lt;/p&gt;
+			&lt;p&gt;W okresie świetności od IV do II tysiąclecia p.n.e. osada zajmowała ponad 10 hektarów i otoczona była przez mury cyklopie. We wczesnym okresie żelaza od XI do IX wieku Metsamor rozrosło się do prawie 100 hektarów. Centralną część w postaci twierdzy otaczały kompleksy świątynne z siedmioma sanktuariami. W tym czasie było to jedno z najważniejszych centrów kulturowych i politycznych w dolinie Araksu. Miejsce było stale zasiedlane aż do XVII wieku.&lt;/p&gt;
+			&lt;p&gt;Od VIII wieku p.n.e. Metsamor wchodziło w skład królestwa Uraratu – biblijnego królestwa Ararat. Podboju dokonał król Argiszti I. To za jego panowania granice państwa poszerzyły się o Zakaukazie, właśnie o rejon dzisiejszego Erywania. Zniszczenia z tego okresu polscy archeolodzy odkryli w poprzednich latach.&lt;/p&gt;
+			&lt;p&gt;Ostatni sezon badawczy odbył się we wrześniu i październiku 2022 r. Polacy prowadzą wykopaliska w Metsamor od 2013 r. na mocy umowy z Instytutem Archeologii Akademii Nauk Armenii oraz Ministerstwem Kultury Armenii.&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div id="num3" style="display: none; text-align: justify;"&gt;
+			&lt;h2 style="text-align: right;"&gt;Niemcy chcą się rozliczyć ze swoją historią kolonialną w Tanzanii. Jest mowa o reparacjach&lt;/h2&gt;
+			&lt;h3 style="text-align: right;"&gt;Berenika Lemańczyk&lt;/h3&gt;
+			&lt;p&gt; Sekretarz stanu w niemieckim ministerstwie spraw zagranicznych Katja Keul zapowiedziała rozliczenie historii kolonialnej Niemiec w Tanzanii. Najwyższy czas zająć się tym problemem - oświadczyła. Tanzania już w 2020 roku wezwała Berlin do negocjacji w sprawie reparacji.&lt;/p&gt;
+			&lt;p&gt;Obszar dzisiejszej Tanzanii należał w latach 1885-1918 do kolonii "Niemiecka Afryka Wschodnia". Szacuje się, że podczas powstania Maji Maji, w którym rdzenne grupy ludności zjednoczyły się przeciwko niemieckim okupantom, zginęło nawet 300 000 afrykańskich mężczyzn, kobiet i dzieci.&lt;/p&gt;
+			&lt;p&gt;Sekretarz stanu w niemieckim MSZ Katja Keul zapowiedziała rozliczenie historii kolonialnej Niemiec w Tanzanii.&lt;/p&gt;
+			&lt;p&gt;"Najwyższy czas zająć się tym problemem" - powiedziała portalowi Table Media.&lt;/p&gt;
+			&lt;p&gt;W niemieckich muzeach znajdują się setki czaszek, które niemieccy naukowcy przywieźli z kolonii do Niemiec - pisze portal stacji Deutschlandfunk. Zgodnie z wolą MSZ i prezesa Fundacji Pruskiego Dziedzictwa Kulturowego Harmanna Parzingera doczesne szczątki mają zostać zwrócone lub pochowane w odpowiednim miejscu. Chodzi również o zwrot zrabowanych dóbr kultury.&lt;/p&gt;
+			&lt;p&gt;"Tanzania wzywa Niemcy do negocjacji w sprawie reparacji za zbrodnie popełnione w okresie niemieckiego kolonializmu w Afryce Wschodniej" - pisały niemieckie media w 2020 roku.&lt;/p&gt;
+			&lt;p&gt;"Oczekuję, że rząd niemiecki zrobi tu pierwszy krok i zwróci się do nas" - powiedział wówczas gazecie "Tagesspiegel" ambasador Tanzanii w Berlinie Abdallah Possi.&lt;/p&gt;
+			&lt;p&gt;Podkreślał, że najpierw niemiecki rząd musi oficjalnie poinformować rząd Tanzanii "o tym, ile ludzkich kości i przedmiotów kultury z obecnej Tanzanii zostało przywiezionych do Niemiec w okresie kolonialnym i gdzie są one dzisiaj".&lt;/p&gt;
+			&lt;p&gt;W ramach rozliczeń z historia kolonialną Niemiec w Afryce rząd Niemiec i rząd Namibii od dłuższego czasu negocjują porozumienie w sprawie odszkodowań dla Namibii. W grudniu minister spraw zagranicznych Niemiec Annalena Baerbock i minister stanu ds. kultury Claudia Roth oddały Nigerii 20 cennych brązów z dawnego królestwa Beninu. Zrabowane w czasach kolonialnych dzieła sztuki przez długi czas znajdowały się w zbiorach niemieckich muzeów.&lt;/p&gt;
+			&lt;p&gt;"Wspaniale usłyszeć, że Niemcy planują zwrócić Tanzanii "zagrabioną sztukę" sprzed ponad 100 lat i rozpocząć dyskusję na temat reparacji. Czekamy na konstruktywne rozpoczęcie dyskusji na temat reparacji dla Polski" - napisano na Twitterowym koncie Reparations-for-Poland.com.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/body&gt;
+&lt;/html&gt;</code></pre>
+</body></html>

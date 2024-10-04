@@ -1,0 +1,256 @@
+<!DOCTYPE html><html lang="pl"><head><meta charset="utf-8">
+	<meta name="robots" content="none">
+	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1">
+
+	<title>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</title>
+	<meta name="author" content="Tomasz Wilczyński">
+
+	<base href="https://twilczynski.com/">
+	<link rel="icon" href="data:,">
+	<link rel="stylesheet" href="uj/css/all.css">
+	<link rel="stylesheet" media="print" href="uj/css/print.css">
+</head><body class="home">
+
+<h1>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</h1>
+
+<h2>Przygotowanie środowiska pracy</h2>
+
+<h3>1. Podstawowe narzędzia</h3>
+
+<h4>1.1. system operacyjny</h4>
+
+<ul>
+	<li>Windows (najlepiej 10 / 11)</li>
+	<li>macOS (najlepiej najnowsza wersja)</li>
+	<li>Linux (najlepiej Ubuntu / Fedora / openSUSE)</li>
+</ul>
+
+<h4>1.2. przeglądarka internetowa</h4>
+
+<ul>
+	<li><a href="https://google.com/chrome">Google Chrome</a> / <a href="https://mozilla.org/firefox">Mozilla Firefox</a> / Microsoft Edge
+		<ul>
+			<li>niektóre strony koreańskie mogą nie działać poprawnie pod Firefoksem</li>
+		</ul>
+	</li>
+	<li>Internet Explorer / <a href="https://support.microsoft.com/pl-pl/microsoft-edge/tryb-programu-internet-explorer-w-przeglądarce-microsoft-edge-6604162f-e38a-48b2-acd2-682dbac6f0de">Microsoft Edge w trybie IE</a>
+		<ul>
+			<li>może być wymagany dla starszych stron koreańskich</li>
+		</ul>
+	</li>
+</ul>
+
+<h4>1.3. obsługa języka koreańskiego</h4>
+
+<ul>
+	<li>poprawne wyświetlanie liter i znaków</li>
+	<li>wprowadzanie za pomocą klawiatury</li>
+	<li>czcionka o stałej szerokości do programowania (<a href="https://ibm.com/docs/pl/i/7.2?topic=substitution-font-attributes-font-types">Atrybuty i typy czcionek - Dokumentacja IBM</a>)</li>
+	<li>kodowanie Unicode wspierające wiele języków jednocześnie</li>
+</ul>
+
+<h4>1.4. edytor tekstu dla programistów</h4>
+
+<ul>
+	<li>podświetlanie i kolorowanie składni</li>
+	<li>podpowiedzi podczas wpisywania poleceń</li>
+	<li>proste wykrywanie błędów w składni</li>
+	<li>zaawansowana nawigacja po kodzie</li>
+	<li>obsługa <em>regex</em> do wyszukiwania i zamiany tekstu</li>
+	<li><a href="https://insights.stackoverflow.com/survey/2021#collaboration-tools">najpopularniejsze edytory wg ankiety serwisu StackOverflow</a></li>
+</ul>
+
+<h4>1.5. wiersz poleceń i obsługa skryptów</h4>
+
+<ul>
+	<li>większa efektywność pracy od narzędzi graficznych</li>
+	<li>pozwala na masowe działania na plikach i folderach</li>
+	<li>automatyzacja wprowadzania poleceń za pomocą skryptów
+		<pre class="code"><code>foreach ($a in 1..10) { New-Item -Name "$a.txt" -ItemType "file" }
+foreach ($a in 1..10) { Remove-Item -Path "$a.txt" }</code></pre>
+	</li>
+</ul>
+
+<h4>1.6. przydatne aplikacje</h4>
+
+<ul>
+	<li>Microsoft Office (można zastąpić np. <a href="https://libreoffice.org/download/download-libreoffice">LibreOffice</a>'em)</li>
+	<li>Hancom Hangul (brak alternatywy; nie ma wersji pod Linuksa)
+		<ul class="gallery">
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/1.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/1.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/2.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/2.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/3.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/3.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/4.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/4.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/5.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/5.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/6.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/6.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/7.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/7.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/8.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/8.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/9.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/9.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/10.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/10.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/11.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/11.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/12.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/12.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/13.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/13.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/14.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/14.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/15.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/15.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/16.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/hangul/16.png" alt></a></li>
+		</ul>
+	</li>
+	<li><a href="https://7-zip.org">7-Zip</a> (lub inna podobna aplikacja do rozpakowywania archiwów)</li>
+	<li><a href="https://sumatrapdfreader.org/download-free-pdf-viewer">SumatraPDF</a> (lub inna podobna aplikacja do wyświetlania plików <abbr>PDF</abbr>)</li>
+	<li>programy do obróbki korpusu (np. <a href="http://nlplab.ulsan.ac.kr/doku.php?id=utagger">uTagger</a> do j. koreańskiego)</li>
+</ul>
+
+<h3>2. Obsługa języka koreańskiego</h3>
+
+<h4>2.1. Instalacja koreańskiej klawiatury</h4>
+
+<ul>
+	<li>
+		Windows: <a href="https://support.microsoft.com/pl-pl/windows/zarządzanie-ustawieniami-języków-wprowadzania-i-wyświetlania-w-systemie-windows-12a10cb4-8626-9b77-0ccb-5013e0c7c7a2">Zarządzanie ustawieniami języków wprowadzania i wyświetlania w systemie Windows - Pomoc techniczna firmy Microsoft</a>
+		<ul class="gallery">
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/klawiatura/1.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/klawiatura/1.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/klawiatura/2.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/klawiatura/2.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/klawiatura/3.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/klawiatura/3.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/klawiatura/4.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/klawiatura/4.png" alt></a></li>
+		</ul>
+	</li>
+	<li>macOS: <a href="https://support.apple.com/pl-pl/guide/mac-help/kbdm162/mac">Zmienianie ustawień klawiatury na Macu - Wsparcie Apple (PL)</a>
+	</li>
+</ul>
+
+<h4>2.2. Włączenie międzynarodowego kodowania znaków Unicode</h4>
+
+<ul>
+	<li>
+		Windows 10:
+		<ul class="gallery">
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/unicode/1.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/unicode/1.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/unicode/2.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/unicode/2.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/unicode/3.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/unicode/3.png" alt></a></li>
+		</ul>
+	</li>
+	<li>macOS: <a href="https://support.apple.com/pl-pl/guide/terminal/trml15220/mac">Używanie kodowania znaków narodowych w Terminalu na Macu - Wsparcie Apple (PL)</a></li>
+</ul>
+
+<h3>3. Instalacji czcionki D2Coding</h3>
+
+<h4>3.1. Pobieranie</h4>
+
+Czcionka koreańska o jednakowej szerokości <a href="https://github.com/naver/d2codingfont">D2 Coding 글꼴</a>:
+<ul class="gallery">
+	<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/d2coding/1.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/d2coding/1.png" alt></a></li>
+	<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/d2coding/2.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/d2coding/2.png" alt></a></li>
+</ul>
+
+<h4>3.2. Instalacja</h4>
+
+<ul>
+	<li>
+		Windows: <a href="https://support.microsoft.com/pl-pl/office/dodawanie-czcionki-b7c5f17c-4426-4b53-967f-455339c564c1">Dodawanie czcionki - Pomoc techniczna firmy Microsoft</a>
+		<ul class="gallery">
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/d2coding/3.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/d2coding/3.png" alt></a></li>
+		</ul>
+	</li>
+	<li>macOs: <a href="https://support.apple.com/pl-pl/guide/font-book/fntbk1000/mac">Instalowanie i sprawdzanie poprawności czcionek w Albumie z czcionkami na Macu - Wsparcie Apple (PL)</a></li>
+</ul>
+
+<h3>4. Instalacja edytora VSCode</h3>
+
+<h4>4.1. Pobieranie i instalacja</h4>
+
+<ul>
+	<li>
+		<a href="https://code.visualstudio.com/download">Download Visual Studio Code</a>
+		<ul class="gallery">
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/vscode/1.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/vscode/1.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/vscode/1.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/vscode/2.png" alt></a></li>
+		</ul>
+	</li>
+</ul>
+
+<h4>4.2. Ustawienie jako domyślnego edytora</h4>
+
+<ul>
+	<li>Windows: <a href="https://support.microsoft.com/pl-pl/windows/zmienianie-programów-domyślnych-w-programie-windows-e5d82cad-17d1-c53b-3505-f10a32e1894d">Zmienianie programów domyślnych w programie Windows - Pomoc techniczna firmy Microsoft</a></li>
+	<li>macOS: <a href="https://patelhiren.com/blog/setting-vscode-as-default-text-editor-on-macos">Setting Visual Studio Code as default text editor on macOS</a></li>
+</ul>
+
+<h4>4.3. Konfiguracja</h4>
+
+<ul>
+	<li>wymagane: zmiana języka na polski (na pasku menu <code>File → Preferences → Extensions → Polish Language Pack</code>)</li>
+	<li>wymagane: pokazanie wszystkich znaków odstępu (w ustawieniach zmienić <code>Editor: Render Whitespace</code> na <code>all</code>)</li>
+	<li>wymagane: wyłączenie wstawiania spacji zamiast tabulatora (w ustawieniach odznaczyć <code>Editor: Insert Spaces</code>)</li>
+	<li>wymagane: zmiana domyślnej czcionki (w ustawieniach do <code>Editor: Font Family</code> dopisać na początku <code>D2Coding</code>)</li>
+	<li>wymagane: włączenie zawijania wierszy (w ustawieniach zmienić <code>Editor: Word Wrap</code> na <code>on</code>)</li>
+	<li>zalecane: wyłączenie zbierania danych (w ustawieniach zmienić <code>Telemetry: Telemetry Level</code> na <code>off</code> lub <code>crash</code>)</li>
+	<li>opcjonalne: zmiana kompozycji wg własnych preferencji (na pasku menu <code>Plik → Preferencje → Motyw → Motyw kolorów</code>)</li>
+	<li>opcjonalne: wyłączenie kolumny debugowania (w ustawieniach odznaczyć <code>Editor: Glyph Margin</code>)</li>
+	<li>opcjonalne: ukrycie paska aktywności (na pasku menu <code>Wyświetl → Wygląd → Pasek aktywności</code>)</li>
+	<li>opcjonalne: wyłączenie składania kodu (w ustawieniach odznaczyć <code>Editor: Folding</code>)</li>
+	<li>opcjonalne: zwiększenie wysokości linii (w ustawieniach zmienić <code>Editor: Line Height</code> na <code>28</code>)</li>
+</ul>
+
+<h3>5. Instalacja i konfiguracja PowerShella</h3>
+
+<h4>5.1. Pobieranie i instalacja</h4>
+
+<h3><a href="https://learn.microsoft.com/pl-pl/powershell/scripting/install/installing-powershell">Instalowanie programu PowerShell w systemach Windows, Linux i macOS | Microsoft Learn</a></h3>
+
+<ul>
+	<li>
+		pobieranie wersji dla systemu Windows:
+		<ul class="gallery">
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/1.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/1.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/2.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/2.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/3.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/3.png" alt></a></li>
+		</ul>
+	</li>
+	<li>
+		pobieranie wersji dla systemu macOS:
+		<ul class="gallery">
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/macos/1.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/macos/1.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/macos/2.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/macos/2.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/macos/3.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/macos/3.png" alt></a></li>
+		</ul>
+	</li>
+	<li>
+		instalacja:
+		<ul class="gallery">
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/instalacja/1.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/instalacja/1.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/instalacja/2.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/instalacja/2.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/instalacja/3.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/instalacja/3.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/instalacja/4.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/instalacja/4.png" alt></a></li>
+			<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/instalacja/5.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/instalacja/5.png" alt></a></li>
+		</ul>
+	</li>
+</ul>
+
+<h4>5.2. Konfiguracja konsoli</h4>
+
+<ul>
+	<li>ustawienie czcionki D2Coding jako domyślnej:
+		<ul>
+			<li>
+				wiersz poleceń:
+				<ul class="gallery">
+					<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/cmd/1.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/cmd/1.png" alt></a></li>
+					<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/cmd/2.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/cmd/2.png" alt></a></li>
+					<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/cmd/3.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/cmd/3.png" alt></a></li>
+				</ul>
+			</li>
+			<li>
+				Windows Terminal:
+				<ul class="gallery">
+					<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/terminal/1.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/terminal/1.png" alt></a></li>
+					<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/terminal/2.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/terminal/2.png" alt></a></li>
+					<li><a href="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/terminal/3.png"><img src="uj/zajecia/22-23l/pikt/zajecia/2/img/powershell/windows/terminal/3.png" alt></a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>dostosowanie rozmiaru okna i wielkości tekstu (opcjonalnie)</li>
+	<li>dostosowanie kolorów tła i tekstu (opcjonalnie)</li>
+</ul>
+
+</body></html>

@@ -1,0 +1,24 @@
+menu {
+    list-style-type: none;
+    width: fit-content;
+    display: flex;
+    padding: 0;
+    margin-bottom: 0;
+    gap: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color: rgb(206, 223, 240);
+}
+button{
+    color: black;
+    border-width: 0.15cm;
+    border-color: rgb(252, 255, 58);
+}
+h1{
+    color: rgb(252, 255, 58);
+    text-shadow: 3px 3px 3px #000000ac;
+}

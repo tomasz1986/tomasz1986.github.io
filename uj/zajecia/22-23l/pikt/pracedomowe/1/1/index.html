@@ -1,0 +1,194 @@
+<!DOCTYPE html><html lang="pl"><head><meta charset="utf-8">
+	<meta name="robots" content="none">
+	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1">
+
+	<title>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</title>
+	<meta name="author" content="Tomasz Wilczyński">
+
+	<base href="https://twilczynski.com/">
+	<link rel="icon" href="data:,">
+	<link rel="stylesheet" href="uj/css/all.css">
+	<link rel="stylesheet" media="print" href="uj/css/print.css">
+</head><body class="home">
+
+<h1>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</h1>
+
+<h2>Praca domowa 1 (<abbr>XML</abbr>) - Zuzanna Glamowska</h2>
+
+<div>
+	<a href="uj/zajecia/22-23l/pikt/pracedomowe/1/1/pliki/Praca%20domowa%201%20(XML)%20-%20Zuzanna%20Glamowska.xml">Praca domowa 1 (XML) - Zuzanna Glamowska.xml</a>
+</div>
+
+<pre class="code-box code"><code>&lt;?xml version="1.0" encoding="UTF-8" standalone="yes"?&gt;
+
+&lt;!--
+	Poprawki:
+	- dodanie brakującego elementu głównego 숙제
+	- zmiana nazwy elementów 연출 na 출연
+	- zmiana kolejności w datach z 일월년 na 년월일 w elementach 방송_기간 i 설립
+	- zmiana nazwy elementów 끝 na 종료
+	- zmiana nazwy elementów z 도시_시장 na 시장
+	- zmiana nazwy elementów z 설립 na 설립일
+	- zmiana zawartości elementu 도 z 영남도 na 경상남도
+	- drobne poprawki w składni i słownictwie
+--&gt;
+
+&lt;숙제&gt;
+	&lt;드라마&gt;
+		&lt;제목&gt;나의 해방일지&lt;/제목&gt;
+		&lt;출연&gt;김석윤&lt;/출연&gt;
+		&lt;극본&gt;박해영&lt;/극본&gt;
+		&lt;드라마의_장르&gt;
+			&lt;장르&gt;로맨스&lt;/장르&gt;
+			&lt;장르&gt;코미디&lt;/장르&gt;
+			&lt;장르&gt;느와르&lt;/장르&gt;
+		&lt;/드라마의_장르&gt;
+		&lt;방송_횟수&gt;16부작&lt;/방송_횟수&gt;
+		&lt;방송_기간&gt;
+			&lt;시작&gt;2022년 4월 9일&lt;/시작&gt;
+			&lt;종료&gt;2022년 5월 29일&lt;/종료&gt;
+		&lt;/방송_기간&gt;
+	&lt;/드라마&gt;
+	&lt;드라마&gt;
+		&lt;제목&gt;인간수업&lt;/제목&gt;
+		&lt;출연&gt;김진민&lt;/출연&gt;
+		&lt;극본&gt;진한새&lt;/극본&gt;
+		&lt;드라마의_장르&gt;
+			&lt;장르&gt;범죄&lt;/장르&gt;
+			&lt;장르&gt;액션&lt;/장르&gt;
+			&lt;장르&gt;고어&lt;/장르&gt;
+		&lt;/드라마의_장르&gt;
+		&lt;방송_횟수&gt;10부작&lt;/방송_횟수&gt;
+		&lt;방송_기간&gt;
+			&lt;시작&gt;2019년 4월 1일&lt;/시작&gt;
+			&lt;종료&gt;2019년 8월 6일&lt;/종료&gt;
+		&lt;/방송_기간&gt;
+	&lt;/드라마&gt;
+	&lt;드라마&gt;
+		&lt;제목&gt;구해줘&lt;/제목&gt;
+		&lt;출연&gt;김성수&lt;/출연&gt;
+		&lt;극본&gt;정신규&lt;/극본&gt;
+		&lt;드라마의_장르&gt;
+			&lt;장르&gt;액션&lt;/장르&gt;
+			&lt;장르&gt;느와르&lt;/장르&gt;
+			&lt;장르&gt;범죄&lt;/장르&gt;
+		&lt;/드라마의_장르&gt;
+		&lt;방송_횟수&gt;16부작&lt;/방송_횟수&gt;
+		&lt;방송_기간&gt;
+			&lt;시작&gt;2017년 8월 5일&lt;/시작&gt;
+			&lt;종료&gt;2017년 9월 24일&lt;/종료&gt;
+		&lt;/방송_기간&gt;
+	&lt;/드라마&gt;
+
+	&lt;도시&gt;
+		&lt;이름&gt;경주&lt;/이름&gt;
+		&lt;도&gt;경상북도&lt;/도&gt;
+		&lt;인구&gt;248,893명&lt;/인구&gt;
+		&lt;인구_밀도&gt;187.86명/㎢&lt;/인구_밀도&gt;
+		&lt;설립&gt;기원전 57년&lt;/설립&gt;
+		&lt;행정_구역&gt;
+			&lt;읍&gt;4&lt;/읍&gt;
+			&lt;면&gt;8&lt;/면&gt;
+			&lt;동&gt;11&lt;/동&gt;
+		&lt;/행정_구역&gt;
+		&lt;시장&gt;주낙영&lt;/시장&gt;
+		&lt;기후&gt;
+			&lt;평균_기온&gt;13.7°C&lt;/평균_기온&gt;
+			&lt;평균_강수량&gt;1090 mm&lt;/평균_강수량&gt;
+			&lt;평균_습도&gt;60%&lt;/평균_습도&gt;
+		&lt;/기후&gt;
+	&lt;/도시&gt;
+	&lt;도시&gt;
+		&lt;이름&gt;광주&lt;/이름&gt;
+		&lt;도&gt;전라남도&lt;/도&gt;
+		&lt;인구&gt;1,428,927명&lt;/인구&gt;
+		&lt;인구_밀도&gt;2,851.58명/㎢&lt;/인구_밀도&gt;
+		&lt;설립&gt;940년&lt;/설립&gt;
+		&lt;행정_구역&gt;
+			&lt;구&gt;5&lt;/구&gt;
+			&lt;동&gt;90&lt;/동&gt;
+		&lt;/행정_구역&gt;
+		&lt;시장&gt;강기정&lt;/시장&gt;
+		&lt;기후&gt;
+			&lt;평균_기온&gt;12.7°C&lt;/평균_기온&gt;
+			&lt;평균_강수량&gt;2027 mm&lt;/평균_강수량&gt;
+			&lt;평균_습도&gt;71%&lt;/평균_습도&gt;
+		&lt;/기후&gt;
+	&lt;/도시&gt;
+	&lt;도시&gt;
+		&lt;이름&gt;부산&lt;/이름&gt;
+		&lt;도&gt;경상남도&lt;/도&gt;
+		&lt;인구&gt;3,315,516명&lt;/인구&gt;
+		&lt;인구_밀도&gt;4,305.51명/㎢&lt;/인구_밀도&gt;
+		&lt;설립&gt;1425년&lt;/설립&gt;
+		&lt;행정_구역&gt;
+			&lt;구&gt;15&lt;/구&gt;
+			&lt;군&gt;1&lt;/군&gt;
+		&lt;/행정_구역&gt;
+		&lt;시장&gt;박형준&lt;/시장&gt;
+		&lt;기후&gt;
+			&lt;평균_기온&gt;15.0°C&lt;/평균_기온&gt;
+			&lt;평균_강수량&gt;1507mm&lt;/평균_강수량&gt;
+			&lt;평균_습도&gt;66%&lt;/평균_습도&gt;
+		&lt;/기후&gt;
+	&lt;/도시&gt;
+
+	&lt;대학교&gt;
+		&lt;이름&gt;한국외국어대학교&lt;/이름&gt;
+		&lt;설립일&gt;1954년 4월 20일&lt;/설립일&gt;
+		&lt;주소&gt;
+			&lt;서울&gt;서울특별시 동대문구 이문로 107&lt;/서울&gt;
+			&lt;글로벌&gt;경기도 용인시 처인구 모현읍 외대로 81&lt;/글로벌&gt;
+		&lt;/주소&gt;
+		&lt;종류&gt;사립&lt;/종류&gt;
+		&lt;학생_수&gt;
+			&lt;학부생_수&gt;17,507명&lt;/학부생_수&gt;
+			&lt;대학원생_수&gt;2,420명&lt;/대학원생_수&gt;
+		&lt;/학생_수&gt;
+		&lt;교직원&gt;2,057명&lt;/교직원&gt;
+		&lt;학위_수여_프로그램&gt;
+			&lt;학사_학위&gt;중국어문화&lt;/학사_학위&gt;
+			&lt;석사_학위&gt;중부 및 동유럽 언어 및 문학&lt;/석사_학위&gt;
+		&lt;/학위_수여_프로그램&gt;
+		&lt;총장&gt;박정운&lt;/총장&gt;
+	&lt;/대학교&gt;
+	&lt;대학교&gt;
+		&lt;이름&gt;서울대학교&lt;/이름&gt;
+		&lt;설립일&gt;1946년 8월 22일&lt;/설립일&gt;
+		&lt;주소&gt;
+			&lt;관악캠퍼스&gt;서울특별시 관악구 관악로 1&lt;/관악캠퍼스&gt;
+			&lt;연건캠퍼스&gt;서울특별시 종로구 대학로 103&lt;/연건캠퍼스&gt;
+		&lt;/주소&gt;
+		&lt;종류&gt;국립&lt;/종류&gt;
+		&lt;학생_수&gt;
+			&lt;학부생_수&gt;1,870명&lt;/학부생_수&gt;
+			&lt;대학원생_수&gt;12,395명&lt;/대학원생_수&gt;
+		&lt;/학생_수&gt;
+		&lt;교직원&gt;6,082명&lt;/교직원&gt;
+		&lt;학위_수여_프로그램&gt;
+			&lt;학사_학위&gt;노어노문학과&lt;/학사_학위&gt;
+			&lt;석사_학위&gt;서양사&lt;/석사_학위&gt;
+		&lt;/학위_수여_프로그램&gt;
+		&lt;총장&gt;유홍림&lt;/총장&gt;
+	&lt;/대학교&gt;
+	&lt;대학교&gt;
+		&lt;이름&gt;제주대학교&lt;/이름&gt;
+		&lt;설립일&gt;1952년 5월 27일&lt;/설립일&gt;
+		&lt;주소&gt;
+			&lt;아라&gt;제주특별자치도 제주시 제주대학로 102&lt;/아라&gt;
+			&lt;사라&gt;제주특별자치도 제주시 일주동로 61&lt;/사라&gt;
+		&lt;/주소&gt;
+		&lt;종류&gt;국립&lt;/종류&gt;
+		&lt;학생_수&gt;
+			&lt;학사_학위&gt;&lt;/학사_학위&gt;
+			&lt;석사_학위&gt;&lt;/석사_학위&gt;
+		&lt;/학생_수&gt;
+		&lt;교직원&gt;&lt;/교직원&gt;
+		&lt;학위_수여_프로그램&gt;
+			&lt;학사_학위&gt;해양생명과학전공&lt;/학사_학위&gt;
+			&lt;석사_학위&gt;국어교육전공&lt;/석사_학위&gt;
+		&lt;/학위_수여_프로그램&gt;
+		&lt;총장&gt;김일환&lt;/총장&gt;
+	&lt;/대학교&gt;
+&lt;/숙제&gt;</code></pre>
+</body></html>

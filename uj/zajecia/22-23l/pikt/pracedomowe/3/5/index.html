@@ -1,0 +1,37 @@
+<!DOCTYPE html><html lang="pl"><head><meta charset="utf-8">
+	<meta name="robots" content="none">
+	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1">
+
+	<title>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</title>
+	<meta name="author" content="Tomasz Wilczyński">
+
+	<base href="https://twilczynski.com/">
+	<link rel="icon" href="data:,">
+	<link rel="stylesheet" href="uj/css/all.css">
+	<link rel="stylesheet" media="print" href="uj/css/print.css">
+</head><body class="home">
+
+<h1>Porównywanie i kontrastowanie tekstów polskich i koreańskich przy wykorzystaniu technik komputerowych</h1>
+
+<h2>Praca domowa 3 (PowerShell) - Kamila Kwiecińska</h2>
+
+<div>
+	<a href="uj/zajecia/22-23l/pikt/pracedomowe/3/5/pliki/Praca domowa 3 (PowerShell) - Kamila Kwiecińska.zip">Praca domowa 3 (PowerShell) - Kamila Kwiecińska.zip</a>
+</div>
+
+<pre class="code"><code># Poprawki:
+# - jeden skrypt dla wszystkich plików HTML zamiast trzech oddzielnych
+
+$PlikiHtml = Get-ChildItem -Path "*.html"
+
+$PlikiHtml | ForEach-Object {
+	$Treść = Get-Content -Path $_
+
+	# Połącz do jednej linii, usuń komentarz, zamień &lt;br&gt; na spacje, usuń początkowe i końcowe tagi z &lt;a&gt;, usuń tabulatory, podziel na linie wg tagów, usuń końcowe spacje, pozostaw tylko niepuste linie.
+	$Treść = $Treść -join "" -replace "&lt;!--.*?--&gt;","" -replace "&lt;br&gt;"," " -replace "&lt;a .+?&gt;","" -replace "&lt;/a&gt;","" -replace "`t","" -split "&lt;.+?&gt;" -replace " +$","" -match ".+"
+
+	$Treść | Sort-Object -Propert Length | Set-Content -Path ($_.BaseName + ".txt")
+}
+
+Pause</code></pre>
+</body></html>
