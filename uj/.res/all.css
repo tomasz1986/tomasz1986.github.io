@@ -141,6 +141,7 @@ object { border: 1px solid rgb(0,0,0); }
 }
 .gallery img { height: 120px; }
 .gallery-small img { height: 60px; }
+.gallery-large img { height: auto; }
 .gallery object,
 .gallery video {
 	height: 120px;
