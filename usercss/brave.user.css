@@ -2,15 +2,16 @@
 @name      brave.css
 @namespace https://twilczynski.com/usercss
 @author    tomasz86 <twilczynski@mailbox.org> (https://twilczynski.com)
-@version   1.0.2
+@version   1.0.3
 @updateURL https://twilczynski.com/usercss/brave.user.css
 ==/UserStyle== */
 
 @-moz-document domain("search.brave.com") {
-	:root {
-		--color-schemes-on-surface-variant: var(--color-primitive-neutral-0) !important;
-	}
-	.snippet-url {
-		color: var(--color-green-50) !important;
-	}
+	:root { --color-schemes-on-surface-variant: var(--color-primitive-neutral-0) !important; }
+
+	.column-layout { margin: auto !important; }
+
+	.main-column { max-width: 100% !important; }
+
+	.snippet-url { color: var(--color-green-50) !important; }
 }
