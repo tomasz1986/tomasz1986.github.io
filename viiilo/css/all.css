@@ -75,6 +75,7 @@ th {
 	text-align: center;
 }
 
+summary { cursor: pointer; }
 dd > details > summary,
 li > details > summary { display: inline; }
 
