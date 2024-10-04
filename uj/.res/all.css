@@ -57,6 +57,8 @@ h1 {
 h5,
 h6 { font-size: inherit; }
 
+.hidden { display: none; }
+
 hr { border-top: 1px solid; }
 hr.homework {
 	border-width: 2px;
