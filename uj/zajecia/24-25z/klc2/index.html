@@ -2,16 +2,28 @@
 	<meta name="robots" content="none">
 	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1">
 
-	<title>Lektorat języka koreańskiego - poziom 4 (czytanie)</title>
+	<title>Korean Language Class (2) - Speaking</title>
 	<meta name="author" content="Tomasz Wilczyński">
 
 	<base href="https://twilczynski.com/">
 	<link rel="icon" href="data:,">
 	<link rel="stylesheet" href="uj/css/all.css">
 	<link rel="stylesheet" media="print" href="uj/css/print.css">
+
+	<script>
+		// Open all details tags before printing.
+		window.addEventListener('beforeprint', () => {
+			[].forEach.call(document.querySelectorAll('details'), el => el.setAttribute('open',''))
+		})
+
+		// Close all details tags after printing.
+		window.addEventListener('afterprint', () => {
+			[].forEach.call(document.querySelectorAll('details'), el => el.removeAttribute('open'))
+		})
+	</script>
 </head><body class="home">
 
-<h1>Lektorat języka koreańskiego - poziom 4 (czytanie)</h1>
+<h1>Korean Language Class (2) - Speaking</h1>
 
 <address>
 	dr Tomasz Wilczyński<br>
@@ -24,12 +36,14 @@
 
 	<ul>
 		<li>obecność: 30%</li>
-		<li>kolokwia: 35%</li>
-		<li>egzamin: 35%</li>
+		<li>prace domowe: 10%</li>
+		<li>kolokwium: 30%</li>
+		<li>egzamin: 30%</li>
 		<li>bonus za obecność: 2%</li>
+		<li>bonus za prace domowe: 2%</li>
 	</ul>
 
-	<p>Dwie nieusprawiedliwione nieobecności nie wpływają na ocenę za obecność. Każda kolejna nieobecność skutkuje zmniejszeniem oceny za obecność o 10%, tj. z 30% na 20%, z 20% na 10%, z 10% na 0%. <strong>Warunkiem zaliczenia zajęć jest uczestnictwo w minimum 9 zajęciach oraz napisanie wszystkich kolokwiów i egzaminu.</strong></p>
+	<p>Dwie nieusprawiedliwione nieobecności nie wpływają na ocenę za obecność. Każda kolejna nieobecność skutkuje zmniejszeniem oceny za obecność o 10%, tj. z 30% na 20%, z 20% na 10%, z 10% na 0%. <strong>Warunkiem zaliczenia zajęć jest uczestnictwo w minimum 9 zajęciach oraz zaliczenie kolokwium i egzaminu.</strong></p>
 </details>
 
 <details>
@@ -46,17 +60,12 @@
 </details>
 
 <details>
-	<summary class="h2">Przydatne strony</summary>
+	<summary class="h2">Prace domowe</summary>
 
-	<ul>
-		<li><a href="https://stdict.korean.go.kr/main/main.do">국립국어원 표준국어대사전</a></li>
-		<li><a href="https://dict.naver.com">네이버 사전</a></li>
-		<li><a href="http://roman.cs.pusan.ac.kr">로마자 변환기</a></li>
-		<li><a href="https://en.bab.la/dictionary/english-polish">bab.la English-Polish dictionary</a></li>
-		<li><a href="https://pl.wikipedia.org/wiki/Cudzys%C5%82%C3%B3w">Cudzysłów w języku polskim</a></li>
-		<li><a href="https://publications.europa.eu/code/pl/pl-4100100.htm">Interpunkcja w języku polskim</a></li>
-		<li><a href="https://poradniajezykowa.uw.edu.pl/porady/przecinek-na-poczatku-zdania">przecinek na początku zdania</a></li>
-	</ul>
+	<ol>
+		<li>Po każdych zajęciach rozwiąż zadaną pracę domową.</li>
+		<li>Zeskanowany plik prześlij e-mailem najpóźniej do północy z piątku na sobotę w tym samym tygodniu.</li>
+	</ol>
 </details>
 
 <h2>Plan zajęć w semestrze zimowym 2024/2025</h2>
@@ -77,28 +86,25 @@
 				<th scope="row">1</th>
 				<td>7 października 2024</td>
 				<td class="schedule-lecture">Zajęcia 1</td>
-				<td class="schedule-lecture" rowspan="3"><a href="uj/zajecia/24-25z/ljk4/zajecia/1">Arkusz 1</a></td>
+				<td class="schedule-lecture" rowspan="2">세종한국어 회화 2 제1과</td>
 			</tr>
 			<tr>
 				<th scope="row">2</th>
 				<td>14 października 2024</td>
 				<td class="schedule-lecture">Zajęcia 2</td>
 			</tr>
+		<tbody>
+		</tbody>
 			<tr>
 				<th scope="row">3</th>
 				<td>21 października 2024</td>
 				<td class="schedule-lecture">Zajęcia 3</td>
-			</tr>
-		<tbody>
-		</tbody>
-			<tr>
-				<th scope="row" rowspan="2">4</th>
-				<td rowspan="2">28 października 2024</td>
-				<td class="schedule-exam" colspan="2">Kolokwium 1</td>
+				<td class="schedule-lecture" rowspan="2">세종한국어 회화 2 제2과</td>
 			</tr>
 			<tr>
+				<th scope="row">4</th>
+				<td>28 października 2024</td>
 				<td class="schedule-lecture">Zajęcia 4</td>
-				<td class="schedule-lecture"></td>
 			</tr>
 		<tbody>
 		</tbody>
@@ -106,82 +112,73 @@
 				<th scope="row">5</th>
 				<td>4 listopada 2024</td>
 				<td class="schedule-lecture">Zajęcia 5</td>
-				<td class="schedule-lecture"></td>
+				<td class="schedule-lecture" rowspan="2">세종한국어 회화 2 제3과</td>
 			</tr>
 			<tr>
 				<th scope="row">6</th>
 				<td>18 listopada 2024</td>
 				<td class="schedule-lecture">Zajęcia 6</td>
-				<td class="schedule-lecture"></td>
 			</tr>
 		<tbody>
 		</tbody>
 			<tr>
-				<th scope="row" rowspan="2">7</th>
-				<td rowspan="2">25 listopada 2024</td>
-				<td class="schedule-exam" colspan="2">Kolokwium 2</td>
-			</tr>
-			<tr>
+				<th scope="row">7</th>
+				<td>25 listopada 2024</td>
 				<td class="schedule-lecture">Zajęcia 7</td>
-				<td class="schedule-lecture"></td>
+				<td class="schedule-lecture" rowspan="2">세종한국어 회화 2 제4과</td>
 			</tr>
-		<tbody>
-		</tbody>
 			</tr>
 			<tr>
 				<th scope="row">8</th>
 				<td>2 grudnia 2024</td>
 				<td class="schedule-lecture">Zajęcia 8</td>
-				<td class="schedule-lecture"></td>
 			</tr>
 		<tbody>
 		</tbody>
 			<tr>
 				<th scope="row">9</th>
+				<td>6 grudnia 2024 <nobr>(18.30-20.00, sala 0.05)</nobr></td>
+				<td class="schedule-exam" colspan="2">Kolokwium</td>
+			</tr>
+		<tbody>
+		</tbody>
+			<tr>
+				<th scope="row">10</th>
 				<td>9 grudnia 2024</td>
 				<td class="schedule-lecture">Zajęcia 9</td>
-				<td class="schedule-lecture"></td>
+				<td class="schedule-lecture" rowspan="2">세종한국어 회화 2 제5과</td>
 			</tr>
-		<tbody>
-		</tbody>
-			<tr>
-				<th scope="row" rowspan="2">10</th>
-				<td rowspan="2">16 grudnia 2024</td>
-				<td class="schedule-exam" colspan="2">Kolokwium 3</td>
-			</tr>
-			<tr>
-				<td class="schedule-lecture">Zajęcia 10</td>
-				<td class="schedule-lecture"></td>
-			</tr>
-		<tbody>
-		</tbody>
 			<tr>
 				<th scope="row">11</th>
-				<td>13 stycznia 2025</td>
-				<td class="schedule-lecture">Zajęcia 11</td>
-				<td class="schedule-lecture"></td>
+				<td>16 grudnia 2024</td>
+				<td class="schedule-lecture">Zajęcia 10</td>
 			</tr>
 		<tbody>
 		</tbody>
 			<tr>
 				<th scope="row">12</th>
-				<td>20 stycznia 2025</td>
-				<td class="schedule-lecture">Zajęcia 12</td>
-				<td class="schedule-lecture"></td>
+				<td>13 stycznia 2025</td>
+				<td class="schedule-lecture">Zajęcia 11</td>
+				<td class="schedule-lecture" rowspan="2">세종한국어 회화 2 제6과</td>
 			</tr>
-		<tbody>
-		</tbody>
 			<tr>
 				<th scope="row">13</th>
-				<td>27 stycznia 2025</td>
-				<td class="schedule-lecture">Zajęcia 13</td>
-				<td class="schedule-lecture"></td>
+				<td>20 stycznia 2025</td>
+				<td class="schedule-lecture">Zajęcia 12</td>
 			</tr>
 		<tbody>
 		</tbody>
 			<tr>
 				<th scope="row">14</th>
-				<td>3 lutego 2025 <nobr>(11.30–12.30)</nobr></td>
+				<td>27 stycznia 2025</td>
+				<td class="schedule-lecture">Zajęcia 13</td>
+				<td class="schedule-lecture">Powtórzenie materiału</td>
+			</tr>
+		<tbody>
+		</tbody>
+			<tr>
+				<th scope="row">15</th>
+				<td>3 lutego 2025 <nobr>(13.15–14.45)</nobr></td>
 				<td class="schedule-exam" colspan="2">Egzamin</td>
 			</tr>
 		</tbody>
