@@ -217,3 +217,19 @@ th.schedule-exam { font-weight: normal; }
 	padding: .25em;
 	margin: -.25em;
 }
+
+.hanja { font-size: 200%; }
+.hanja abbr { text-decoration: none; }
+.hanja td { padding: .75em 1.5em; }
+
+/* .hanja-core { background-color: rgb(1, 137, 193); } */
+/* .hanja-related-1 { background-color: rgb(1, 152, 213); } */
+/* .hanja-related-2 { background-color: rgb(1, 166, 233); } */
+/* .hanja-related-3 { background-color: rgb(2, 181, 253); } */
+/* .hanja-related-4 { background-color: rgb(22, 187, 254); } */
+/* .hanja-related-5 { background-color: rgb(42, 192, 254); } */
+/* .hanja-related-6 { background-color: rgb(62, 198, 254); } */
+/* .hanja-related-7 { background-color: rgb(83, 204, 254); } */
+/* .hanja-related-8 { background-color: rgb(103, 210, 254); } */
+/* .hanja-related-9 { background-color: rgb(123, 216, 254); } */
+/* .hanja-related-10 { background-color: rgb(144, 222, 254); } */
