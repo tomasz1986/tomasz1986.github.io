@@ -7,5 +7,7 @@
 ==/UserStyle== */
 
 @-moz-document domain("search.brave.com") {
-
+	:root {
+		--color-schemes-on-surface-variant: var(--color-primitive-neutral-0) !important;
+	}
 }
