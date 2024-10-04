@@ -5,7 +5,7 @@ $Robocopy = if ($env:robocopy) {
 }
 
 $Source = $PSScriptRoot
-$Destination = Join-Path $env:USERPROFILE -ChildPath "Desktop\Pulpit\Biuro\WWW\twilczynski.com\viiilo"
+$Destination = Join-Path ([Environment]::GetFolderPath("Desktop")) -ChildPath "Biuro\WWW\twilczynski.com\viiilo"
 if (Test-Path -LiteralPath $Destination) {
 	$Command = $Robocopy + " /mir `"" + $Source + "`" `"" + $Destination + "`""
 	Invoke-Expression -Command $Command
