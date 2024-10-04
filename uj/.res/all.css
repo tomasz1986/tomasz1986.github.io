@@ -49,6 +49,11 @@ dfn,
 	font-weight: bolder;
 }
 
+h1 {
+	line-height:1.75;
+	line-height:calc(150% + .625vw);
+}
+
 h5,
 h6 { font-size: inherit; }
 
