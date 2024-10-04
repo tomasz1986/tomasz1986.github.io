@@ -63,7 +63,10 @@ ul {
 	margin-left: 1.25em;
 	padding-left: 0;
 }
-.column-list { column-count: 4; }
+.column-list {
+	column-count: 4;
+	column-gap: 1.5em;
+}
 
 img {
 	border: 1px solid;
