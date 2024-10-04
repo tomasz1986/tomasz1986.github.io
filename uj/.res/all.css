@@ -218,13 +218,9 @@ th.schedule-exam { font-weight: normal; }
 	margin: -.25em;
 }
 
-.hanja {
-	font-size: 150%;
-}
-
-.hanja td {
-	padding: 1.5em 3em;
-}
+.hanja { font-size: 200%; }
+.hanja abbr { text-decoration: none; }
+.hanja td { padding: .75em 1.5em; }
 
 /* .hanja-core { background-color: rgb(1, 137, 193); } */
 /* .hanja-related-1 { background-color: rgb(1, 152, 213); } */
