@@ -16,6 +16,19 @@ h1{page-break-before:always}h1,h2,h3,h4,h5,h6{page-break-after:avoid}dl,ol,ul{pa
    Document specific styles
    ========================================================================== */
 
+tr,
 .exam-question {
-  page-break-inside: avoid;
+	page-break-inside: avoid;
+}
+
+/* Multimedia
+   ========================================================================== */
+
+.gallery img {
+	height: 240px;
+}
+.gallery object,
+.gallery video {
+	height: 240px;
+	width: 480px;
 }

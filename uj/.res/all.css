@@ -14,13 +14,10 @@ address,blockquote,body,center,dd,dir,div,dl,dt,fieldset,form,frame,frameset,h1,
    Document specific styles
    ========================================================================== */
 
-address {
-	font-style: normal;
-}
+address { font-style: normal; }
+address > hr { border: 0; }
 
-body {
-	margin-bottom: .84em;
-}
+body { margin-bottom: .84em; }
 
 blockquote {
 	border: 1px solid rgb(0,0,0);
@@ -44,13 +41,10 @@ dfn,
 	font-weight: bolder;
 }
 
-h5, h6 {
-	font-size: inherit;
-}
+h5,
+h6 { font-size: inherit; }
 
-hr {
-	border-top: 1px solid;
-}
+hr { border-top: 1px solid; }
 hr.homework {
 	border-width: 2px;
 	border-color: red;
@@ -62,7 +56,7 @@ ul {
 	padding-left: 0;
 }
 
-img { 
+img {
 	border: 1px solid;
 	max-width: 100%;
 }
@@ -82,26 +76,33 @@ th {
 }
 
 dd > details > summary,
-li > details > summary {
-	display: inline;
-}
+li > details > summary { display: inline; }
 
-.correct {
-	color: red;
-}
+.correct { color: red; }
 del.correct {
 	color: inherit;
 	text-decoration-color: red;
 }
 
-.exam-question {
-	max-width: 40em;
+.correct-maxpoints { color: green; }
+del.correct-maxpoints {
+	color: inherit;
+	text-decoration-color: green;
 }
+
+.exam-question { max-width: 40em; }
+
+.hanja > li + li { padding-top: 1em; }
 
 .h2 {
 	font-size: 1.5em;
 	font-weight: bolder;
-	margin:.75em 0 0;
+	margin: .75em 0 0;
+}
+.h3 {
+	font-size: 1.17em;
+	font-weight: bolder;
+	margin: .83em 0 0;
 }
 
 .infolist {
@@ -114,24 +115,16 @@ del.correct {
 	padding: .25em .5em;
 	text-indent: 1em;
 }
-.topik-textbox > p {
-	margin: 0;
-}
+.topik-textbox > p { margin: 0; }
 
-.translate {
-	border: medium solid red;
-}
+.translate { border: medium solid red; }
 
 /* Multimedia
    ========================================================================== */
 
-img {
-	border: 1px solid rgb(0,0,0);
-}
+img { border: 1px solid rgb(0,0,0); }
 
-object {
-	border: 1px solid rgb(0,0,0);
-}
+object { border: 1px solid rgb(0,0,0); }
 
 .gallery {
 	line-height: 0;
@@ -142,13 +135,12 @@ object {
 	margin-bottom: .5em;
 	margin-right: .25em;
 }
-.gallery img {
-	height: 120px;
-}
+.gallery img { height: 120px; }
+.gallery-small img { height: 60px; }
 .gallery object,
 .gallery video {
-	height: 240px;
-	width: 360px;
+	height: 120px;
+	width: 240px;
 }
 
 .youtube {
@@ -163,6 +155,16 @@ object {
 	top: 0;
 	width: 100%;
 }
+.youtube-thumbnail { position: relative; }
+.youtube-thumbnail:after {
+	color: rgb(255,255,255);
+	content: "▷";
+	font-size: 400%;
+	left: 50%;
+	position: absolute;
+	top: 50%;
+	transform: translateX(-50%);
+}
 
 
 /* Home page
@@ -173,41 +175,36 @@ object {
 	border-top: 1px solid rgb(0,0,0);
 	padding-top: .75em;
 }
-
-.textbook {
-	display: table;
+.home h2.homework,
+.home .h2.homework {
+	border-width: 3px;
+	border-color: red;
 }
+
+.textbook { display: table; }
 .textbook > div {
 	display: table-cell;
 	vertical-align: top;
 }
-.textbook > div:first-child {
-	padding-right: 1.5em;
-}
+.textbook > div:first-child { padding-right: 1.5em; }
 
-.sample-topics {
-	font-style: italic;
-}
+.sample-topics { font-style: italic; }
 
+.class-schedule-container { overflow: auto; }
 .class-schedule {
+	margin-top :0;
 	width: 100%;
 }
-.class-schedule th {
-	background-color: rgb(238,238,238);
-}
+.class-schedule th { background-color: rgb(238,238,238); }
+.class-schedule > thead,
+.class-schedule > tbody { border: 2px solid;}
 .schedule-exam,
 th.schedule-exam {
 	background-color: rgb(239,154,154);
 }
-th.schedule-exam {
-	font-weight: normal;
-}
-.schedule-lecture {
-	background-color: rgb(255,245,157);
-}
-.schedule-presentation {
-	background-color: rgb(165,214,167);
-}
+th.schedule-exam { font-weight: normal; }
+.schedule-lecture { background-color: rgb(255,245,157); }
+.schedule-presentation { background-color: rgb(165,214,167); }
 .class-schedule > tbody > tr > td > :link,
 .class-schedule > tbody > tr > td > :visited {
 	display: block;

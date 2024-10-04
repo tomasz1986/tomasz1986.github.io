@@ -7,20 +7,9 @@
 
 	<base href="https://twilczynski.com/">
 	<link rel="icon" href="data:,">
-	<link rel="stylesheet" href="uj/css/all.css">
-	<link rel="stylesheet" media="print" href="uj/css/print.css">
-
-	<script>
-		// Open all details tags before printing.
-		window.addEventListener('beforeprint', () => {
-			[].forEach.call(document.querySelectorAll('details'), el => el.setAttribute('open',''))
-		})
-
-		// Close all details tags after printing.
-		window.addEventListener('afterprint', () => {
-			[].forEach.call(document.querySelectorAll('details'), el => el.removeAttribute('open'))
-		})
-	</script>
+	<link rel="stylesheet" href="uj/.res/all.css">
+	<link rel="stylesheet" media="print" href="uj/.res/print.css">
+	<script src="uj/.res/all.js"></script>
 </head><body class="home">
 
 <h1>Korean Language Class (2) - Speaking</h1>
@@ -184,3 +173,4 @@
 </div>
 
 </body></html>
+
