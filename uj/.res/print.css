@@ -4,31 +4,32 @@
 
 h1{page-break-before:always}h1,h2,h3,h4,h5,h6{page-break-after:avoid}dl,ol,ul{page-break-before:avoid}
 
-
 /* ==========================================================================
    accessible.html
    ========================================================================== */
 
-:link,:visited{content:" ("attr(href)")"}body{font-family:serif}
-body {font-size: 125%}
+:link,
+:visited { content:" ("attr(href)")"; }
+body {
+	font-family: serif;
+	font-size: 125%;
+}
 
 /* ==========================================================================
    Document specific styles
    ========================================================================== */
 
 tr,
-.exam-question {
-	page-break-inside: avoid;
-}
+.exam-question { page-break-inside: avoid; }
 
 /* Multimedia
    ========================================================================== */
 
-.gallery img {
-	height: 240px;
-}
+.gallery img { height: 240px; }
 .gallery object,
 .gallery video {
 	height: 240px;
 	width: 480px;
 }
+
+.youtube { display: none; }
