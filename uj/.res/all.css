@@ -160,7 +160,7 @@ object { border: 1px solid rgb(0,0,0); }
 	margin-bottom: .5em;
 	margin-right: .25em;
 }
-.gallery img { height: 120px; max-width: 240px }
+.gallery img { height: 120px; max-width: 240px; }
 .gallery-small img { height: 60px; }
 .gallery-large img { height: auto; }
 .gallery object,
@@ -198,8 +198,8 @@ object { border: 1px solid rgb(0,0,0); }
 
 .home h2,
 .home .h2 {
-	/* border-top: 1px solid rgb(0,0,0); */
-	/* padding-top: .75em; */
+	border-top: 1px solid rgb(0,0,0);
+	padding-top: .75em;
 }
 .home h2.homework,
 .home .h2.homework {
