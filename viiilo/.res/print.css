@@ -15,6 +15,9 @@ body {
 	font-family: serif;
 	font-size: 100%;
 }
+dl,
+ol,
+ul { page-break-inside: avoid; }
 
 
 /* ==========================================================================
@@ -31,11 +34,9 @@ tr,
 /* Multimedia
    ========================================================================== */
 
-.gallery img { height: 240px; }
+.gallery li { display: block; }
+.gallery img { height: 90mm; }
 .gallery object,
-.gallery video {
-	height: 240px;
-	width: 480px;
-}
+.gallery video { height: 90mm; }
 
 .youtube { display: none; }
