@@ -11,4 +11,10 @@ if (Test-Path -LiteralPath $Destination) {
 	Invoke-Expression -Command $Command
 }
 
+Push-Location -LiteralPath $Destination
+
+Invoke-Expression -Command (Join-Path -Path . -ChildPath "base-https.ps1")
+
+Pop-Location
+
 Pause
