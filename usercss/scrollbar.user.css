@@ -2,11 +2,14 @@
 @name      scrollbar.css
 @namespace https://twilczynski.com/usercss
 @author    tomasz86 <twilczynski@mailbox.org> (https://twilczynski.com)
-@version   1.0.0
+@version   1.0.1
 @updateURL https://twilczynski.com/usercss/scrollbar.user.css
 ==/UserStyle== */
 
-html { scrollbar-color: auto !important; }
+* {
+	scrollbar-color: auto !important;
+	scrollbar-width: auto !important;
+}
 
 ::-webkit-scrollbar {
 	height: 18px !important;
