@@ -10,7 +10,7 @@ h1{page-break-before:always}h1,h2,h3,h4,h5,h6{page-break-after:avoid}dl,ol,ul{pa
    ========================================================================== */
 
 :link,:visited{content:" ("attr(href)")"}body{font-family:serif}
-body {font-size: 130%}
+body {font-size: 125%}
 
 /* ==========================================================================
    Document specific styles
