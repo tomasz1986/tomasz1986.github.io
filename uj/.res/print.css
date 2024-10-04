@@ -47,7 +47,7 @@ tr,
    ========================================================================== */
 
 .gallery li { display: block; }
-.gallery img { height: 90mm; }
+.gallery img { height: 90mm; max-width: auto; }
 .gallery object,
 .gallery video { height: 90mm; }
 

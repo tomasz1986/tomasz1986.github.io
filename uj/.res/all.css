@@ -72,6 +72,9 @@ ul {
 	column-count: 4;
 	column-gap: 1.5em;
 }
+.table-of-contents { margin-left: 0; }
+.table-of-contents,
+.table-of-contents ul { list-style-type: none; }
 
 img {
 	border: 1px solid;
@@ -157,7 +160,7 @@ object { border: 1px solid rgb(0,0,0); }
 	margin-bottom: .5em;
 	margin-right: .25em;
 }
-.gallery img { height: 120px; }
+.gallery img { height: 120px; max-width: 240px }
 .gallery-small img { height: 60px; }
 .gallery-large img { height: auto; }
 .gallery object,
