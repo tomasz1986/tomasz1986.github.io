@@ -2,17 +2,18 @@
 @name      google.css
 @namespace https://twilczynski.com/usercss
 @author    tomasz86 <twilczynski@mailbox.org> (https://twilczynski.com)
-@version   1.0.0
+@version   2.0.0
 @updateURL https://twilczynski.com/usercss/google.user.css
 ==/UserStyle== */
 
 @-moz-document domain("google.com") {
-	#hdtb-tls { display: none !important; }
+	/* #hdtb-tls { display: none !important; } */
 
 	#hdtbMenus {
-		display: flex !important;
-		height: 22px !important;
-		padding-bottom: 7px !important;
-		top: 7px !important;
+		display: grid !important;
+		/* display: flex !important; */
+		/* height: 22px !important; */
+		/* padding-bottom: 7px !important; */
+		/* top: 7px !important; */
 	}
 }
