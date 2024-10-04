@@ -21,6 +21,10 @@ body {
 /* ul { page-break-inside: avoid; } */
 /* li { page-break-inside: avoid; } */
 
+h1 {
+	margin-top: 0;
+}
+
 
 /* ==========================================================================
    Document specific styles

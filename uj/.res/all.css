@@ -50,8 +50,8 @@ dfn,
 }
 
 h1 {
-	line-height:1.75;
-	line-height:calc(150% + .625vw);
+	/* line-height:1.75; */
+	/* line-height:calc(150% + .625vw); */
 }
 
 h5,
