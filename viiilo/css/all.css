@@ -91,6 +91,10 @@ del.correct-maxpoints {
 }
 
 .exam-question { max-width: 40em; }
+.exam-question-multianswer {
+	list-style-type: none;
+	margin-left: 0;
+}
 
 .hanja > li + li { padding-top: 1em; }
 
