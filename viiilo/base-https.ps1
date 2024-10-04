@@ -1,11 +1,5 @@
 Push-Location -LiteralPath $PSScriptRoot
 
-function End-Script {
-	Pop-Location
-	Pause
-	Break
-}
-
 $Path = "https://twilczynski.com/"
 
 Get-ChildItem -Path "index.html" -Recurse | ForEach-Object {
@@ -18,5 +12,3 @@ Get-ChildItem -Path "index.html" -Recurse | ForEach-Object {
 		}
 	) | Set-Content -LiteralPath $File -NoNewline
 }
-
-End-Script
