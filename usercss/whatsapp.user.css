@@ -6,6 +6,8 @@
 @updateURL https://twilczynski.com/usercss/whatsapp.user.css
 ==/UserStyle== */
 
-#whatsapp-web .xrtxmta.x1bhl96m {
-	text-shadow: none !important;
+@-moz-document domain("web.whatsapp.com") {
+	.xrtxmta.x1bhl96m {
+		text-shadow: none !important;
+	}
 }
