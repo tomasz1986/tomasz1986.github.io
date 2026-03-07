@@ -2,7 +2,7 @@
 @name      youtube.css
 @namespace https://twilczynski.com/usercss
 @author    tomasz86 <twilczynski@mailbox.org> (https://twilczynski.com)
-@version   1.1.1
+@version   1.1.2
 @updateURL https://twilczynski.com/usercss/youtube.user.css
 ==/UserStyle== */
 
@@ -31,7 +31,7 @@
 	}
 
 	/* Play/Pause button */
-	player-middle-controls { top: calc(100% - 90px) !important; }
+	player-middle-controls { top: calc(100% - 60px) !important; }
 	.player-controls-content { visibility: visible !important; }
 	.player-controls-middle-core-buttons > div:first-child,
 	.player-controls-middle-core-buttons > div:last-child { display: none !important; }
