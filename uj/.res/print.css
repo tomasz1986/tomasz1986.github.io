@@ -28,6 +28,8 @@ body {
 
 h1 { margin-top: 0; }
 
+.completed { text-decoration: inherit; }
+
 strong.correct { display: none; }
 
 tr,
