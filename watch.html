@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<style>
+			html { height:100% }
+			body { height:100%; margin:0 }
+			div { height:100%; overflow:hidden; resize:both; width:100% }
+			object { height:100%; margin: .25em; width:100% }
+		</style>
+	</head>
+<body>
+	<div>
+		<object type="text/html"></object>
+	</div>
+	<script>
+		(function(){
+			var url = new URL(window.location);
+			var videoTitle = document.createElement("textarea");
+			videoTitle.innerHTML = url.searchParams.get("title");
+			document.title = videoTitle.value;
+			var videoId = url.searchParams.get("id");
+			var videoStamp = url.searchParams.get("t");
+			var videoUrl = "https://www.youtube-nocookie.com/embed/" + videoId + "?playlist=" + videoId + "&amp;loop=1" + "&amp;autoplay=1" + "&amp;t=" + videoStamp;
+			<!-- var videoUrl = "https://www.youtube.com/watch?v=" + videoId + "?playlist=" + videoId + "&amp;loop=1" + "&amp;autoplay=1" + "&amp;mode=theatre"; -->
+			<!-- var videoUrl = "https://www.youtube-nocookie.com/embed/" + videoId + "?autoplay=1"; -->
+			document.getElementsByTagName("object")[0].setAttribute("data", videoUrl);
+			<!-- videoUrl = videoUrl.replace(/&amp;/g, '&'); -->
+			<!-- window.location.replace(videoUrl); -->
+		})();
+	</script>
+</body>
+</html>

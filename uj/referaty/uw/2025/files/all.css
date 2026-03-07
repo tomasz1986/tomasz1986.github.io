@@ -1,0 +1,28 @@
+.banmal {
+	background-color: rgb(165, 214, 167);
+}
+
+.nopimmal {
+	background-color: rgb(255, 171, 145);
+}
+
+.banmal-nopimmal {
+	background-color: rgb(144, 202, 249);
+}
+
+table {
+	table-layout: fixed;
+	width: 100%;
+}
+table > thead > tr > th {
+	width: 10%;
+}
+table > thead > tr > th+th {
+	width: 40%;
+}
+table > thead > tr > th+th+th {
+	width: 25%;
+}
+table > thead > tr > th+th+th+th {
+	width: 25%;
+}

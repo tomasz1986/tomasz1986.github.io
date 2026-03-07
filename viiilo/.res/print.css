@@ -1,0 +1,56 @@
+/* ==========================================================================
+   Default style sheet for HTML 4
+   ========================================================================== */
+
+h1{page-break-before:always}h1,h2,h3,h4,h5,h6{page-break-after:avoid}
+/* dl,ol,ul{page-break-before:avoid} */
+
+
+/* ==========================================================================
+   accessible.html
+   ========================================================================== */
+
+:link,
+:visited { content:" ("attr(href)")"; }
+body {
+	font-family: serif;
+	font-size: 160%;
+}
+/* dl, */
+/* ol, */
+/* ul { page-break-inside: avoid; } */
+/* li { page-break-inside: avoid; } */
+
+
+/* ==========================================================================
+   Document specific styles
+   ========================================================================== */
+
+h1 { margin-top: 0; }
+
+strong.correct { display: none; }
+
+tr,
+.exam-question { page-break-inside: avoid; }
+/* .exam-question > p { margin-bottom: 2.12em; } */
+
+
+/* Home page
+   ========================================================================== */
+
+.home h2,
+.home .h2 {
+	/* border-top: 0; */
+	/* padding-top: 0; */
+}
+
+
+/* Multimedia
+   ========================================================================== */
+
+.gallery li { display: block; }
+.gallery img { height: 90mm; max-width: 100%; }
+.gallery object,
+.gallery video { height: 90mm; }
+
+.youtube { display: none; }
