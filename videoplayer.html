@@ -20,12 +20,12 @@
 			videoTitle.innerHTML = url.searchParams.get("title");
 			document.title = videoTitle.value;
 			var videoId = url.searchParams.get("id");
-			<!-- var videoUrl = "https://www.youtube-nocookie.com/embed/" + videoId + "?playlist=" + videoId + "&amp;loop=1" + "&amp;autoplay=1"; -->
-			var videoUrl = "https://www.youtube.com/watch?v=" + videoId + "?playlist=" + videoId + "&amp;loop=1" + "&amp;autoplay=1" + "&amp;mode=theatre";
+			var videoUrl = "https://www.youtube-nocookie.com/embed/" + videoId + "?playlist=" + videoId + "&amp;loop=1" + "&amp;autoplay=1";
+			<!-- var videoUrl = "https://www.youtube.com/watch?v=" + videoId + "?playlist=" + videoId + "&amp;loop=1" + "&amp;autoplay=1" + "&amp;mode=theatre"; -->
 			<!-- var videoUrl = "https://www.youtube-nocookie.com/embed/" + videoId + "?autoplay=1"; -->
-			<!-- document.getElementsByTagName("object")[0].setAttribute("data", videoUrl); -->
-			videoUrl = videoUrl.replace(/&amp;/g, '&');
-			window.location.replace(videoUrl);
+			document.getElementsByTagName("object")[0].setAttribute("data", videoUrl);
+			<!-- videoUrl = videoUrl.replace(/&amp;/g, '&'); -->
+			<!-- window.location.replace(videoUrl); -->
 		})();
 	</script>
 </body>

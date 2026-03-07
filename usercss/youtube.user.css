@@ -2,12 +2,13 @@
 @name      youtube.css
 @namespace https://twilczynski.com/usercss
 @author    tomasz86 <twilczynski@mailbox.org> (https://twilczynski.com)
-@version   1.0.4
+@version   1.1.0
 @updateURL https://twilczynski.com/usercss/youtube.user.css
 ==/UserStyle== */
 
 @-moz-document domain("youtube.com"), domain("youtube-nocookie.com") {
 	/* Hide annoying elements. */
+	yt-closed-captions-toggle-button, /* captions button in embedded player */
 	#video-preview-container, /* preview on hover */
 	.html5-endscreen,
 	.ytp-ce-element-show, /* cards inside video */
@@ -28,4 +29,29 @@
 		margin-right: 3px !important;
 		width: 52px !important;
 	}
+
+	/* Embedded player volume control */
+	.ytdVolumeControlsVolumeControlsContainer {
+		gap: 0 !important;
+		pointer-events: all !important;
+	}
+	.ytdVolumeControlsSliderContainer {
+		background-color: rgba(40, 40, 40, 0.6);
+		margin: -48px 192px 0 0 !important;
+		opacity: 1 !important;
+		overflow: visible !important;
+		padding: 0 !important;
+		transform: none !important;
+		visibility: visible !important;
+		width: 133px !important;
+	}
+
+	/* Embedded player progress bar */
+	.ytdVolumeControlsNativeSlider { padding: 24px 0 !important; }
+	.ytProgressBarLineProgressBarLine { height: 6px !important; }
+
+	/* Embedded player buttom controls */
+	.fullscreen-action-menu { display: none !important; }
+	.fullscreen-controls-always-on .player-controls-bottom { bottom: 30px; }
+	.fullscreen-controls-always-on .watch-page-progress-bar { bottom: 0 !important; }
 }
