@@ -244,6 +244,7 @@ th.schedule-exam {
 th.schedule-exam { font-weight: normal; }
 .schedule-lecture { background-color: rgb(255,245,157); }
 .schedule-presentation { background-color: rgb(165,214,167); }
+.schedule-special { background-color: rgb(144,202,249); }
 .class-schedule > tbody > tr > td > :link,
 .class-schedule > tbody > tr > td > :visited {
 	display: block;
