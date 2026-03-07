@@ -1,0 +1,235 @@
+<!DOCTYPE html><html lang="pl"><head><meta charset="utf-8">
+	<meta name="robots" content="none">
+	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1">
+
+	<title>Warsztaty tłumaczeniowe - grupa 2</title>
+	<meta name="author" content="Tomasz Wilczyński">
+
+	<base href="https://twilczynski.com/">
+	<link rel="icon" href="data:,">
+	<link rel="stylesheet" href="uj/.res/all.css">
+	<link rel="stylesheet" media="print" href="uj/.res/print.css">
+
+	<script>
+		function myFunction() {
+			// Declare variables
+			var input, filter, ul, li, a, i, txtValue;
+			input = document.getElementById('slowka-wyszukiwarka');
+			filter = input.value.toUpperCase();
+			ul = document.getElementById("slowka-lista");
+			li = ul.getElementsByTagName('li');
+
+			// Loop through all list items, and hide those who don't match the search query
+			for (i = 0; i < li.length; i++) {
+				txtValue = li[i].textContent || li[i].innerText;
+				if (txtValue.toUpperCase().indexOf(filter) > -1) {
+					li[i].style.display = "";
+				} else {
+					li[i].style.display = "none";
+				}
+			}
+		}
+	</script>
+</head><body class="home">
+
+<h1>Warsztaty tłumaczeniowe - grupa 2</h1>
+
+<address>
+	dr Tomasz Wilczyński<br>
+	<a href="tomasz1.wilczynski@uj.edu.pl">tomasz1.wilczynski@uj.edu.pl</a><br>
+</address>
+
+<h2>Plan spotkań w semestrze letnim 2025/2026</h2>
+
+<div class="class-schedule-container">
+	<table class="class-schedule">
+		<thead>
+			<tr>
+				<th scope="col">Tydzień</th>
+				<th scope="col">Data</th>
+				<th scope="col">Temat</th>
+			</tr>
+		</thead>
+
+		<tbody>
+			<tr>
+				<th scope="row">1</th>
+				<td>17 marca 2025</td>
+				<td class="schedule-lecture"><a href="uj/projekty/wt/2026/spotkania/1">봄밤의 우리 - część 1</a></td>
+			</tr>
+			<tr>
+				<th scope="row">2</th>
+				<td>24 marca 2025</td>
+				<td class="schedule-lecture"><!--a href="uj/projekty/wt/2026/spotkania/2"-->봄밤의 우리 - część 2<!--/a--></td>
+			</tr>
+			<tr>
+				<th scope="row">3</th>
+				<td>31 marca 2025</td>
+				<td class="schedule-lecture"><!--a href="uj/projekty/wt/2026/spotkania/3"-->봄밤의 우리 - część 3<!--/a--></td>
+			</tr>
+			<tr>
+				<th scope="row">4</th>
+				<td>14 kwietnia 2026</td>
+				<td class="schedule-lecture"><!--a href="uj/projekty/wt/2026/spotkania/4"-->봄밤의 우리 - część 4<!--/a--></td>
+			</tr>
+			<tr>
+				<th scope="row">5</th>
+				<td>21 kwietnia 2026</td>
+				<td class="schedule-lecture"><!--a href="uj/projekty/wt/2026/spotkania/5"-->봄밤의 우리 - część 5<!--/a--></td>
+			</tr>
+			<tr>
+				<th scope="row">6</th>
+				<td>28 kwietnia 2026</td>
+				<td class="schedule-lecture"><!--a href="uj/projekty/wt/2026/spotkania/6"-->봄밤의 우리 - część 6<!--/a--></td>
+			</tr>
+			<tr>
+				<th scope="row">7</th>
+				<td>5 maja 2026</td>
+				<td class="schedule-lecture"><!--a href="uj/projekty/wt/2026/spotkania/7"-->봄밤의 우리 - część 7<!--/a--></td>
+			</tr>
+			<tr>
+				<th scope="row">8</th>
+				<td>12 maja 2026</td>
+				<td class="schedule-lecture"><!--a href="uj/projekty/wt/2026/spotkania/8"-->봄밤의 우리 - część 8<!--/a--></td>
+			</tr>
+			<tr>
+				<th scope="row">9</th>
+				<td>19 maja 2026</td>
+				<td class="schedule-lecture"><!--a href="uj/projekty/wt/2026/spotkania/9"-->봄밤의 우리 - część 9<!--/a--></td>
+			</tr>
+			<tr>
+				<th scope="row">10</th>
+				<td>26 maja 2026</td>
+				<td class="schedule-lecture">sprawdzanie tłumaczenia</td>
+			</tr>
+			<tr>
+				<th scope="row">11</th>
+				<td>2 czerwca 2026</td>
+				<td class="schedule-lecture">sprawdzanie tłumaczenia</td>
+			</tr>
+			<tr>
+				<th scope="row">12</th>
+				<td>? czerwca 2026</td>
+				<td class="schedule-lecture">oficjalne zakończenie warsztatów</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<details>
+	<summary class="h2">Przydatne strony</summary>
+
+	<ul>
+		<li><a href="https://stdict.korean.go.kr/main/main.do">국립국어원 표준국어대사전</a></li>
+		<li><a href="https://dict.naver.com">네이버 사전</a></li>
+		<!-- <li><a href="http://roman.cs.pusan.ac.kr">로마자 변환기</a></li> -->
+		<li><a href="https://krdict.korean.go.kr/eng/mainAction">National Institute of Korean Language's Korean-English Learners' Dictionary</a></li>
+		<li><a href="https://en.bab.la/dictionary/english-polish">bab.la English-Polish dictionary</a></li>
+		<li><a href="https://pl.wikipedia.org/wiki/Cudzys%C5%82%C3%B3w">Cudzysłów w języku polskim</a></li>
+		<li><a href="https://style-guide.europa.eu/pl/content/-/isg/topic?identifier=10-polish-text-rules">Zasady dotyczące tekstów w języku polskim</a></li>
+		<li><a href="https://poradniajezykowa.uw.edu.pl/porady/przecinek-na-poczatku-zdania">przecinek na początku zdania</a></li>
+	</ul>
+</details>
+
+<details open>
+	<summary class="h2">Słówka</summary>
+
+	<input type="text" id="slowka-wyszukiwarka" onkeyup="myFunction()" placeholder="Szukaj.." style="display: block; height: 2em; margin: 1.12em 0; width: 100%">
+
+	<ul id="slowka-lista">
+		<li>~ㄹ 겨를이 없다 - być zbyt zajętym (aby coś zrobić)</li>
+		<li>~로 하여금 = 에게</li>
+		<li>~은 물론 - nie tylko …, ale także …</li>
+		<li>가난 - bieda</li>
+		<li>가업 - biznes rodzinny</li>
+		<li>간판대 - słup ogłoszeniowy</li>
+		<li>감동 - wzruszenie</li>
+		<li>감상 - odczucia</li>
+		<li>개념 - pojęcie</li>
+		<li>거스르다 - postępować wbrew</li>
+		<li>결여 - brak</li>
+		<li>고요하다 = 조용하다</li>
+		<li>과제(물) - zadanie</li>
+		<li>구시가지 - stare miasto</li>
+		<li>구조 - struktura</li>
+		<li>귀국하다 - wrócić do kraju</li>
+		<li>그저 = 그냥</li>
+		<li>낙 - przyjemność</li>
+		<li>난생처음 - pierwszy raz w życiu</li>
+		<li>남짓 = 이상</li>
+		<li>눈송이 - płatek śniegu]</li>
+		<li>능숙하다 - być biegłym</li>
+		<li>대사 - tekst, dialog</li>
+		<li>덧없이 - nagle</li>
+		<li>독해하다 = 읽다</li>
+		<li>두개골 - czaszka</li>
+		<li>뒤죽박죽 - pomieszanie, miszmasz</li>
+		<li>들떠다 - być podekscytowanym</li>
+		<li>막이 내리다 - opuścić kurtynę</li>
+		<li>망설이다 - wahać się</li>
+		<li>명문 대학 - renomowana uczelnia</li>
+		<li>무렵 = 시간</li>
+		<li>묻다 - być zaplamionym</li>
+		<li>벅차다 - być przytłaczającym</li>
+		<li>베끼다 - przepisywać</li>
+		<li>불멸 - nieśmiertelność</li>
+		<li>뻗다 - wyciągnąć (np. rękę)</li>
+		<li>상기되다 = 얼굴이 붉어지다</li>
+		<li>상영하다 - wyświetlać, wystawiać (np. sztukę)</li>
+		<li>소란 - hałas</li>
+		<li>습격 - atak z zaskoczenia</li>
+		<li>시제 - czas (w języku)</li>
+		<li>실상 = 현실</li>
+		<li>애를 쓰다 = 노력하다</li>
+		<li>야망 - ambicja, aspiracja</li>
+		<li>어학연수 - kurs językowy</li>
+		<li>억양 - akcent</li>
+		<li>얼버무리다 - unikać jasnej odpowiedzi, „kręcić”</li>
+		<li>엉망 - bałagan</li>
+		<li>엿새 = 6일</li>
+		<li>영속하다 - żyć dalej</li>
+		<li>의지하다 - opierać się</li>
+		<li>이따금 = 가끔</li>
+		<li>이력 - historia (np. życia)</li>
+		<li>이면 - ciemna strona</li>
+		<li>일렁이다 - kołysać się</li>
+		<li>임용 - zatrudnienie</li>
+		<li>잇다 - kontynuować</li>
+		<li>자리를 잡다 - ustatkować się</li>
+		<li>잠시다 - być pogrążonym (w czymś)</li>
+		<li>잠잠하다 - być spokojnym</li>
+		<li>재시험 - egzamin poprawkowy</li>
+		<li>전성기 - szczyt (np. wieku, kariery)</li>
+		<li>정가 - ustalona cena</li>
+		<li>정독하다 - wczytywać się</li>
+		<li>정의하다 - definiować</li>
+		<li>정작 - ostatecznie, w rzeczywistości</li>
+		<li>조 발표 - prezentacja grupowa</li>
+		<li>종종 = 가끔, 자주</li>
+		<li>줄곧 - ciągle, przez cały czas</li>
+		<li>짓밟다 - rozdeptać</li>
+		<li>짙다 - być ciemnym</li>
+		<li>쫓다 - gonić</li>
+		<li>착각하다 - wydawać się</li>
+		<li>처지 = 상황</li>
+		<li>초라하다 - być nędznym</li>
+		<li>취소 - odwołanie, zwrot (np. biletu)</li>
+		<li>취하다 - zanurzyć się (w czymś)</li>
+		<li>침묵 - milczenie</li>
+		<li>크나크다 = 매우 크다</li>
+		<li>털다 - strzepać</li>
+		<li>해박하다 - być rozległym (np. o wiedzy)</li>
+		<li>행로 - droga życiowa</li>
+		<li>헐값 - okazyjna cena</li>
+		<li>형편없다 = 매우 좋지 않다</li>
+		<li>홀연히 = 갑자기</li>
+		<li>환하다 - być szerokim (o uśmiechu)</li>
+		<li>회화 = 말하기</li>
+		<li>흩날리다 - fruwać</li>
+		<li>희곡 - dramat</li>
+		<li>희박하다 = 낮다, 적다, 약하다</li>
+	</ul>
+
+</details>
+
+</body></html>
