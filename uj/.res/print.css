@@ -16,7 +16,7 @@ h2:nth-of-type(2) {page-break-before:always}
 :visited { content:" ("attr(href)")"; }
 body {
 	font-family: serif;
-	font-size: 129%;
+	font-size: 100%;
 }
 /* dl, */
 /* ol, */
