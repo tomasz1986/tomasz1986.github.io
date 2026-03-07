@@ -124,6 +124,12 @@ del.correct-maxpoints {
 	margin-left: 0;
 }
 
+.exam-answer {
+	border-bottom: 1px solid;
+	min-height: 1em;
+	width: 100%;
+}
+
 .hanja > li + li { padding-top: 1em; }
 
 .h2 {
