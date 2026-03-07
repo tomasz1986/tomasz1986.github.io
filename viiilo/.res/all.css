@@ -43,6 +43,8 @@ code,
 	word-break: break-word;
 }
 
+.completed { text-decoration:line-through; }
+
 dfn,
 .dfn {
 	font-style: normal;
@@ -56,6 +58,8 @@ h1 {
 
 h5,
 h6 { font-size: inherit; }
+
+.hidden { display: none; }
 
 hr { border-top: 1px solid; }
 hr.homework {
