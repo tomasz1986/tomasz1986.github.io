@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Youtube Controls Always Visible
-// @version      1.0.0
+// @version      1.0.1
 // @author       Tomasz Wilczyński
 // @match        *://www.youtube.com/*
 // @match        *://www.youtube-nocookie.com/*
@@ -36,8 +36,8 @@
 		progressBar.style = `left: 0px; transform: scaleX(${percentagePlayed})`
 
 		// Scrubber button
-		// const scrubberButton = document.querySelector('.ytp-scrubber-container')
-		// scrubberButton.style = `left: 0px; transform: translateX(${percentagePlayed})px`
+		const scrubberButton = document.querySelector('.ytp-scrubber-container')
+		scrubberButton.style = `left: 0px; transform: translateX(${percentagePlayed * video.offsetWidth}px)`
 
 		// Buffered bar
 		var percentageBuffered = video.buffered.end(0) / video.duration
