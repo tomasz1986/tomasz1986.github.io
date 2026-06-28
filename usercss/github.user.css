@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name      github.css
+@namespace https://twilczynski.com/usercss
+@author    tomasz86 <twilczynski@mailbox.org> (https://twilczynski.com)
+@version   1.0.0
+@updateURL https://twilczynski.com/usercss/github.user.css
+==/UserStyle== */
+
+@-moz-document domain("github.com") {
+	pre > code {
+		white-space: pre-wrap !important;
+	}
+}
