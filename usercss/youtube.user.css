@@ -2,7 +2,7 @@
 @name      youtube.css
 @namespace https://twilczynski.com/usercss
 @author    tomasz86 <twilczynski@mailbox.org> (https://twilczynski.com)
-@version   1.1.4
+@version   1.1.5
 @updateURL https://twilczynski.com/usercss/youtube.user.css
 ==/UserStyle== */
 
@@ -20,7 +20,7 @@
 	.ytp-watch-later-button { display: none !important; }
 
 	/* Keep progress bar always visible. */
-	.ytp-chrome-bottom { opacity: 1 !important; }
+	/* .ytp-chrome-bottom { opacity: 1 !important; } */
 
 	/* Always show volume bar. */
 	.ytp-volume-panel {
