@@ -2,7 +2,7 @@
 @name      youtube.css
 @namespace https://twilczynski.com/usercss
 @author    tomasz86 <twilczynski@mailbox.org> (https://twilczynski.com)
-@version   1.1.3
+@version   1.1.4
 @updateURL https://twilczynski.com/usercss/youtube.user.css
 ==/UserStyle== */
 
@@ -20,8 +20,6 @@
 	.ytp-watch-later-button { display: none !important; }
 
 	/* Keep progress bar always visible. */
-	/* .html5-video-player.playing-mode:not(:hover) .ytp-progress-bar-container { bottom: 0 !important; } */
-	/* .html5-video-player.playing-mode:not(:hover) .ytp-chrome-controls { display: none !important; } */
 	.ytp-chrome-bottom { opacity: 1 !important; }
 
 	/* Always show volume bar. */
@@ -42,7 +40,8 @@
 		pointer-events: all !important;
 	}
 	.ytdVolumeControlsSliderContainer {
-		background-color: rgba(40, 40, 40, 0.6);
+		/* background-color: rgba(40, 40, 40, 0.6) !important; */
+		background-color: transparent !important;
 		margin: -48px 192px 0 0 !important;
 		opacity: 1 !important;
 		overflow: visible !important;
@@ -53,11 +52,11 @@
 	}
 
 	/* Embedded player progress bar */
-    .player-controls-bottom-right { display: none !important; }
+	.player-controls-bottom-right { display: none !important; }
 	.ytdVolumeControlsNativeSlider { padding: 24px 0 !important; }
 	.ytProgressBarLineProgressBarLine { height: 6px !important; }
 
-	/* Embedded player buttom controls */
+	/* Embedded player bottom controls */
 	.fullscreen-action-menu { display: none !important; }
 	.fullscreen-controls-always-on .player-controls-bottom { bottom: 30px; }
 	.fullscreen-controls-always-on .watch-page-progress-bar { bottom: 0 !important; }
