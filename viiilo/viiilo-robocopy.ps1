@@ -13,6 +13,7 @@ if (Test-Path -LiteralPath $Destination) {
 	Invoke-Expression -Command ($Robocopy + " /mir `"" + (Join-Path -Path $Source -ChildPath "zajecia" | Join-Path -ChildPath "24-25" | Join-Path -ChildPath "jk1") + "`" `"" + (Join-Path -Path $Destination -ChildPath "zajecia" | Join-Path -ChildPath "24-25" | Join-Path -ChildPath "jk1") + "`"")
 	Invoke-Expression -Command ($Robocopy + " /mir `"" + (Join-Path -Path $Source -ChildPath "zajecia" | Join-Path -ChildPath "25-26" | Join-Path -ChildPath "jk1") + "`" `"" + (Join-Path -Path $Destination -ChildPath "zajecia" | Join-Path -ChildPath "25-26" | Join-Path -ChildPath "jk1") + "`"")
 	Invoke-Expression -Command ($Robocopy + " /mir `"" + (Join-Path -Path $Source -ChildPath "zajecia" | Join-Path -ChildPath "25-26" | Join-Path -ChildPath "jk2") + "`" `"" + (Join-Path -Path $Destination -ChildPath "zajecia" | Join-Path -ChildPath "25-26" | Join-Path -ChildPath "jk2") + "`"")
+	Invoke-Expression -Command ($Robocopy + " /mir `"" + (Join-Path -Path $Source -ChildPath "zajecia" | Join-Path -ChildPath "26-27") + "`" `"" + (Join-Path -Path $Destination -ChildPath "zajecia" | Join-Path -ChildPath "26-27") + "`"")
 }
 
 Push-Location -LiteralPath $Destination
