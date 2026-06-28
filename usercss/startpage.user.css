@@ -2,7 +2,7 @@
 @name      startpage.css
 @namespace https://twilczynski.com/usercss
 @author    tomasz86 <twilczynski@mailbox.org> (https://twilczynski.com)
-@version   1.0.3
+@version   1.0.4
 @updateURL https://twilczynski.com/usercss/startpage.user.css
 ==/UserStyle== */
 
@@ -18,4 +18,6 @@
 	.w-gl__anonymous-view-url {
 		/* display: none !important; */
 	}
+
+	#mainline-skip-to + div:first-of-type { display: none !important; }
 }
