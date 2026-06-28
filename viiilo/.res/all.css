@@ -148,6 +148,11 @@ del.correct-maxpoints {
 	margin-left: 0;
 }
 
+.flatlist > li {
+	display: inline-block;
+	padding: 0 .25em;
+}
+
 .topik-textbox {
 	border: 1px solid;
 	padding: .25em .5em;
