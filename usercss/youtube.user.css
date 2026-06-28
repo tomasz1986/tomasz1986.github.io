@@ -2,7 +2,7 @@
 @name      youtube.css
 @namespace https://twilczynski.com/usercss
 @author    tomasz86 <twilczynski@mailbox.org> (https://twilczynski.com)
-@version   1.1.2
+@version   1.1.3
 @updateURL https://twilczynski.com/usercss/youtube.user.css
 ==/UserStyle== */
 
@@ -22,7 +22,7 @@
 	/* Keep progress bar always visible. */
 	/* .html5-video-player.playing-mode:not(:hover) .ytp-progress-bar-container { bottom: 0 !important; } */
 	/* .html5-video-player.playing-mode:not(:hover) .ytp-chrome-controls { display: none !important; } */
-	/* .ytp-chrome-bottom { opacity: 1 !important; } */
+	.ytp-chrome-bottom { opacity: 1 !important; }
 
 	/* Always show volume bar. */
 	.ytp-volume-panel {
